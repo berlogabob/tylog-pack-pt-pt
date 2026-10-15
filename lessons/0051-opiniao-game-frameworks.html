@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Урок 51 — Opinião: game frameworks</title>
+  <link rel="stylesheet" href="../assets/course.css">
+</head>
+<body>
+<header>
+  <p class="muted">Português Europeu · Semana 9 · Dia 3 · Урок 51</p>
+  <h1>Opinião: game frameworks</h1>
+  <p class="lead">Лексика игровых движков (<span lang="pt" class="pt">motor de jogo, biblioteca, desempenho, código aberto, curva de aprendizagem</span>), сравнения <span lang="pt" class="pt">mais … do que, tão … como, melhor / pior</span> и спор в духе Unity vs Godot.</p>
+</header>
+<main>
+<section class="card" aria-labelledby="goal">
+  <h2 id="goal">Результат урока</h2>
+  <ul class="checklist">
+    <li>назвать 20 терминов игровой разработки по-португальски;</li>
+    <li>сравнить два инструмента четырьмя конструкциями сравнения;</li>
+    <li>использовать <span lang="pt">melhor / pior / maior / mais pequeno</span> без ошибок;</li>
+    <li>отстоять выбор движка: мнение + два аргумента + пример, 3 минуты;</li>
+    <li>написать 100–120 слов сравнения двух инструментов.</li>
+  </ul>
+  <p><strong>Режим:</strong> три блока по 30 минут. Связки урока 49 и <span lang="pt">embora</span> урока 50 — обязательны в речи и тексте.</p>
+</section>
+
+<section aria-labelledby="input">
+  <h2 id="input">Сессия 1 — язык и форма <span class="time">30 минут</span></h2>
+  <h3>1. Диалог</h3>
+  <audio controls preload="metadata">
+    <source src="../assets/audio/0051-dialogue.mp3" type="audio/mpeg">
+    Ваш браузер не поддерживает аудио.
+  </audio>
+  <div class="card dialogue" lang="pt" data-audio="0051-dialogue" data-voices="Duarte,Raquel">
+    <p><strong>Alex:</strong> Sofia, este semestre estou a pensar em mudar do Unity para o Godot nas aulas.</p>
+    <p><strong>Sofia:</strong> A sério? Porquê? O Unity é o motor mais usado na indústria.</p>
+    <p><strong>Alex:</strong> Sim, mas o Godot é código aberto e gratuito. Os alunos não precisam de licença.</p>
+    <p><strong>Sofia:</strong> Concordo, mas o desempenho do Unity é melhor em projetos grandes.</p>
+    <p><strong>Alex:</strong> Para um protótipo de dez semanas, o desempenho não é o problema. A curva de aprendizagem é mais importante.</p>
+    <p><strong>Sofia:</strong> E qual é mais fácil?</p>
+    <p><strong>Alex:</strong> Na minha opinião, o Godot é tão fácil como o Unity, e o editor é mais leve.</p>
+    <p><strong>Sofia:</strong> Tão fácil? O Unity tem mais tutoriais e uma comunidade maior.</p>
+    <p><strong>Alex:</strong> É verdade. Embora a documentação do Godot seja mais curta, é mais clara.</p>
+    <p><strong>Sofia:</strong> Então fazes uma aula com cada motor e os alunos escolhem?</p>
+    <p><strong>Alex:</strong> Boa ideia. Assim comparam as ferramentas e decidem.</p>
+    <p><strong>Sofia:</strong> Para mim, é a melhor solução. Depois conta-me o que escolheram.</p>
+  </div>
+  <ol>
+    <li>Без текста: какие два аргумента за Godot, какие два за Unity, чем всё кончилось?</li>
+    <li>С текстом: выпишите все сравнения. Их не меньше семи.</li>
+    <li>Без текста: реплики Alex.</li>
+  </ol>
+
+  <h3>2. Лексика</h3>
+  <table>
+    <thead><tr><th>Português</th><th>Значение</th><th>Português</th><th>Значение</th></tr></thead>
+    <tbody>
+      <tr><td lang="pt">o motor de jogo</td><td>игровой движок</td><td lang="pt">a biblioteca</td><td>библиотека</td></tr>
+      <tr><td lang="pt">o desempenho</td><td>производительность</td><td lang="pt">o código aberto</td><td>открытый код</td></tr>
+      <tr><td lang="pt">a curva de aprendizagem</td><td>кривая обучения</td><td lang="pt">as ferramentas</td><td>инструменты</td></tr>
+      <tr><td lang="pt">o protótipo</td><td>прототип</td><td lang="pt">a licença</td><td>лицензия</td></tr>
+      <tr><td lang="pt">gratuito / pago</td><td>бесплатный / платный</td><td lang="pt">o editor</td><td>редактор</td></tr>
+      <tr><td lang="pt">a documentação</td><td>документация</td><td lang="pt">a comunidade</td><td>сообщество</td></tr>
+      <tr><td lang="pt">o tutorial</td><td>туториал</td><td lang="pt">a linguagem de programação</td><td>язык программирования</td></tr>
+      <tr><td lang="pt">multiplataforma</td><td>кроссплатформенный</td><td lang="pt">a atualização / a versão</td><td>обновление / версия</td></tr>
+      <tr><td lang="pt">o erro (bug)</td><td>ошибка, баг</td><td lang="pt">compilar / exportar para</td><td>компилировать / экспортировать на</td></tr>
+      <tr><td lang="pt">a cena / o objeto</td><td>сцена / объект</td><td lang="pt">a física / a animação</td><td>физика / анимация</td></tr>
+      <tr><td lang="pt">leve / pesado</td><td>лёгкий / тяжёлый (о программе)</td><td lang="pt">o principiante</td><td>новичок</td></tr>
+    </tbody>
+  </table>
+  <p><strong>PT-PT:</strong> <span lang="pt">o ecrã, o rato, o teclado, o computador portátil, o telemóvel</span>. Слово <span lang="pt">framework</span> в речи оставляют по-английски (<span lang="pt">a framework</span>, ж. р.), но в учебном контексте безопаснее <span lang="pt">o motor</span> для движка и <span lang="pt">a biblioteca</span> для библиотеки.</p>
+
+  <h3>3. Сравнение</h3>
+  <table>
+    <thead><tr><th>Конструкция</th><th>Значение</th><th>Пример</th></tr></thead>
+    <tbody>
+      <tr><td lang="pt">mais + прил. + do que</td><td>более … чем</td><td lang="pt">O Unity é mais pesado do que o Godot.</td></tr>
+      <tr><td lang="pt">menos + прил. + do que</td><td>менее … чем</td><td lang="pt">O Godot é menos conhecido do que o Unity.</td></tr>
+      <tr><td lang="pt">tão + прил. + como</td><td>такой же … как</td><td lang="pt">O Godot é tão fácil como o Unity.</td></tr>
+      <tr><td lang="pt">tanto(s)/tanta(s) + сущ. + como</td><td>столько же … сколько</td><td lang="pt">Não tem tantos tutoriais como o Unity.</td></tr>
+      <tr><td lang="pt">verbo + mais / menos do que</td><td>глагол + больше / меньше</td><td lang="pt">O Godot pesa menos do que o Unity.</td></tr>
+      <tr><td lang="pt">o / a mais + прил.</td><td>самый …</td><td lang="pt">É o motor mais usado na indústria.</td></tr>
+    </tbody>
+  </table>
+  <p><strong>Неправильные:</strong> <span lang="pt">bom → melhor, mau → pior, grande → maior, pequeno → mais pequeno</span>. PT-PT говорит <span lang="pt">mais pequeno</span>; бразильское <span lang="pt">menor</span> в PT-PT звучит формально. Никогда <span lang="pt">*mais bom, *mais grande</span>. Наречия: <span lang="pt">bem → melhor, mal → pior</span>: <span lang="pt">O Godot exporta melhor para a web.</span></p>
+  <p><span lang="pt">do que</span> и <span lang="pt">que</span> оба верны; в PT-PT чаще <span lang="pt">do que</span>. После <span lang="pt">tão … como</span> — только <span lang="pt">como</span>, не <span lang="pt">*do que</span>.</p>
+
+  <details>
+    <summary>Упражнение A — постройте сравнение из подсказки</summary>
+    <p>Пример: <span lang="pt">Unity / pesado / + / Godot → O Unity é mais pesado do que o Godot.</span></p>
+    <ol lang="pt">
+      <li>Godot / leve / + / Unity</li>
+      <li>documentação do Godot / longa / − / documentação do Unity</li>
+      <li>curva de aprendizagem do Unreal / difícil / = / curva do Unity</li>
+      <li>comunidade do Unity / grande / + / comunidade do Godot</li>
+      <li>desempenho do Godot em 3D / bom / − / desempenho do Unity (pior)</li>
+      <li>editor do Godot / pequeno / + / editor do Unity</li>
+      <li>Godot / tutoriais / = / Unity (não)</li>
+      <li>protótipo em 2D / rápido / + / protótipo em 3D</li>
+    </ol>
+    <details><summary>Ответы</summary><div class="answer" lang="pt"><p>1. O Godot é mais leve do que o Unity. 2. A documentação do Godot é menos longa do que a documentação do Unity. 3. A curva de aprendizagem do Unreal é tão difícil como a curva do Unity. 4. A comunidade do Unity é maior do que a comunidade do Godot. 5. O desempenho do Godot em 3D é pior do que o desempenho do Unity. 6. O editor do Godot é mais pequeno do que o editor do Unity. 7. O Godot não tem tantos tutoriais como o Unity. 8. Um protótipo em 2D é mais rápido do que um protótipo em 3D.</p></div></details>
+  </details>
+
+  <details>
+    <summary>Упражнение B — вставьте слово из таблицы лексики</summary>
+    <ol lang="pt">
+      <li>O Godot é ___: qualquer pessoa pode ler e mudar o código.</li>
+      <li>Os alunos fazem um ___ em dez semanas, não um jogo completo.</li>
+      <li>Com um computador fraco, o ___ do editor é mau.</li>
+      <li>A ___ do Unreal é muito difícil para principiantes.</li>
+      <li>Para usar o Unity numa empresa, é preciso pagar uma ___.</li>
+      <li>Quando o jogo está pronto, ___ para Windows e para a web.</li>
+      <li>Não percebo esta função. Vou ler a ___.</li>
+      <li>Há um ___ na física: o objeto atravessa a parede.</li>
+    </ol>
+    <details><summary>Ответы</summary><p class="answer" lang="pt">código aberto; protótipo; desempenho; curva de aprendizagem; licença; exportamos; documentação; erro (bug).</p></details>
+  </details>
+
+  <details>
+    <summary>Упражнение C — исправьте ошибку в сравнении</summary>
+    <ol lang="pt">
+      <li>O Unity é mais bom do que o Godot para 3D.</li>
+      <li>O editor do Godot é menor do que o do Unity.</li>
+      <li>O Godot é tão leve do que o Unity.</li>
+      <li>A comunidade do Unity é mais grande.</li>
+      <li>O Godot tem tanto tutoriais como o Unity.</li>
+      <li>O Unreal exporta mais bem para consolas.</li>
+    </ol>
+    <details><summary>Ответы</summary><p class="answer" lang="pt">1. mais bom → melhor. 2. menor → mais pequeno (PT-PT). 3. tão leve do que → tão leve como. 4. mais grande → maior. 5. tanto tutoriais → tantos tutoriais. 6. mais bem → melhor.</p></details>
+  </details>
+
+  <details>
+    <summary>Упражнение D — мнение о движке: закончите фразу с аргументом</summary>
+    <ol lang="pt">
+      <li>Na minha opinião, o Godot é melhor para principiantes porque …</li>
+      <li>Para mim, o Unity continua a ser a melhor escolha para …</li>
+      <li>Embora o Unreal tenha o melhor desempenho, …</li>
+      <li>Concordo que o código aberto é importante, mas …</li>
+      <li>Uma biblioteca é mais leve do que um motor, por isso …</li>
+      <li>Se o computador do aluno é fraco, …</li>
+    </ol>
+    <details><summary>Возможные ответы</summary><div class="answer" lang="pt"><p>1. … é gratuito e o editor é leve. 2. … quem quer trabalhar na indústria. 3. … a curva de aprendizagem é muito difícil para dez semanas. 4. … a comunidade também conta. 5. … é melhor para um jogo pequeno em 2D. 6. … o Godot funciona melhor do que o Unity.</p></div></details>
+  </details>
+</section>
+
+<section aria-labelledby="listen">
+  <h2 id="listen">Сессия 2 — слух и произношение <span class="time">30 минут</span></h2>
+  <ol>
+    <li>Диалог без текста: запишите все услышанные сравнения.</li>
+    <li>С текстом: слушайте <span lang="pt">melhor</span> — «мильóр», с мягким <em>lh</em>; <span lang="pt">pior</span> — «пиóр», один слог после <em>p</em>.</li>
+    <li>Shadowing реплик Sofia — она задаёт вопросы и возражает: копируйте восходящую интонацию.</li>
+    <li>Монолог ниже — без текста: какой инструмент выбирает Inês и почему.</li>
+  </ol>
+  <h3>Монолог — Inês о выборе инструмента для веб-игры</h3>
+  <audio controls preload="metadata">
+    <source src="../assets/audio/0051-audio2.mp3" type="audio/mpeg">
+    Ваш браузер не поддерживает аудио.
+  </audio>
+  <div class="card dialogue" lang="pt" data-audio="0051-audio2">
+    <p><strong>Inês:</strong> Para o projeto da game jam, escolhi uma biblioteca em vez de um motor. Na minha opinião, para um jogo pequeno em 2D no browser, uma biblioteca é mais leve e mais rápida do que o Godot ou o Unity. Não tem editor, é verdade, e a curva de aprendizagem é um pouco maior no início, porque tudo é código. Mas o desempenho na web é melhor e o ficheiro final é muito mais pequeno. Além disso, é código aberto e tem uma documentação tão boa como a dos motores grandes. Embora a minha equipa prefira o Godot, acho que, para quarenta e oito horas, esta é a escolha certa. Se o jogo crescer, mudamos de ferramenta.</p>
+  </div>
+  <div class="card">
+    <h3>Наблюдения PT-PT</h3>
+    <ul>
+      <li><span lang="pt">do que</span> в потоке — «дук»: <em>o</em> редуцируется до «у», конечное <em>e</em> почти исчезает.</li>
+      <li><span lang="pt">tão … como</span>: <span lang="pt">tão</span> носовой, <span lang="pt">como</span> с редуцированным конечным «у».</li>
+      <li><span lang="pt">desempenho</span> — ударение на <em>pe</em>, <em>nh</em> мягкое: «дезэмпéню».</li>
+    </ul>
+  </div>
+  <details>
+    <summary>Проверка понимания — монолог</summary>
+    <ol><li>Что выбрала Inês: движок или библиотеку?</li><li>Для какого типа игры?</li><li>Два минуса библиотеки?</li><li>Два плюса?</li><li>Что предпочитает её команда?</li><li>Сколько длится game jam?</li><li>Что будет, если игра вырастет?</li></ol>
+    <details><summary>Ответы</summary><p class="answer">библиотеку; маленькая 2D-игра в браузере; нет редактора, кривая обучения в начале круче; лучше производительность в вебе, файл намного меньше (плюс открытый код и хорошая документация); Godot; 48 часов; сменят инструмент.</p></details>
+  </details>
+</section>
+
+<section aria-labelledby="output">
+  <h2 id="output">Сессия 3 — речь и письмо <span class="time">30 минут</span></h2>
+  <h3>1. Подстановочная речь</h3>
+  <ul lang="pt">
+    <li>O <strong>Godot</strong> é mais <strong>leve</strong> do que o <strong>Unity</strong>.</li>
+    <li>O <strong>Unity</strong> tem mais <strong>tutoriais</strong> do que o <strong>Godot</strong>.</li>
+    <li>O <strong>Godot</strong> é tão <strong>fácil</strong> como o <strong>Unity</strong>.</li>
+    <li>O desempenho do <strong>Unreal</strong> é melhor, mas a curva de aprendizagem é pior.</li>
+    <li>Embora o <strong>Unity</strong> seja <strong>mais usado</strong>, prefiro o <strong>Godot</strong> porque <strong>é gratuito</strong>.</li>
+    <li>Para <strong>um protótipo</strong>, o melhor é <strong>uma biblioteca</strong>.</li>
+  </ul>
+  <h3>2. Мнение 3 минуты</h3>
+  <p>Тема: <span lang="pt">«Qual é o melhor motor para principiantes?»</span> Структура: мнение (1 фраза) → аргумент 1 со сравнением → аргумент 2 со сравнением → конкретный пример из ваших занятий → вывод с <span lang="pt">por isso</span>. Запишите одним дублем, затем посчитайте сравнения (минимум четыре) и связки (минимум четыре).</p>
+  <h3>3. Письмо</h3>
+  <p>100–120 слов: сравните два инструмента, которые вы реально используете (движок, библиотека, редактор, даже DAW для музыки). Обязательно: <span lang="pt">mais … do que, tão … como, melhor</span> или <span lang="pt">pior</span>, одно <span lang="pt">embora</span>, одно <span lang="pt">por isso</span>.</p>
+
+  <details>
+    <summary>Опора — открыть только если застряли</summary>
+    <div class="answer" lang="pt"><p>Nas minhas aulas uso o Unity e o Godot, e para mim cada um tem o seu lugar. O Unity é mais conhecido e tem uma comunidade maior, por isso os alunos encontram tutoriais para tudo. No entanto, é mais pesado do que o Godot e precisa de licença nas empresas. O Godot é gratuito e de código aberto; o editor é mais leve e a documentação é tão clara como a do Unity, embora seja mais curta. Para 3D, o desempenho do Unity é melhor. Para um protótipo em 2D de dez semanas, o Godot é a melhor escolha, porque os alunos começam a programar no primeiro dia.</p></div>
+  </details>
+
+  <h3>4. Drops — 5 минут дополнительно</h3>
+  <ol>
+    <li>Тема «технологии» или «компьютер».</li>
+    <li>С каждым из 5 слов — фраза со сравнением.</li>
+  </ol>
+</section>
+
+<section class="card" aria-labelledby="recall">
+  <h2 id="recall">Контроль без подсказок <span class="time">5–7 минут</span></h2>
+  <p>Закройте урок и выполните:</p>
+  <ol>
+    <li>Назовите 15 слов из таблицы лексики с артиклями.</li>
+    <li>Четыре конструкции сравнения с примером на каждую.</li>
+    <li>Четыре неправильные формы (<span lang="pt">melhor, pior, maior, mais pequeno</span>) в фразах.</li>
+    <li>Два аргумента за Godot и два за Unity, каждый с <span lang="pt">porque</span>.</li>
+    <li>Одна фраза с <span lang="pt">embora</span> + сравнение.</li>
+  </ol>
+  <p><strong>Урок завершён</strong>, если удалось выполнить 4 из 5 пунктов без чтения. Ошибки — в журнал.</p>
+</section>
+
+<section aria-labelledby="tomorrow">
+  <h2 id="tomorrow">Повтор завтра <span class="time">10 минут</span></h2>
+  <ul class="checklist"><li>лексика: закрыть русскую колонку, назвать все слова;</li><li>упражнение C заново вслух;</li><li>диалог без текста, роль Alex;</li><li>мнение 3 минуты на новую тему: <span lang="pt">«2D ou 3D no primeiro semestre?»</span></li></ul>
+</section>
+
+<section aria-labelledby="sources">
+  <h2 id="sources">Основные источники курса</h2>
+  <ul>
+    <li><a href="https://www.lidel.pt/pt/catalogo/portugues-europeu-lingua-estrangeira/metodos/passaporte-para-portugues-1-edicao-atualizada-pack-livro-do-aluno-caderno-de-exercicios/">Passaporte para Português 1 — Edição Atualizada</a></li>
+    <li><a href="https://www.practiceportuguese.com/">Practice Portuguese — European Portuguese</a></li>
+  </ul>
+</section>
+</main>
+<footer><nav class="pager"><a href="0050-embora-se-quando.html">← Урок 50</a> <a href="../index.html">Índice</a> <a href="0052-opiniao-ensino.html">Урок 52 →</a></nav><p class="muted">Если что-то непонятно, спросите преподавателя до следующего блока. Не накапливайте непроверенные догадки.</p></footer>
+</body>
+</html>
