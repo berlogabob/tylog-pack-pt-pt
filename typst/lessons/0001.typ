@@ -14,7 +14,7 @@
   ("Sofia", "Olá! Bom dia. Como te chamas?"),
   ("Alex", "Chamo-me Alex. E tu?"),
   ("Sofia", "Eu sou a Sofia. És estudante?"),
-  ("Alex", "Não, não sou estudante. Sou professor no IADE."),
+  ("Alex", "Não, não sou estudante. Sou professor na Escola Lumen."),
   ("Sofia", "Muito prazer, Alex."),
   ("Alex", "Igualmente. Até amanhã!"),
 ))])
@@ -112,7 +112,7 @@ zero, um/uma, dois/duas, três, quatro, cinco, seis, sete, oito, nove, dez, onze
 
 === 2. Мини-роль
 
-Представьте первый день в IADE. Поздоровайтесь, назовите себя, профессию и город; задайте собеседнику четыре вопроса; попрощайтесь. Запишите 60–90 секунд одним дублем.
+Представьте первый день в Escola Lumen. Поздоровайтесь, назовите себя, профессию и город; задайте собеседнику четыре вопроса; попрощайтесь. Запишите 60–90 секунд одним дублем.
 
 
 === 3. Письмо
@@ -160,11 +160,11 @@ O senhor é português? / O senhor não é português.
 
 ]),
   ([Проверка понимания], [
-Alex; нет; в IADE; завтра.
+Alex; нет; в Escola Lumen; завтра.
 
 ]),
   ([Опора — открыть только если застряли], [
-Olá! Chamo-me \_\_\_\_. Sou de \_\_\_\_, mas vivo em \_\_\_\_. Sou \_\_\_\_. Trabalho no IADE. Não sou estudante. Gosto de música e de bateria. E tu? Quem és? Muito prazer!
+Olá! Chamo-me \_\_\_\_. Sou de \_\_\_\_, mas vivo em \_\_\_\_. Sou \_\_\_\_. Trabalho na Escola Lumen. Não sou estudante. Gosto de música e de bateria. E tu? Quem és? Muito prazer!
 
 ]),
 

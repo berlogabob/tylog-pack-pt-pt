@@ -1,5 +1,5 @@
 #import "../course.typ": *
-#show: lesson.with((n: 63, week: 11, day: 3, title: [Resolver um problema], lead: [Бронь аудитории, накладка в расписании, сломанное оборудование в IADE. Фразы переговоров: #pt[Há um problema com…, Será possível…?, Em alternativa…, Proponho que…, Fica combinado, Agradeço desde já]. Один и тот же вопрос по телефону и в письме.]))
+#show: lesson.with((n: 63, week: 11, day: 3, title: [Resolver um problema], lead: [Бронь аудитории, накладка в расписании, сломанное оборудование в Escola Lumen. Фразы переговоров: #pt[Há um problema com…, Será possível…?, Em alternativa…, Proponho que…, Fica combinado, Agradeço desde já]. Один и тот же вопрос по телефону и в письме.]))
 
 == Сессия 1 — язык и форма  #pill("30 минут")
 
@@ -14,7 +14,7 @@
 #audio-ref("0063-dialogue")
 
 #dialogue((
-  ("Marta", "Secretaria do IADE, bom dia. Fala a Marta."),
+  ("Marta", "Secretaria da Escola Lumen, bom dia. Fala a Marta."),
   ("Alex", "Bom dia, Marta. É o Alex, da área de jogos. Estou a ligar por causa da reserva da sala 2.3 para quinta-feira."),
   ("Marta", "Um momento, deixe-me ver. Sim, a sala está reservada para a turma de Design de Comunicação, das catorze às dezasseis."),
   ("Alex", "Pois, há um problema com isso. Eu fiz o pedido há duas semanas e recebi a confirmação por email."),

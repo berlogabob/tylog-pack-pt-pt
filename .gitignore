@@ -4,3 +4,6 @@ dist/
 pdf/
 assets/audio/
 *.bak
+.cache/
+.pi-runs/
+__pycache__/

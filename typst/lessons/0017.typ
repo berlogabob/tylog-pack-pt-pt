@@ -1,5 +1,5 @@
 #import "../course.typ": *
-#show: lesson.with((n: 17, week: 3, day: 5, title: [Entrevista: perguntas], lead: [Полный набор вопросительных слов, #pt[porquê / porque], #pt[qual / quais], десять вопросов коллеге. Интервью для газеты IADE.]))
+#show: lesson.with((n: 17, week: 3, day: 5, title: [Entrevista: perguntas], lead: [Полный набор вопросительных слов, #pt[porquê / porque], #pt[qual / quais], десять вопросов коллеге. Интервью для газеты Escola Lumen.]))
 
 == Сессия 1 — язык и форма  #pill("30 минут")
 
@@ -14,10 +14,10 @@
 #audio-ref("0017-dialogue")
 
 #dialogue((
-  ("Sofia", "Alex, obrigada por esta entrevista para o jornal do IADE. Primeira pergunta: de onde és?"),
+  ("Sofia", "Alex, obrigada por esta entrevista para o jornal da Escola Lumen. Primeira pergunta: de onde és?"),
   ("Alex", "Sou russo, mas vivo em Lisboa há dois anos."),
   ("Sofia", "Porque é que vives em Portugal?"),
-  ("Alex", "Porque gosto do país e porque trabalho no IADE."),
+  ("Alex", "Porque gosto do país e porque trabalho na Escola Lumen."),
   ("Sofia", "O que é que ensinas exatamente?"),
   ("Alex", "Ensino programação de jogos. Os alunos aprendem a usar motores de jogo."),
   ("Sofia", "Qual é o teu motor de jogo preferido?"),
@@ -58,7 +58,7 @@
   [onde / de onde / aonde], [где / откуда / куда], [Onde moras? De onde és? Aonde vais?],
   [quando], [когда], [Quando é que ensaias?],
   [a que horas], [во сколько], [A que horas começas?],
-  [como], [как], [Como vais para o IADE? Como se escreve?],
+  [como], [как], [Como vais para a Escola Lumen? Como se escreve?],
   [porquê / porque], [почему], [Porquê? Porque é que vives aqui?],
   [para quê], [зачем, для чего], [Para quê este cabo?],
   [quanto / quanta / quantos / quantas], [сколько], [Quanto custa? Quantas turmas tens?],
@@ -91,10 +91,10 @@
 + \_\_\_ é que moras? — Em Lisboa.
 + \_\_\_ é o teu colega? — É o Rui.
 + \_\_\_ é que fazes ao sábado? — Ensaio.
-+ \_\_\_ é o teu email? — alex\@iade.pt.
++ \_\_\_ é o teu email? — alex\@escola-lumen.example.
 + \_\_\_ alunos tens? — Sessenta.
 + \_\_\_ é que começas? — Às nove.
-+ \_\_\_ é que vais para o IADE? — De autocarro.
++ \_\_\_ é que vais para a Escola Lumen? — De autocarro.
 + \_\_\_ é que estudas português? — Porque vivo em Portugal.
 + \_\_\_ és? — De Moscovo.
 + \_\_\_ são as tuas turmas? — A primeira e a terceira.
@@ -147,7 +147,7 @@
 
 === 1. Десять вопросов коллеге
 
-Составьте и произнесите вслух десять вопросов новому коллеге в IADE. Каждый со своим вопросительным словом; минимум шесть — с #pt[é que]. Темы: имя, происхождение, жильё, работа, расписание, транспорт, свободное время, музыка, игры, причины.
+Составьте и произнесите вслух десять вопросов новому коллеге в Escola Lumen. Каждый со своим вопросительным словом; минимум шесть — с #pt[é que]. Темы: имя, происхождение, жильё, работа, расписание, транспорт, свободное время, музыка, игры, причины.
 
 
 === 2. Мини-роль: интервью
@@ -157,7 +157,7 @@
 
 === 3. Письмо
 
-Напишите интервью с собой: пять пар «вопрос — ответ» для газеты IADE (10 предложений). Обязательно: #pt[qual, porque é que, quantos/quantas, com quem, a que horas].
+Напишите интервью с собой: пять пар «вопрос — ответ» для газеты Escola Lumen (10 предложений). Обязательно: #pt[qual, porque é que, quantos/quantas, com quem, a que horas].
 
 
 === 4. Drops — 5 минут дополнительно
@@ -197,7 +197,7 @@ Como te chamas? Onde é que trabalhas? A que horas te levantas? Como é que vais
 ]),
   ([Упражнение B — задайте вопрос к ответу], [
 + — \_\_\_? — Chamo-me Inês.
-+ — \_\_\_? — Trabalho na secretaria do IADE.
++ — \_\_\_? — Trabalho na secretaria da Escola Lumen.
 + — \_\_\_? — Levanto-me às seis e meia.
 + — \_\_\_? — Vou de comboio, porque vivo em Cascais.
 + — \_\_\_? — Tenho duas irmãs.
@@ -216,23 +216,23 @@ Qual; O que; Que; Quais; O que; Que.
 
 ]),
   ([Проверка понимания], [
-для газеты IADE; из России, два года; нравится страна и работает в IADE; использовать игровые движки; Godot, бесплатный и простой; около шестидесяти в трёх группах; два раза в неделю.
+для газеты Escola Lumen; из России, два года; нравится страна и работает в Escola Lumen; использовать игровые движки; Godot, бесплатный и простой; около шестидесяти в трёх группах; два раза в неделю.
 
 ]),
   ([Образец — открыть после того, как составили свои], [
 + Como te chamas?
 + De onde és?
 + Onde é que moras?
-+ O que é que fazes no IADE?
++ O que é que fazes na Escola Lumen?
 + A que horas é que começas de manhã?
-+ Como é que vens para o IADE?
++ Como é que vens para a Escola Lumen?
 + Quantas turmas tens este semestre?
 + Qual é o teu motor de jogo preferido?
 + Porque é que gostas dele?
 + Com quem é que almoças normalmente?
 ]),
   ([Опора — открыть только если застряли], [
-— Qual é a tua profissão? — Sou professor de programação de jogos no IADE. \
+— Qual é a tua profissão? — Sou professor de programação de jogos na Escola Lumen. \
 — Porque é que vives em Lisboa? — Porque gosto da cidade e trabalho aqui. \
 — Quantas turmas tens? — Tenho três turmas, cerca de sessenta alunos. \
 — Com quem é que tocas bateria? — Toco com dois amigos numa banda. \

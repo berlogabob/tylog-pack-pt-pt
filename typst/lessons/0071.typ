@@ -14,7 +14,7 @@
 #card(none, [
 #strong[AVISO — Empréstimo de equipamento audiovisual]
 
-A partir de 1 de outubro, o empréstimo de equipamento audiovisual (câmaras, microfones, colunas e cabos) passa a ser feito através da plataforma online do IADE. Os professores e os alunos devem fazer o pedido com, pelo menos, dois dias úteis de antecedência. O equipamento pode ser levantado na secretaria técnica, no piso 0, entre as 9h e as 18h, de segunda a sexta-feira. O prazo máximo de empréstimo é de cinco dias; os pedidos para o fim de semana têm de ser entregues até quinta-feira, às 17h. Em caso de atraso na devolução, o utilizador não pode fazer novos pedidos durante duas semanas. Qualquer dano no equipamento deve ser comunicado no momento da devolução. Para dúvidas, contactar a secretaria técnica pela extensão 234 ou pessoalmente, no horário indicado.
+A partir de 1 de outubro, o empréstimo de equipamento audiovisual (câmaras, microfones, colunas e cabos) passa a ser feito através da plataforma online da Escola Lumen. Os professores e os alunos devem fazer o pedido com, pelo menos, dois dias úteis de antecedência. O equipamento pode ser levantado na secretaria técnica, no piso 0, entre as 9h e as 18h, de segunda a sexta-feira. O prazo máximo de empréstimo é de cinco dias; os pedidos para o fim de semana têm de ser entregues até quinta-feira, às 17h. Em caso de atraso na devolução, o utilizador não pode fazer novos pedidos durante duas semanas. Qualquer dano no equipamento deve ser comunicado no momento da devolução. Para dúvidas, contactar a secretaria técnica pela extensão 234 ou pessoalmente, no horário indicado.
 
 ])
 
@@ -109,7 +109,7 @@ No fim de semana passado houve uma game jam em Lisboa. Participaram trezentas pe
 
 #duo(card([Контроль без подсказок  #pill("5 минут")], [
 + Назовите условия аренды зала B: цена, что включено, что отдельно.
-+ Скажите три правила выдачи оборудования в IADE.
++ Скажите три правила выдачи оборудования в Escola Lumen.
 + Назовите цену воркшопа для студента и что обязательно принести.
 + Расскажите про game jam в трёх предложениях в прошедшем времени.
 + Скажите шесть выражений, выписанных из транскриптов.
@@ -124,7 +124,7 @@ No fim de semana passado houve uma game jam em Lisboa. Participaram trezentas pe
 
 #answers((
   ([Ответы], [
-+ Falso — через онлайн-платформу IADE.
++ Falso — через онлайн-платформу Escola Lumen.
 + Минимум за два рабочих дня (#pt[dois dias úteis]).
 + Falso — только с понедельника по пятницу, 9–18.
 + Две недели нельзя делать новые запросы.

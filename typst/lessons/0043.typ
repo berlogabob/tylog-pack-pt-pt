@@ -12,7 +12,7 @@
 == Часть 1 — глаголы в настоящем  #pill("25 минут")
 
 #exercise([Упражнение 1 — #pt[ser] или #pt[estar]], [
-+ Eu \_\_\_ professor no IADE.
++ Eu \_\_\_ professor na Escola Lumen.
 + Hoje a Sofia \_\_\_ cansada.
 + A aula \_\_\_ às dez horas.
 + Os alunos \_\_\_ na sala 2.3.
@@ -34,7 +34,7 @@
 ])
 
 #exercise([Упражнение 3 — правильные глаголы в настоящем], [
-+ Eu (trabalhar) \_\_\_ no IADE.
++ Eu (trabalhar) \_\_\_ na Escola Lumen.
 + Tu (tocar) \_\_\_ bateria?
 + Nós (comer) \_\_\_ na cantina.
 + A secretaria (abrir) \_\_\_ às nove.
@@ -45,7 +45,7 @@
 ])
 
 #exercise([Упражнение 4 — неправильные глаголы в настоящем], [
-+ Eu (ir) \_\_\_ para o IADE de metro.
++ Eu (ir) \_\_\_ para a Escola Lumen de metro.
 + Tu (fazer) \_\_\_ o quê ao fim de semana?
 + Nós (poder) \_\_\_ marcar a sala?
 + Eu (querer) \_\_\_ falar com o senhor Carvalho.
@@ -93,7 +93,7 @@
 #exercise([Упражнение 8 — предлог + артикль], [
 Вставьте #pt[do/da, no/na, ao/à, pelo/pela] (и множественное число, где нужно).
 
-+ Venho \_\_\_ IADE.
++ Venho \_\_\_ Escola Lumen.
 + Os cabos estão \_\_\_ caixa.
 + Vou \_\_\_ secretaria.
 + Passo \_\_\_ centro todos os dias.
@@ -167,11 +167,11 @@
 Произнесите вслух и запишите. Зачёт — фраза целиком, без подсказки, с верной формой глагола и предлогом. Затем сверьтесь.
 
 
-+ Меня зовут Alex, я преподаватель в IADE.
++ Меня зовут Alex, я преподаватель в Escola Lumen.
 + Я живу в Лиссабоне два года.
 + Есть проблема с проектором.
 + Во сколько начинается занятие?
-+ Я еду в IADE на метро.
++ Я еду в Escola Lumen на метро.
 + Завтра я буду вести занятие об игровых движках.
 + Вчера я работал до семи.
 + На прошлой неделе мы ездили в Порту на поезде.
@@ -254,7 +254,7 @@ era / tocava; vivíamos; tinha; estava; vinham; ias.
 
 ]),
   ([Упражнение 8 — предлог + артикль], [
-do; na; à; pelo; do; no; às; pela; da; ao / na.
+da; na; à; pelo; do; no; às; pela; da; ao / na.
 
 ]),
   ([Упражнение 9 — прямое дополнение], [
@@ -298,11 +298,11 @@ tenho; está; percebes; chove; precisas; compila.
 
 ]),
   ([Ответы], [
-+ Chamo-me Alex, sou professor no IADE.
++ Chamo-me Alex, sou professor na Escola Lumen.
 + Vivo em Lisboa há dois anos.
 + Há um problema com o projetor.
 + A que horas começa a aula?
-+ Vou para o IADE de metro.
++ Vou para a Escola Lumen de metro.
 + Amanhã vou dar uma aula sobre motores de jogo.
 + Ontem trabalhei até às sete.
 + Na semana passada fomos ao Porto de comboio.

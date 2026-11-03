@@ -16,7 +16,7 @@
   ("Inês", "Não comes nada ao pequeno-almoço?"),
   ("Alex", "Como pão com queijo e leio as notícias no telemóvel."),
   ("Inês", "E depois? Sais de casa cedo?"),
-  ("Alex", "Saio às oito e apanho o autocarro. No IADE, abro o portátil e respondo aos emails."),
+  ("Alex", "Saio às oito e apanho o autocarro. Na Escola Lumen, abro o portátil e respondo aos emails."),
   ("Inês", "Percebo. E à noite? Deitas-te tarde?"),
   ("Alex", "Deito-me à meia-noite. Antes disso escrevo código ou ouço música."),
   ("Inês", "Não te esqueces de dormir, pois não?"),
@@ -195,7 +195,7 @@
 + Во сколько встаёт Alex?
 + Что он делает после душа (два действия)?
 + Что ест на завтрак?
-+ Как добирается до IADE?
++ Как добирается до Escola Lumen?
 + Во сколько ложится и что делает перед сном?
 + Что Inês всегда забывает?
 ])
@@ -273,7 +273,7 @@ Levanto-me às sete e tomo duche. A que horas te deitas? Não nos levantamos ced
 
 ]),
   ([Опора — открыть только если застряли], [
-Durante a semana levanto-me às sete. Tomo duche, visto-me e bebo um café. Não como muito de manhã. Saio de casa às oito e apanho o autocarro. No IADE abro o portátil e respondo aos emails. À noite ouço música ou escrevo código. Deito-me à meia-noite e durmo sete horas. Ao fim de semana os meus amigos e eu levantamo-nos tarde. Nunca me esqueço do despertador à segunda-feira.
+Durante a semana levanto-me às sete. Tomo duche, visto-me e bebo um café. Não como muito de manhã. Saio de casa às oito e apanho o autocarro. Na Escola Lumen abro o portátil e respondo aos emails. À noite ouço música ou escrevo código. Deito-me à meia-noite e durmo sete horas. Ao fim de semana os meus amigos e eu levantamo-nos tarde. Nunca me esqueço do despertador à segunda-feira.
 
 ]),
 

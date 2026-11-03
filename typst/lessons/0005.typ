@@ -81,7 +81,7 @@
   [Profissão], [профессия], [O que fazes? Qual é a tua profissão?],
 )
 
-- #strong[Email:] #pt[\@ arroba · . ponto · - hífen · \_ sublinhado (underscore) · / barra]. #pt[rui.silva\@iade.pt → rui ponto silva arroba iade ponto pê tê].
+- #strong[Email:] #pt[\@ arroba · . ponto · - hífen · \_ sublinhado (underscore) · / barra]. #pt[rui.silva\@escola-lumen.example → rui ponto silva arroba escola hífen lumen ponto example].
 - #strong[Телефон:] девять цифр, читают по одной или тройками: #pt[912 345 678 → nove um dois, três quatro cinco, seis sete oito].
 - #strong[Адрес:] #pt[Rua das Flores, n.º 22, 2.º Dto., 1200-001 Lisboa] → #pt[Rua das Flores, número vinte e dois, segundo direito, um dois zero zero traço zero zero um, Lisboa]. Этажи: #pt[rés do chão (r/c), primeiro, segundo…; esquerdo (Esq.), direito (Dto.), frente]. Улицы: #pt[rua, avenida (Av.), praça, largo, travessa].
 
@@ -110,7 +110,7 @@
 ])
 
 #exercise([Упражнение E — прочитайте вслух и запишите словами], [
-+ rui.silva\@iade.pt
++ rui.silva\@escola-lumen.example
 + sofia\_m\@gmail.com
 + ines-costa\@sapo.pt
 + Av. da Liberdade, n.º 45, 3.º Esq.
@@ -165,7 +165,7 @@
 
 === 3. Письмо
 
-Напишите диалог из 10 реплик в секретариате IADE: пять вопросов с разными вопросительными словами, один да/нет-вопрос, два отрицания, один email и один адрес.
+Напишите диалог из 10 реплик в секретариате Escola Lumen: пять вопросов с разными вопросительными словами, один да/нет-вопрос, два отрицания, один email и один адрес.
 
 
 === 4. Drops — 5 минут дополнительно
@@ -209,7 +209,7 @@ Sou, sim. / Não, não sou. — Falo. / Não, não falo. — É. / Não, não é
 + Falas alemão?
 + A Sofia é do Porto?
 + Vives em Lisboa?
-+ Trabalhas no IADE?
++ Trabalhas na Escola Lumen?
 + Percebes francês?
 + Vocês são músicos?
 + O Rui toca bateria?
@@ -239,7 +239,7 @@ De onde és? — Como te chamas? — Onde (é que) trabalhas? — Qual é o teu 
   ([Упражнение D — напишите вопрос к ответу], [
 + — Sou de Moscovo.
 + — Chamo-me Inês.
-+ — Trabalho no IADE.
++ — Trabalho na Escola Lumen.
 + — É o nove um dois, três quatro cinco, seis sete oito.
 + — Sou professor.
 + — São vinte e cinco alunos.
@@ -247,7 +247,7 @@ De onde és? — Como te chamas? — Onde (é que) trabalhas? — Qual é o teu 
 + — Custa dois euros.
 ]),
   ([Упражнение E — прочитайте вслух и запишите словами], [
-rui ponto silva arroba iade ponto pê tê.
+rui ponto silva arroba escola hífen lumen ponto example.
 
 sofia sublinhado eme arroba gmail ponto com.
 

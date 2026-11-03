@@ -1,5 +1,5 @@
 #import "../course.typ": *
-#show: lesson.with((n: 56, week: 10, day: 2, title: [Tecnologia e IADE: notícia], lead: [Новостной монолог о технологиях и IADE, протокол трёх прослушиваний, извлечение пяти фактов и три формулы уточняющего вопроса.]))
+#show: lesson.with((n: 56, week: 10, day: 2, title: [Tecnologia e Escola Lumen: notícia], lead: [Новостной монолог о технологиях и Escola Lumen, протокол трёх прослушиваний, извлечение пяти фактов и три формулы уточняющего вопроса.]))
 
 == Сессия 1 — язык и форма  #pill("30 минут")
 
@@ -23,7 +23,7 @@
 
 ]), [#audio-ref("0056-dialogue")
 #dialogue((
-  ("Locutora", "Boa tarde. O IADE, faculdade de design e tecnologia em Lisboa, inaugurou esta semana um novo laboratório de tecnologias interativas. O espaço tem duzentos metros quadrados e vinte postos de trabalho, equipados com computadores de alto desempenho, óculos de realidade virtual e uma pequena sala de captura de movimento. Segundo a direção da faculdade, o investimento foi de cerca de trezentos mil euros e contou com o apoio de duas empresas portuguesas de videojogos. O laboratório vai ser usado sobretudo pelos cursos de Design de Jogos e de Engenharia Informática, mas está aberto a todos os estudantes, mediante marcação. A primeira atividade já tem data: uma game jam de quarenta e oito horas, entre sexta-feira e domingo, com o tema «Cidade e som». Os participantes vão trabalhar em equipas de três a cinco pessoas e podem escolher livremente o motor de jogo. Os projetos vencedores serão apresentados em outubro, numa feira de tecnologia no Parque das Nações. A coordenadora do laboratório, Marta Fonseca, explicou que o objetivo é aproximar a sala de aula do mercado de trabalho. Nas suas palavras, «os alunos precisam de errar num ambiente seguro antes de trabalhar num estúdio». As inscrições estão abertas no sítio da faculdade até quarta-feira. Foi tudo por agora. Voltamos com mais informação daqui a uma hora."),
+  ("Locutora", "Boa tarde. A Escola Lumen, escola fictícia de design e tecnologia em Lisboa, inaugurou esta semana um novo laboratório de tecnologias interativas. O espaço tem duzentos metros quadrados e vinte postos de trabalho, equipados com computadores de alto desempenho, óculos de realidade virtual e uma pequena sala de captura de movimento. Segundo a direção da escola, o investimento foi de cerca de trezentos mil euros e contou com o apoio de duas empresas portuguesas de videojogos. O laboratório vai ser usado sobretudo pelos cursos de Design de Jogos e de Engenharia Informática, mas está aberto a todos os estudantes, mediante marcação. A primeira atividade já tem data: uma game jam de quarenta e oito horas, entre sexta-feira e domingo, com o tema «Cidade e som». Os participantes vão trabalhar em equipas de três a cinco pessoas e podem escolher livremente o motor de jogo. Os projetos vencedores serão apresentados em outubro, numa feira de tecnologia no Parque das Nações. A coordenadora do laboratório, Marta Fonseca, explicou que o objetivo é aproximar a sala de aula do mercado de trabalho. Nas suas palavras, «os alunos precisam de errar num ambiente seguro antes de trabalhar num estúdio». As inscrições estão abertas no sítio da escola até quarta-feira. Foi tudo por agora. Voltamos com mais informação daqui a uma hora."),
 ))])
 
 === 3. Лексика новости
@@ -40,7 +40,7 @@
   [a equipa], [команда (BR: #pt[equipe])],
   [o motor de jogo], [игровой движок],
   [a feira], [выставка, ярмарка],
-  [o sítio (da faculdade)], [сайт; в речи также #pt[o site]],
+  [o sítio (da escola)], [сайт; в речи также #pt[o site]],
   [as inscrições estão abertas até…], [регистрация открыта до…],
   [segundo… / nas palavras de…], [по словам… / словами…],
 )
@@ -215,7 +215,7 @@ duzentos; vinte; trezentos mil; duas; quarenta e oito; três, cinco; outubro; um
 + O que quer dizer com «aproximar a sala de aula do mercado»?
 ]),
   ([Упражнение D — 5 фактов новости], [
-+ O IADE inaugurou um laboratório de tecnologias interativas em Lisboa.
++ A Escola Lumen inaugurou um laboratório de tecnologias interativas em Lisboa.
 + Tem 200 m² e 20 postos de trabalho.
 + O investimento foi de cerca de 300 000 euros, com apoio de duas empresas.
 + Está aberto a todos os estudantes, mediante marcação.
@@ -229,7 +229,7 @@ duzentos; vinte; trezentos mil; duas; quarenta e oito; três, cinco; outubro; um
 
 ]),
   ([Опора — открыть только если застряли], [
-Caros alunos, o IADE inaugurou esta semana um laboratório de tecnologias interativas com vinte postos de trabalho. Segundo a direção, o espaço está aberto a todos, mediante marcação. A primeira atividade é uma game jam de 48 horas, de sexta a domingo, com o tema «Cidade e som». Trabalham em equipas de três a cinco pessoas e escolhem o motor de jogo. As inscrições estão abertas no sítio da faculdade até quarta-feira.
+Caros alunos, a Escola Lumen inaugurou esta semana um laboratório de tecnologias interativas com vinte postos de trabalho. Segundo a direção, o espaço está aberto a todos, mediante marcação. A primeira atividade é uma game jam de 48 horas, de sexta a domingo, com o tema «Cidade e som». Trabalham em equipas de três a cinco pessoas e escolhem o motor de jogo. As inscrições estão abertas no sítio da escola até quarta-feira.
 
 ]),
   ([Упражнение F — перефразируйте вопрос на «ты» для коллеги], [

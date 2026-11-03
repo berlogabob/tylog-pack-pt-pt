@@ -17,7 +17,7 @@
 + Os alunos \_\_\_ (ter) portáteis; nós \_\_\_ (ter) vinte alunos.
 + Артикль: \_\_\_ problema, \_\_\_ mão, \_\_\_ ecrã, \_\_\_ cidade, \_\_\_ mensagem.
 + Множественное: a lição, o papel, o irmão, a mão, o mês.
-+ Nós \_\_\_ (trabalhar) no IADE e \_\_\_ (ensinar) programação de jogos.
++ Nós \_\_\_ (trabalhar) na Escola Lumen e \_\_\_ (ensinar) programação de jogos.
 + Tu \_\_\_ (comer) em casa? Eu \_\_\_ (abrir) a sala às nove.
 + Eu \_\_\_ (dormir) pouco, \_\_\_ (sair) de casa às oito e \_\_\_ (preferir) o metro.
 + Eu \_\_\_ (fazer) o jantar. Tu \_\_\_ (poder) vir? Eles \_\_\_ (querer) tocar.
@@ -31,7 +31,7 @@
 + Vais \_\_\_ (levantar-se) cedo? Não, \_\_\_ (ir, eu) dormir até às dez.
 + Команды tu / você: (seguir) \_\_\_ / \_\_\_ em frente; (virar) \_\_\_ / \_\_\_ à esquerda; (atravessar) \_\_\_ / \_\_\_ a rua.
 + A farmácia fica \_\_\_ (напротив) banco, \_\_\_ (рядом с) estação, \_\_\_ (в конце) rua.
-+ O IADE \_\_\_ na Avenida D. Carlos I. A Sofia \_\_\_ portuguesa, mas hoje \_\_\_ no Porto. Não \_\_\_ ninguém na sala.
++ A Escola Lumen \_\_\_ na Avenida D. Carlos I. A Sofia \_\_\_ portuguesa, mas hoje \_\_\_ no Porto. Não \_\_\_ ninguém na sala.
 
 Ошибки распределить по темам: глагол, артикль/род, слияние, часы, дорога. Тема с двумя и более ошибками — слабое место.
 
@@ -43,7 +43,7 @@
 
 === Блок A — недели 1–2
 
-+ Меня зовут Alex. Я преподаватель в IADE.
++ Меня зовут Alex. Я преподаватель в Escola Lumen.
 + Откуда ты? — Я из России, из Москвы.
 + Говорю по-русски и немного по-португальски.
 + Извини, не понял. Говори медленнее, пожалуйста.
@@ -135,7 +135,7 @@
 
 ]),
   ([Ответы], [
-#h(0pt)1. Chamo-me Alex. Sou professor no IADE. 2. De onde és? — Sou da Rússia, de Moscovo. 3. Falo russo e um pouco de português. 4. Desculpa, não percebi. Fala mais devagar, por favor. 5. Como se escreve? — Com dois erres.
+#h(0pt)1. Chamo-me Alex. Sou professor na Escola Lumen. 2. De onde és? — Sou da Rússia, de Moscovo. 3. Falo russo e um pouco de português. 4. Desculpa, não percebi. Fala mais devagar, por favor. 5. Como se escreve? — Com dois erres.
 
 #h(0pt)6. O que fazes? — Dou aulas de programação. 7. Não conheço ninguém aqui. 8. Como estás? — Estou bem, obrigado. Estou cansado. 9. Há um problema com o projetor: não tem imagem. 10. A sala está livre? — Não sei.
 

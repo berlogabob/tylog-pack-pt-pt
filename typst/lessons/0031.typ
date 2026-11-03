@@ -19,7 +19,7 @@
   ("Alex", "Nem por isso! A minha mãe dizia sempre: fecha a porta! E tu? O que fazias quando eras criança?"),
   ("Sofia", "Eu desenhava muito. Passava as tardes a desenhar personagens de jogos."),
   ("Alex", "A sério? Então já eras designer."),
-  ("Sofia", "Mais ou menos. Agora ensino isso no IADE, mas dantes era só um passatempo."),
+  ("Sofia", "Mais ou menos. Agora ensino isso na Escola Lumen, mas dantes era só um passatempo."),
 ))])
 
 + Послушайте без текста. Выпишите все глаголы, которые заканчиваются на #pt[-ava / -ia].

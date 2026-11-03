@@ -1,5 +1,5 @@
 #import "../course.typ": *
-#show: lesson.with((n: 45, week: 8, day: 3, title: [Mock CIPLE — Produção Escrita], lead: [Контроль B, часть 3: два текста за 45 минут — неформальное сообщение 80–100 слов и формальное письмо 100–120 слов в администрацию IADE.]))
+#show: lesson.with((n: 45, week: 8, day: 3, title: [Mock CIPLE — Produção Escrita], lead: [Контроль B, часть 3: два текста за 45 минут — неформальное сообщение 80–100 слов и формальное письмо 100–120 слов в администрацию Escola Lumen.]))
 
 == Правила
 
@@ -23,7 +23,7 @@
 Обязательно:
 
 - извиниться и сказать, что не можете прийти в четверг;
-- объяснить две причины (работа в IADE, срок сдачи);
+- объяснить две причины (работа в Escola Lumen, срок сдачи);
 - предложить новый день, время и место;
 - задать один вопрос об оборудовании;
 - начало и конец в неформальном регистре (#pt[tu]).
@@ -41,7 +41,7 @@
 == Tarefa 2 — carta formal  #pill("25 минут · 100–120 слов")
 
 #card(none, [
-#strong[Ситуация.] Аудитория, где вы ведёте практическое занятие по вторникам, не подходит: нет компьютеров с видеокартой, студенты не могут запускать проекты. Напишите письмо в секретариат IADE (#pt[Sr. Carvalho]).
+#strong[Ситуация.] Аудитория, где вы ведёте практическое занятие по вторникам, не подходит: нет компьютеров с видеокартой, студенты не могут запускать проекты. Напишите письмо в секретариат Escola Lumen (#pt[Sr. Carvalho]).
 
 Обязательно:
 
@@ -54,7 +54,7 @@
 
 #exercise([Полезные формулы — открыть только если застряли], [
 - Exmo. Senhor Carvalho, / Cara Dra. … , / Caro Sr. …,
-- O meu nome é … e sou docente de … no IADE.
+- O meu nome é … e sou docente de … na Escola Lumen.
 - Venho por este meio pedir… / Gostaria de pedir…
 - A sala … não tem… / Os alunos não conseguem…
 - Na semana passada perdemos… por causa de…
@@ -80,10 +80,10 @@
 
 == Модели — открыть после самооценки
 
-#exercise([Modelo — Tarefa 1 (83 слова)], [
+#exercise([Modelo — Tarefa 1 (84 слова)], [
 Olá Rui,
 
-Desculpa, mas não posso ir ao ensaio de quinta-feira. Tenho uma reunião no IADE às seis e depois ainda tenho de corrigir os projetos dos alunos até sexta. Podemos passar o ensaio para sábado de manhã? O estúdio de Benfica está livre às dez e já falei com o dono. Se sábado não dá jeito, diz-me que dia preferes.
+Desculpa, mas não posso ir ao ensaio de quinta-feira. Tenho uma reunião na Escola Lumen às seis e depois ainda tenho de corrigir os projetos dos alunos até sexta. Podemos passar o ensaio para sábado de manhã? O estúdio de Benfica está livre às dez e já falei com o dono. Se sábado não dá jeito, diz-me que dia preferes.
 
 Ah, e trazes o cabo do amplificador? O meu deixou de funcionar na semana passada. Desculpa outra vez pela confusão.
 
@@ -92,10 +92,10 @@ Alex
 
 ])
 
-#exercise([Modelo — Tarefa 2 (112 слов)], [
+#exercise([Modelo — Tarefa 2 (113 слов)], [
 Exmo. Senhor Carvalho,
 
-O meu nome é Alex Volkov e sou docente de Desenvolvimento de Jogos no IADE. Venho por este meio pedir a mudança da minha aula prática de terça-feira, das 9h00 às 11h00, da sala 2.5 para o Laboratório de Jogos, sala 3.2.
+O meu nome é Alex Volkov e sou docente de Desenvolvimento de Jogos na Escola Lumen. Venho por este meio pedir a mudança da minha aula prática de terça-feira, das 9h00 às 11h00, da sala 2.5 para o Laboratório de Jogos, sala 3.2.
 
 A sala 2.5 não tem computadores com placa gráfica e os alunos não conseguem correr os projetos em Unity. Na semana passada perdemos quase uma hora de aula por causa deste problema.
 
@@ -114,7 +114,7 @@ Alex Volkov
 
 #exercise([Упражнение — исправьте 8 типичных ошибок], [
 + Desculpa, mas não posso ir #strong[no] ensaio.
-+ Tenho uma reunião #strong[em] IADE.
++ Tenho uma reunião #strong[em] Escola Lumen.
 + Podemos passar o ensaio #strong[a] sábado?
 + Exmo. Senhor Carvalho, #strong[tu] podes mudar a minha aula?
 + Os alunos não #strong[conseguem correr] os projetos #strong[na semana passada].
@@ -149,12 +149,12 @@ Alex Volkov
 - #strong[Причина.] #pt[por causa de] + существительное; #pt[porque] + глагол.
 - #strong[Запасной вариант.] #pt[Se … não dá jeito / Se não há vaga… , também posso…]
 - #strong[Закрытие.] Обязательно следующий шаг: #pt[diz-me que dia preferes / fico a aguardar a sua resposta].
-- #strong[Слияния.] #pt[ao ensaio, no IADE, dos alunos, da sala, pela confusão, à quinta-feira].
+- #strong[Слияния.] #pt[ao ensaio, na Escola Lumen, dos alunos, da sala, pela confusão, à quinta-feira].
 ]),
   ([Упражнение — исправьте 8 типичных ошибок], [
 ir #strong[ao] ensaio
 
-reunião #strong[no] IADE
+reunião #strong[na] Escola Lumen
 
 passar o ensaio #strong[para] sábado
 

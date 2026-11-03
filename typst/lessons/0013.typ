@@ -15,7 +15,7 @@
 
 #dialogue((
   ("Sofia", "Olá, Alex! Trabalhas hoje?"),
-  ("Alex", "Sim, trabalho de manhã. Ensino programação no IADE, das nove ao meio-dia."),
+  ("Alex", "Sim, trabalho de manhã. Ensino programação na Escola Lumen, das nove ao meio-dia."),
   ("Sofia", "E à tarde? Também trabalhas?"),
   ("Alex", "Não. À tarde estudo português e toco bateria."),
   ("Sofia", "Tocas bateria? Onde é que ensaias?"),
@@ -37,7 +37,7 @@
 #table(columns: 2,
   table.header([Português], [Значение]),
   [Trabalhas hoje?], [Ты сегодня работаешь?],
-  [Ensino programação no IADE.], [Я преподаю программирование в IADE.],
+  [Ensino programação na Escola Lumen.], [Я преподаю программирование в Escola Lumen.],
   [Toco bateria. / Tocas guitarra?], [Я играю на барабанах. / Ты играешь на гитаре?],
   [Onde é que ensaias?], [Где ты репетируешь?],
   [Ensaiamos à quarta-feira.], [Мы репетируем по средам.],
@@ -61,7 +61,7 @@
   [eles / elas / vocês], [-am], [trabalham], [tocam], [estudam],
 )
 
-#strong[PT-PT:] в разговоре форма #pt[vós] не используется; к группе людей обращаются #pt[vocês] с формой 3-го лица мн. ч.: #pt[Vocês trabalham aqui?] Местоимение обычно опускается, окончание уже показывает лицо: #pt[Trabalho no IADE. Tocas bateria?]
+#strong[PT-PT:] в разговоре форма #pt[vós] не используется; к группе людей обращаются #pt[vocês] с формой 3-го лица мн. ч.: #pt[Vocês trabalham aqui?] Местоимение обычно опускается, окончание уже показывает лицо: #pt[Trabalho na Escola Lumen. Tocas bateria?]
 
 
 #strong[Произношение:] окончание #pt[-am] звучит как безударное #pt[-ão] (#pt[tocam] ≈ «то́кãу»). Окончание #pt[-amos] — единственная форма с ударением на окончании: #pt[traba-LHA-mos]. Конечное #pt[-s] в #pt[tocas] — как русское «ш».
@@ -74,7 +74,7 @@
 
 #table(columns: 3,
   table.header([Глагол], [Значение], [Пример]),
-  [trabalhar (em)], [работать], [Trabalho no IADE.],
+  [trabalhar (em)], [работать], [Trabalho na Escola Lumen.],
   [ensinar], [преподавать], [Ensino programação de jogos.],
   [estudar], [учиться, изучать], [Estudo português à tarde.],
   [tocar], [играть (на инструменте)], [Toco bateria numa banda.],
@@ -89,7 +89,7 @@
   [almoçar / jantar], [обедать / ужинать], [Almoço à uma e janto às oito.],
   [acordar], [просыпаться], [Acordo às sete.],
   [começar / acabar], [начинать / заканчивать], [A aula começa às nove e acaba às onze.],
-  [chegar (a)], [приходить, прибывать], [Chego ao IADE às nove.],
+  [chegar (a)], [приходить, прибывать], [Chego à Escola Lumen às nove.],
   [ficar], [находиться; оставаться], [A sala fica em Alvalade. Fico em casa.],
   [apanhar], [брать (транспорт), ловить], [Apanho o autocarro às oito.],
   [praticar], [практиковать], [Pratico rudimentos todos os dias.],
@@ -105,7 +105,7 @@
 
 
 #exercise([Упражнение A — поставьте глагол в нужную форму], [
-+ Eu (trabalhar) \_\_\_ no IADE.
++ Eu (trabalhar) \_\_\_ na Escola Lumen.
 + Tu (tocar) \_\_\_ bateria?
 + A Sofia (estudar) \_\_\_ design.
 + Nós (ensaiar) \_\_\_ à quarta-feira.
@@ -120,7 +120,7 @@
 #exercise([Упражнение B — задайте вопрос с #pt[é que] к выделенному слову], [
 Пример: #pt[Ensaio #strong[em Alvalade]. → Onde é que ensaias?]
 
-+ Trabalho #strong[no IADE].
++ Trabalho #strong[na Escola Lumen].
 + Estudo português #strong[à tarde].
 + Toco #strong[bateria].
 + Ensaiamos #strong[com dois amigos].
@@ -129,7 +129,7 @@
 ])
 
 #exercise([Упражнение C — переведите], [
-+ Я преподаю в IADE и играю на барабанах.
++ Я преподаю в Escola Lumen и играю на барабанах.
 + Ты работаешь по утрам?
 + Мы репетируем по средам вечером.
 + Студенты создают маленькие игры.
@@ -170,7 +170,7 @@
 Произнесите каждую модель минимум три раза, меняя выделенную часть:
 
 
-- De manhã #strong[trabalho no IADE].
+- De manhã #strong[trabalho na Escola Lumen].
 - À tarde #strong[estudo português] e #strong[toco bateria].
 - Ensaiamos #strong[à quarta-feira] com #strong[dois amigos].
 - Nas aulas uso #strong[o Godot]; os alunos criam #strong[jogos pequenos].
@@ -179,7 +179,7 @@
 
 === 2. Мини-роль
 
-Коллега из IADE спрашивает про вашу неделю. Ответьте на шесть вопросов и задайте три своих: где работает, что преподаёт, играет ли на чём-нибудь. Запишите 90–120 секунд одним дублем.
+Коллега из Escola Lumen спрашивает про вашу неделю. Ответьте на шесть вопросов и задайте три своих: где работает, что преподаёт, играет ли на чём-нибудь. Запишите 90–120 секунд одним дублем.
 
 
 === 3. Письмо
@@ -223,7 +223,7 @@ Onde é que trabalhas? Quando é que estudas português? O que é que tocas? Com
 
 ]),
   ([Упражнение C — переведите], [
-Ensino no IADE e toco bateria. Trabalhas de manhã? Ensaiamos à quarta-feira à noite. Os alunos criam jogos pequenos. Gosto de música, mas jogo pouco. Onde é que vocês almoçam? Ela mora em Lisboa e estuda design. Preciso de um cabo novo.
+Ensino na Escola Lumen e toco bateria. Trabalhas de manhã? Ensaiamos à quarta-feira à noite. Os alunos criam jogos pequenos. Gosto de música, mas jogo pouco. Onde é que vocês almoçam? Ela mora em Lisboa e estuda design. Preciso de um cabo novo.
 
 ]),
   ([Упражнение D — краткий ответ и отрицание], [
@@ -245,7 +245,7 @@ Trabalho. / Não trabalho. — Toco. / Não toco. — Ensaiamos. / Não ensaiamo
 
 ]),
   ([Опора — открыть только если застряли], [
-Durante a semana trabalho no IADE. Ensino programação de jogos a três turmas. De manhã falo com os alunos e à tarde preparo as aulas. Os alunos criam jogos pequenos com o Godot. À quarta-feira ensaio com a banda: eu toco bateria, os meus amigos tocam guitarra e baixo. Ao sábado não trabalho; estudo português e jogo um pouco. Ao domingo almoçamos juntos em Alvalade. E tu, onde é que trabalhas?
+Durante a semana trabalho na Escola Lumen. Ensino programação de jogos a três turmas. De manhã falo com os alunos e à tarde preparo as aulas. Os alunos criam jogos pequenos com o Godot. À quarta-feira ensaio com a banda: eu toco bateria, os meus amigos tocam guitarra e baixo. Ao sábado não trabalho; estudo português e jogo um pouco. Ao domingo almoçamos juntos em Alvalade. E tu, onde é que trabalhas?
 
 ]),
 

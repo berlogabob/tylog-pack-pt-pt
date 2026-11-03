@@ -1,8 +1,8 @@
 #import "../course.typ": *
-#show: lesson.with((n: 42, week: 7, day: 6, title: [Controlo da semana 7], lead: [Контроль недели «Объекты, просьбы, помощь»: правила места местоимения и императив без подсказок, тест из 20 пунктов, телефонный диалог на слух, две сцены по 4 минуты (ресторан и аптека; звонок в IADE о поломке) и формальное сообщение 110–130 слов.]))
+#show: lesson.with((n: 42, week: 7, day: 6, title: [Controlo da semana 7], lead: [Контроль недели «Объекты, просьбы, помощь»: правила места местоимения и императив без подсказок, тест из 20 пунктов, телефонный диалог на слух, две сцены по 4 минуты (ресторан и аптека; звонок в Escola Lumen о поломке) и формальное сообщение 110–130 слов.]))
 
 #card("Результат урока", [
-#checklist-items(([воспроизвести правила энклизы/проклизы, формы #pt[-lo/-la/-no/-na] и императив #pt[tu / o senhor / vocês] без таблиц;], [выполнить тест из 20 пунктов не ниже 15/20;], [понять незнакомый телефонный диалог: 10 утверждений;], [сыграть две сцены по 4 минуты одним дублем каждую;], [написать формальное сообщение администрации IADE в 110–130 слов и заполнить лист результатов.],))
+#checklist-items(([воспроизвести правила энклизы/проклизы, формы #pt[-lo/-la/-no/-na] и императив #pt[tu / o senhor / vocês] без таблиц;], [выполнить тест из 20 пунктов не ниже 15/20;], [понять незнакомый телефонный диалог: 10 утверждений;], [сыграть две сцены по 4 минуты одним дублем каждую;], [написать формальное сообщение администрации Escola Lumen в 110–130 слов и заполнить лист результатов.],))
 #strong[Режим:] пять частей, всего около 90 минут. Уроки 37–41 закрыты. Ответы открывайте только после выполнения каждой части. Ничего не пересдавайте в тот же день: ошибки — план на день 7.
 
 ])
@@ -77,7 +77,7 @@
 + запись к врачу (#pt[marcar consulta / Tenho consulta às…]);
 + вежливое закрытие обеих сцен.
 
-=== Сцена 2 — звонок в IADE о поломке
+=== Сцена 2 — звонок в Escola Lumen о поломке
 
 + снять трубку / ответить на #pt[Estou?] и представиться (#pt[Fala o…]);
 + попросить к телефону техника (#pt[Posso falar com…?]);
@@ -92,7 +92,7 @@
 
 == Часть 5 — формальное сообщение 110–130 слов  #pill("25 минут")
 
-Напишите администрации IADE (#pt[Exmos. Senhores]) сообщение о неисправном оборудовании в аудитории 2.4: кто вы, что сломано (минимум три предмета), с каких пор, почему это мешает занятиям, что просите сделать и к какому сроку, запасной вариант. Посчитайте слова: меньше 110 или больше 130 — минус 2 балла.
+Напишите администрации Escola Lumen (#pt[Exmos. Senhores]) сообщение о неисправном оборудовании в аудитории 2.4: кто вы, что сломано (минимум три предмета), с каких пор, почему это мешает занятиям, что просите сделать и к какому сроку, запасной вариант. Посчитайте слова: меньше 110 или больше 130 — минус 2 балла.
 
 
 #table(columns: 2,
@@ -198,15 +198,15 @@
 
 ]),
   ([Модель сцены 2 — открыть после записи], [
-#strong[Sr. Carvalho:] IADE, secretaria, bom dia. — #strong[Alex:] Bom dia. Fala o Alex Volkov, professor de programação de jogos. Posso falar com o Rui Santos? — #strong[Sr. Carvalho:] Um momento, não desligue. (…) O Rui não está, está numa aula. Quer deixar recado? — #strong[Alex:] Sim, por favor. Na sala 2.4 a mesa de mistura não funciona: liga, mas o canal dois não dá som. E o suporte do microfone está partido. Acho que o cabo precisa de ser substituído. — #strong[Sr. Carvalho:] Anoto. Mais alguma coisa? — #strong[Alex:] Importa-se de lhe dizer que a aula de som é quarta às catorze? Podia ele passar pela sala antes? — #strong[Sr. Carvalho:] Digo-lhe, sim. — #strong[Alex:] E queria reservar o estúdio para sexta, das catorze às dezasseis. — #strong[Sr. Carvalho:] Sexta das catorze às dezasseis… fica reservado. — #strong[Alex:] Desculpe, a ligação está má. Pode repetir? — #strong[Sr. Carvalho:] Fica reservado em seu nome. Qual é o seu número? — #strong[Alex:] Nove um dois, três quatro cinco, seis sete oito. Se o Rui não me ligar hoje, ligo eu amanhã de manhã. — #strong[Sr. Carvalho:] Muito bem. Bom dia, professor. — #strong[Alex:] Obrigado, bom dia.
+#strong[Sr. Carvalho:] Escola Lumen, secretaria, bom dia. — #strong[Alex:] Bom dia. Fala o Alex Volkov, professor de programação de jogos. Posso falar com o Rui Santos? — #strong[Sr. Carvalho:] Um momento, não desligue. (…) O Rui não está, está numa aula. Quer deixar recado? — #strong[Alex:] Sim, por favor. Na sala 2.4 a mesa de mistura não funciona: liga, mas o canal dois não dá som. E o suporte do microfone está partido. Acho que o cabo precisa de ser substituído. — #strong[Sr. Carvalho:] Anoto. Mais alguma coisa? — #strong[Alex:] Importa-se de lhe dizer que a aula de som é quarta às catorze? Podia ele passar pela sala antes? — #strong[Sr. Carvalho:] Digo-lhe, sim. — #strong[Alex:] E queria reservar o estúdio para sexta, das catorze às dezasseis. — #strong[Sr. Carvalho:] Sexta das catorze às dezasseis… fica reservado. — #strong[Alex:] Desculpe, a ligação está má. Pode repetir? — #strong[Sr. Carvalho:] Fica reservado em seu nome. Qual é o seu número? — #strong[Alex:] Nove um dois, três quatro cinco, seis sete oito. Se o Rui não me ligar hoje, ligo eu amanhã de manhã. — #strong[Sr. Carvalho:] Muito bem. Bom dia, professor. — #strong[Alex:] Obrigado, bom dia.
 
 ]),
-  ([Модель — открыть после написания (124 слова)], [
+  ([Модель — открыть после написания (125 слов)], [
 Assunto: Equipamento avariado na sala 2.4
 
 Exmos. Senhores,
 
-Chamo-me Alex Volkov e sou professor de programação de jogos no IADE. Venho informar que o amplificador da sala 2.4 não funciona desde segunda-feira: liga, mas não sai som. Além disso, um dos cabos jack está partido e a coluna da esquerda faz um zumbido. Já comuniquei o problema ao técnico, mas ainda não o resolveram.
+Chamo-me Alex Volkov e sou professor de programação de jogos na Escola Lumen. Venho informar que o amplificador da sala 2.4 não funciona desde segunda-feira: liga, mas não sai som. Além disso, um dos cabos jack está partido e a coluna da esquerda faz um zumbido. Já comuniquei o problema ao técnico, mas ainda não o resolveram.
 
 Este equipamento é necessário para as aulas de som de quarta e sexta-feira. Sem ele, não posso mostrar os exemplos aos alunos. Por isso, podiam ver o amplificador esta semana? O cabo precisa de ser substituído. Se não for possível arranjá-lo a tempo, importam-se de me indicar outra sala com equipamento?
 

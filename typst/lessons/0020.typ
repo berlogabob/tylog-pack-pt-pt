@@ -51,7 +51,7 @@
 #table(columns: 3,
   table.header([], [ir a], [ir para]),
   [Смысл], [сходить ненадолго, вернуться], [поехать надолго; домой; туда, где проведёшь весь день],
-  [Примеры], [Vou ao café. Vou a Sintra no domingo. Vou à reunião. Vou a Portugal duas semanas.], [Vou para casa. Vou para a Rússia três meses. Vou para o IADE às oito. Vou para a cama.],
+  [Примеры], [Vou ao café. Vou a Sintra no domingo. Vou à reunião. Vou a Portugal duas semanas.], [Vou para casa. Vou para a Rússia três meses. Vou para a Escola Lumen às oito. Vou para a cama.],
   [Слияние], [ao / à / aos / às], [para o / para a (без слияния)],
 )
 
@@ -102,7 +102,7 @@
 + Vou \_\_\_ café tomar uma bica.
 + Em setembro ela vai \_\_\_ Alemanha estudar um ano.
 + Vais \_\_\_ reunião das três?
-+ Às oito vou \_\_\_ IADE e fico lá até às seis.
++ Às oito vou \_\_\_ Escola Lumen e fico lá até às seis.
 + No domingo vamos \_\_\_ Cascais almoçar.
 + Estou cansado, vou \_\_\_ cama.
 + Vou \_\_\_ correios e volto já.
@@ -154,7 +154,7 @@
 - Na próxima semana vamos #strong[ter uma reunião / entregar o projeto / tocar num bar].
 - Não vou #strong[trabalhar / sair / ter tempo] no domingo.
 - Vou #strong[ao café / à biblioteca / a Sintra] e volto #strong[às seis / logo / ao fim da tarde].
-- Vou para #strong[casa / o IADE / a Rússia] #strong[às oito / em julho / daqui a um mês].
+- Vou para #strong[casa / a Escola Lumen / a Rússia] #strong[às oito / em julho / daqui a um mês].
 - Tenho de #strong[preparar a aula / marcar uma consulta / comprar bilhetes].
 
 === 2. Мини-роль: повестка недели
@@ -164,7 +164,7 @@
 
 === 3. Письмо
 
-Напишите сообщение коллеге (8–10 предложений): что вы будете делать на этой неделе в IADE, что с репетициями группы и один план на лето. Используйте 6 разных указателей времени и одну форму с #pt[ter de].
+Напишите сообщение коллеге (8–10 предложений): что вы будете делать на этой неделе в Escola Lumen, что с репетициями группы и один план на лето. Используйте 6 разных указателей времени и одну форму с #pt[ter de].
 
 
 === 4. Drops — 5 минут дополнительно
@@ -202,7 +202,7 @@ Logo vou preparar a aula. Amanhã vais levantar-te às sete. Na próxima semana 
 
 ]),
   ([Упражнение C — a или para (с артиклем, если нужен)], [
-para; ao; para a; à; para o; a; para a; aos.
+para; ao; para a; à; para a; a; para a; aos.
 
 ]),
   ([Упражнение D — ответьте полной фразой], [
@@ -213,7 +213,7 @@ Logo à noite vou tocar bateria. Vou ensaiar na quinta às oito. Não, no sábad
 + O que vais fazer logo à noite?
 + Quando é que vais ensaiar?
 + Vais trabalhar no sábado?
-+ Como vais para o IADE amanhã?
++ Como vais para a Escola Lumen amanhã?
 + Com quem vais almoçar no domingo?
 + O que é que os teus alunos vão entregar este mês?
 ]),
@@ -226,7 +226,7 @@ Amanhã vou preparar a aula. O que vais fazer no fim de semana? No domingo vamos
 
 ]),
   ([Опора — открыть только если застряли], [
-Olá, \_\_\_\_! Esta semana vou ter muitas aulas no IADE. Na terça vou dar uma aula sobre motores de jogo. Na quinta os alunos vão entregar os protótipos e eu tenho de corrigir tudo até sexta. À noite vou ensaiar com a banda; no sábado vamos tocar num bar em Alcântara. No domingo vou a Sintra descansar. Em agosto vou para a Rússia visitar a família. E tu, o que vais fazer? Até logo!
+Olá, \_\_\_\_! Esta semana vou ter muitas aulas na Escola Lumen. Na terça vou dar uma aula sobre motores de jogo. Na quinta os alunos vão entregar os protótipos e eu tenho de corrigir tudo até sexta. À noite vou ensaiar com a banda; no sábado vamos tocar num bar em Alcântara. No domingo vou a Sintra descansar. Em agosto vou para a Rússia visitar a família. E tu, o que vais fazer? Até logo!
 
 ]),
 

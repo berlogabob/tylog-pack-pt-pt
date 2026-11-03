@@ -13,7 +13,7 @@
 #dialogue((
   ("Sofia", "Olá, Alex! Como estás?"),
   ("Alex", "Estou bem, obrigado, mas estou cansado. E tu?"),
-  ("Sofia", "Estou ótima. Onde estás? Estás no IADE?"),
+  ("Sofia", "Estou ótima. Onde estás? Estás na Escola Lumen?"),
   ("Alex", "Não, estou em casa. Estou a preparar uma aula."),
   ("Sofia", "Uma aula sobre quê?"),
   ("Alex", "Sobre um motor de jogo. É um tema difícil, mas interessante."),
@@ -48,7 +48,7 @@
   [ж], [uma aula, uma mensagem, uma mão], [umas aulas, umas mensagens, umas mãos],
 )
 
-#strong[Когда #pt[um], когда #pt[o]:] #pt[um] — предмет впервые упомянут или любой из многих; #pt[o] — уже известный, конкретный. #pt[Tenho uma aula às dez. A aula é sobre Godot.] Во множественном #pt[uns / umas] значит «несколько, какие-то»: #pt[uns cabos, umas cadeiras]. С профессией после #pt[ser] артикля нет: #pt[Sou professor], но с определением — есть: #pt[Sou um professor novo no IADE].
+#strong[Когда #pt[um], когда #pt[o]:] #pt[um] — предмет впервые упомянут или любой из многих; #pt[o] — уже известный, конкретный. #pt[Tenho uma aula às dez. A aula é sobre Godot.] Во множественном #pt[uns / umas] значит «несколько, какие-то»: #pt[uns cabos, umas cadeiras]. С профессией после #pt[ser] артикля нет: #pt[Sou professor], но с определением — есть: #pt[Sou um professor novo na Escola Lumen].
 
 
 === 4. Глагол #pt[estar]
@@ -65,7 +65,7 @@
 #strong[Три употребления:]
 
 
-+ #strong[Место.] #pt[Onde está o rato? — Está na mochila.] Предлог #pt[em] сливается с артиклем: #pt[em + o = no, em + a = na, em + os = nos, em + as = nas]. #pt[no IADE, na sala, nos estúdios, nas mesas]. Без артикля: #pt[em casa, em Lisboa, em Portugal].
++ #strong[Место.] #pt[Onde está o rato? — Está na mochila.] Предлог #pt[em] сливается с артиклем: #pt[em + o = no, em + a = na, em + os = nos, em + as = nas]. #pt[na Escola Lumen, na sala, nos estúdios, nas mesas]. Без артикля: #pt[em casa, em Lisboa, em Portugal].
 + #strong[Состояние] (временное): #pt[estar bem / mal / cansado / doente / contente / ocupado / pronto / atrasado / livre]. Прилагательное согласуется: #pt[A Sofia está ocupada. Os alunos estão prontos.] Погода: #pt[Está frio. Está calor. Está sol. Está a chover.]
 + #strong[Действие сейчас:] #pt[estar a + infinitivo]. #pt[Estou a trabalhar. Estás a ouvir? O Rui está a tocar bateria.] Это норма PT-PT; форма #pt[estou trabalhando] — бразильская, в курсе не используется.
 
@@ -136,7 +136,7 @@
 + Я устал.
 + Ты дома?
 + Компьютер в аудитории.
-+ Мы преподаватели и сейчас мы в IADE.
++ Мы преподаватели и сейчас мы в Escola Lumen.
 + Rui занят: он готовит занятие.
 + Это трудная тема, но интересная.
 ])
@@ -151,7 +151,7 @@
 
 #card([Наблюдения PT-PT], [
 - В беглой речи #pt[estou] часто звучит как \[ˈtow\], #pt[está] — как \[ˈta\]: #pt['tou bem, 'tá bem]. Понимать нужно уже сейчас, произносить полную форму.
-- #pt[estás] и #pt[está] отличаются только конечным \[ʃ\]; в вопросе #pt[Estás no IADE?] оно обязательно.
+- #pt[estás] и #pt[está] отличаются только конечным \[ʃ\]; в вопросе #pt[Estás na Escola Lumen?] оно обязательно.
 - #pt[está a preparar]: два #pt[a] подряд сливаются в один чуть более долгий звук; на письме — оба.
 - #pt[obrigado / obrigada] — согласование с говорящим, не с адресатом.
 ])
@@ -171,7 +171,7 @@
 Произнесите каждую модель минимум три раза, меняя выделенную часть:
 
 
-- Estou #strong[bem / cansado / ocupado / em casa / no IADE].
+- Estou #strong[bem / cansado / ocupado / em casa / na Escola Lumen].
 - O #strong[rato] está #strong[na mochila / na mesa / no estúdio].
 - Estou a #strong[preparar uma aula / tocar bateria / estudar português].
 - Tenho #strong[uma aula / um problema / uns cabos novos].
@@ -232,7 +232,7 @@ Estás a estudar português. A Sofia está a falar com o Rui. Estamos a preparar
 
 ]),
   ([Упражнение E — переведите], [
-Estou cansado. Estás em casa? O computador está na sala. Somos professores e estamos no IADE. O Rui está ocupado: está a preparar uma aula. É um tema difícil, mas interessante.
+Estou cansado. Estás em casa? O computador está na sala. Somos professores e estamos na Escola Lumen. O Rui está ocupado: está a preparar uma aula. É um tema difícil, mas interessante.
 
 ]),
   ([Проверка понимания], [
@@ -240,7 +240,7 @@ Estou cansado. Estás em casa? O computador está na sala. Somos professores e e
 
 ]),
   ([Опора — открыть только если застряли], [
-Sou professor no IADE. Sou russo, mas vivo em Lisboa. A minha sala é pequena. O meu computador é novo. A bateria é velha, mas é boa. Hoje estou em casa. Estou um pouco cansado. Estou a preparar uma aula sobre um motor de jogo. O rato está na mochila. As baquetas estão na mesa.
+Sou professor na Escola Lumen. Sou russo, mas vivo em Lisboa. A minha sala é pequena. O meu computador é novo. A bateria é velha, mas é boa. Hoje estou em casa. Estou um pouco cansado. Estou a preparar uma aula sobre um motor de jogo. O rato está na mochila. As baquetas estão na mesa.
 
 ]),
 

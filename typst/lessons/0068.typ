@@ -14,9 +14,9 @@
 
 == Сессия 1 — блоки 1–2  #pill("30 минут")
 
-=== Блок 1 — знакомство, администрация IADE, дорога
+=== Блок 1 — знакомство, администрация Escola Lumen, дорога
 
-+ Меня зовут Alex, я преподаватель в IADE.
++ Меня зовут Alex, я преподаватель в Escola Lumen.
 + Откуда ты? — Я из России, но живу в Лиссабоне.
 + Как пишется твоя фамилия?
 + Я хотел бы забронировать аудиторию 12 на четверг.
@@ -103,7 +103,7 @@
 #audio-ref("0068-frases")
 
 #dialogue((
-  ("Inês", "Chamo-me Alex e sou professor no IADE."),
+  ("Inês", "Chamo-me Alex e sou professor na Escola Lumen."),
   ("Inês", "Queria reservar a sala doze para quinta-feira."),
   ("Inês", "Há um problema com o projetor: não funciona."),
   ("Inês", "Desculpe, onde fica o metro?"),
@@ -140,7 +140,7 @@
 
 === 3. Перенос в речь
 
-Выберите 8 фраз из разных блоков и объедините их в связный монолог 90 секунд «Мой день в IADE и вечерняя репетиция». Записать одним дублем. Фраза считается усвоенной, только если прозвучала внутри собственного текста, а не по списку.
+Выберите 8 фраз из разных блоков и объедините их в связный монолог 90 секунд «Мой день в Escola Lumen и вечерняя репетиция». Записать одним дублем. Фраза считается усвоенной, только если прозвучала внутри собственного текста, а не по списку.
 
 
 #duo(card([Контроль без подсказок  #pill("5 минут")], [
@@ -160,7 +160,7 @@
 
 #answers((
   ([Ответы], [
-+ Chamo-me Alex e sou professor no IADE.
++ Chamo-me Alex e sou professor na Escola Lumen.
 + De onde és? — Sou da Rússia, mas vivo em Lisboa.
 + Como se escreve o teu apelido?
 + Queria reservar a sala 12 para quinta-feira.

@@ -176,7 +176,7 @@
 
 === 2. Ролевая сцена — профессиональная
 
-IADE выдал вам служебный ноутбук с неработающей зарядкой. Позвоните в магазин информатики: объясните, что случилось и когда (#pt[Comprámos… em…, deixou de carregar há…]), спросите про гарантию, срок ремонта и замену на время. Говорите за обе стороны. 2 минуты одним дублем.
+Школа Escola Lumen выдала вам служебный ноутбук с неработающей зарядкой. Позвоните в магазин информатики: объясните, что случилось и когда (#pt[Comprámos… em…, deixou de carregar há…]), спросите про гарантию, срок ремонта и замену на время. Говорите за обе стороны. 2 минуты одним дублем.
 
 
 === 3. Письмо
@@ -231,7 +231,7 @@ Ontem enviei uma encomenda para Moscovo. Custou catorze euros. / De manhã levan
 
 ]),
   ([Опора — открыть только если застряли], [
-Exmos. Senhores, no dia \_\_\_\_ comprei na vossa loja \_\_\_\_. Há \_\_\_\_ dias deixou de \_\_\_\_. Tem garantia e tenho a fatura. Queria saber se é possível \_\_\_\_. Preciso do aparelho para o trabalho no IADE. Podiam dizer-me quanto tempo demora a reparação? Com os melhores cumprimentos, Alex \_\_\_\_.
+Exmos. Senhores, no dia \_\_\_\_ comprei na vossa loja \_\_\_\_. Há \_\_\_\_ dias deixou de \_\_\_\_. Tem garantia e tenho a fatura. Queria saber se é possível \_\_\_\_. Preciso do aparelho para o trabalho na Escola Lumen. Podiam dizer-me quanto tempo demora a reparação? Com os melhores cumprimentos, Alex \_\_\_\_.
 
 ]),
 

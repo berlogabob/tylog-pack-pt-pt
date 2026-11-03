@@ -13,8 +13,8 @@
 #dialogue((
   ("Sofia", "Alex, onde é que moras agora?"),
   ("Alex", "Moro em Alvalade, perto do metro. E tu?"),
-  ("Sofia", "Eu moro no Bairro Alto, numa rua pequena. Trabalhas sempre no IADE?"),
-  ("Alex", "Sim, dou aulas no IADE, mas às terças vou a uma escola de música em Benfica."),
+  ("Sofia", "Eu moro no Bairro Alto, numa rua pequena. Trabalhas sempre na Escola Lumen?"),
+  ("Alex", "Sim, dou aulas na Escola Lumen, mas às terças vou a uma escola de música em Benfica."),
   ("Sofia", "E o ensaio da banda? Ainda é na garagem do Rui?"),
   ("Alex", "Não, agora é num estúdio ao lado da estação de Entrecampos."),
   ("Sofia", "Fica longe da tua casa?"),
@@ -40,18 +40,18 @@
   [por (через, по, за)], [pelo], [pela], [pelos], [pelas], [por um], [por uma],
 )
 
-С указательными и личными местоимениями то же: #pt[em + este = neste, em + aquele = naquele, de + este = deste, de + aquele = daquele, em + isto = nisto, em + ele = nele, de + ela = dela]. Слово #pt[para] с артиклем #strong[не] сливается: #pt[para o IADE, para a escola].
+С указательными и личными местоимениями то же: #pt[em + este = neste, em + aquele = naquele, de + este = deste, de + aquele = daquele, em + isto = nisto, em + ele = nele, de + ela = dela]. Слово #pt[para] с артиклем #strong[не] сливается: #pt[para a Escola Lumen, para a escola].
 
 
 === 3. Какой предлог выбрать
 
 #table(columns: 3,
   table.header([Предлог], [Когда], [Пример]),
-  [em], [где находится, живёт, работает; месяцы, дни недели], [Moro em Lisboa. Trabalho no IADE. Estou na sala 2.4. Em julho. Na segunda-feira.],
+  [em], [где находится, живёт, работает; месяцы, дни недели], [Moro em Lisboa. Trabalho na Escola Lumen. Estou na sala 2.4. Em julho. Na segunda-feira.],
   [de], [откуда; чей; из чего; вид транспорта; время суток; «с … до …»], [Sou de Moscovo. A sala do Rui. Uma mesa de madeira. Vou de metro. De manhã. Das nove às dez.],
-  [a], [куда (короткий визит); во сколько; пешком; расстояние; «рядом с»], [Vou ao IADE. Chego à escola às nove. Vou a pé. Fica a dez minutos. Ao lado da estação.],
+  [a], [куда (короткий визит); во сколько; пешком; расстояние; «рядом с»], [Vou à Escola Lumen. Chego à escola às nove. Vou a pé. Fica a dez minutos. Ao lado da estação.],
   [por], [через, по (маршрут); «в неделю»; причина, благодарность], [Passo pelo café. Vou pela Avenida de Roma. Duas vezes por semana. Obrigado pela ajuda.],
-  [para], [куда (надолго, домой, на весь день); для кого; предварительно — подробно завтра], [Vou para casa. Vou para o IADE às oito. Um presente para a Sofia.],
+  [para], [куда (надолго, домой, на весь день); для кого; предварительно — подробно завтра], [Vou para casa. Vou para a Escola Lumen às oito. Um presente para a Sofia.],
 )
 
 #strong[Глагол + предлог, запомнить как одно слово:] #pt[ir a / ir para, chegar a, voltar a, entrar em, sair de, passar por, morar em, ficar em, gostar de, precisar de, falar de, começar a].
@@ -81,12 +81,12 @@
   [o edifício], [здание], [a esquina], [угол (улицы)],
 )
 
-Где находится: #pt[O IADE fica na Avenida D. Carlos I, em Santos. A estação fica ao lado do jardim.] Глагол #pt[ficar] для расположения зданий и мест естественнее, чем #pt[estar].
+Где находится: #pt[A Escola Lumen fica na Avenida D. Carlos I, em Santos. A estação fica ao lado do jardim.] Глагол #pt[ficar] для расположения зданий и мест естественнее, чем #pt[estar].
 
 
 #exercise([Упражнение A — #pt[em] + артикль], [
 + Moro \_\_\_ Lisboa.
-+ Trabalho \_\_\_ IADE.
++ Trabalho \_\_\_ Escola Lumen.
 + A aula é \_\_\_ sala 2.4.
 + Os livros estão \_\_\_ biblioteca.
 + Vivo \_\_\_ apartamento pequeno.
@@ -101,7 +101,7 @@
 + a sala \_\_\_ professor
 + a porta \_\_\_ escola
 + Sou \_\_\_ Moscovo.
-+ Venho \_\_\_ IADE.
++ Venho \_\_\_ Escola Lumen.
 + o telemóvel \_\_\_ Sofia
 + Saio \_\_\_ casa às oito.
 + as baquetas \_\_\_ Rui
@@ -111,7 +111,7 @@
 ])
 
 #exercise([Упражнение C — #pt[a] или #pt[por] + артикль], [
-+ Vou \_\_\_ IADE de metro.
++ Vou \_\_\_ Escola Lumen de metro.
 + Chego \_\_\_ escola às nove.
 + Passo \_\_\_ café todos os dias.
 + Vou \_\_\_ Avenida da Liberdade.
@@ -126,7 +126,7 @@
 #exercise([Упражнение D — выберите предлог (с артиклем, если нужен)], [
 + Estou \_\_\_ metro, chego daqui a cinco minutos.
 + \_\_\_ que horas começa a reunião?
-+ O IADE fica \_\_\_ Avenida D. Carlos I.
++ A Escola Lumen fica \_\_\_ Avenida D. Carlos I.
 + Volto \_\_\_ casa \_\_\_ noite.
 + A Sofia é \_\_\_ Porto, mas mora \_\_\_ Lisboa.
 + Vou \_\_\_ Rússia em julho e fico lá um mês.
@@ -136,7 +136,7 @@
 
 #exercise([Упражнение E — переведите], [
 + Я живу в Лиссабоне, в маленькой квартире.
-+ Я работаю в IADE на проспекте D. Carlos I.
++ Я работаю в Escola Lumen на проспекте D. Carlos I.
 + Репетиция в студии рядом со станцией.
 + Я иду в кафе пешком.
 + Автобус проходит по площади.
@@ -149,7 +149,7 @@
 
 + Прослушайте диалог без текста и запишите каждую фразу с предлогом, как слышите.
 + Сверьтесь с текстом. Отметьте слияния, которые не расслышали: чаще всего это #pt[no / do / ao].
-+ Повторяйте реплики целиком. Слияние произносится как один слог вместе со следующим словом: #pt[no‿IADE, da‿banda, pela‿Avenida].
++ Повторяйте реплики целиком. Слияние произносится как один слог вместе со следующим словом: #pt[na‿Escola Lumen, da‿banda, pela‿Avenida].
 + Запишите себя в роли Alex, потом весь диалог.
 + Сравните: слышно ли различие #pt[a / à] (в #pt[à] гласный открытый, в безударном #pt[a] — редуцированный).
 
@@ -178,7 +178,7 @@
 
 
 - Moro #strong[em Alvalade / no Bairro Alto / numa rua pequena].
-- Trabalho #strong[no IADE / na universidade / numa escola de música].
+- Trabalho #strong[na Escola Lumen / na universidade / numa escola de música].
 - Vou #strong[ao café / à biblioteca / aos correios] a pé.
 - Passo #strong[pelo jardim / pela praça / pela estação].
 - O ensaio é #strong[no estúdio do Rui / na sala ao lado da estação].
@@ -186,7 +186,7 @@
 
 === 2. Мини-роль
 
-Коллега из IADE спрашивает, где вы живёте, где работаете и где репетируете. Ответьте в 8 фразах; в каждой должно быть слияние предлога с артиклем. Затем задайте коллеге три вопроса с #pt[Onde…?] Запишите 60–90 секунд одним дублем.
+Коллега из Escola Lumen спрашивает, где вы живёте, где работаете и где репетируете. Ответьте в 8 фразах; в каждой должно быть слияние предлога с артиклем. Затем задайте коллеге три вопроса с #pt[Onde…?] Запишите 60–90 секунд одним дублем.
 
 
 === 3. Письмо
@@ -206,7 +206,7 @@
 + Скажите три фразы про #pt[morar, trabalhar, ensaiar] с разными слияниями.
 + Назовите 10 мест в городе с артиклем.
 + Скажите, в каких странах артикль не нужен (три примера).
-+ Опишите путь от дома до IADE в 5 фразах с #pt[ao, pela, do].
++ Опишите путь от дома до Escola Lumen в 5 фразах с #pt[ao, pela, do].
 #strong[Урок завершён], если удалось выполнить 4 из 5 пунктов без чтения.
 
 ], breakable: true), card([Повтор завтра  #pill("10 минут")], [
@@ -221,15 +221,15 @@
 
 #answers((
   ([Упражнение A — em + артикль], [
-em; no; na; na; num; na; no; nos; no; no.
+em; na; na; na; num; na; no; nos; no; no.
 
 ]),
   ([Упражнение B — de + артикль], [
-do; da; de; do; da; de; do; dos; das; de.
+do; da; de; da; da; de; do; dos; das; de.
 
 ]),
   ([Упражнение C — a или por + артикль], [
-ao; à; pelo; pela; pela; aos; por; às; a; pela.
+à; à; pelo; pela; pela; aos; por; às; a; pela.
 
 ]),
   ([Упражнение D — выберите предлог (с артиклем, если нужен)], [
@@ -237,7 +237,7 @@ no; A; na; para, à (или de noite); do, em; para a; na, de; de, a (de segunda
 
 ]),
   ([Упражнение E — переведите], [
-Moro em Lisboa, num apartamento pequeno. Trabalho no IADE, na Avenida D. Carlos I. O ensaio é no estúdio ao lado da estação. Vou ao café a pé. O autocarro passa pela praça. A aula começa às nove. Sou da Rússia, mas moro em Portugal. As chaves da sala estão com a coordenadora.
+Moro em Lisboa, num apartamento pequeno. Trabalho na Escola Lumen, na Avenida D. Carlos I. O ensaio é no estúdio ao lado da estação. Vou ao café a pé. O autocarro passa pela praça. A aula começa às nove. Sou da Rússia, mas moro em Portugal. As chaves da sala estão com a coordenadora.
 
 ]),
   ([Проверка понимания], [
@@ -245,7 +245,7 @@ Moro em Lisboa, num apartamento pequeno. Trabalho no IADE, na Avenida D. Carlos 
 
 ]),
   ([Опора — открыть только если застряли], [
-Moro em \_\_\_\_, numa rua \_\_\_\_. Trabalho no IADE, na Avenida D. Carlos I. De manhã vou a pé até ao metro e saio no Cais do Sodré. Ao lado do IADE há um café; passo pelo café todos os dias. À noite ensaio bateria num estúdio perto de casa. Aos sábados vou ao jardim ou à biblioteca. Gosto do meu bairro.
+Moro em \_\_\_\_, numa rua \_\_\_\_. Trabalho na Escola Lumen, na Avenida D. Carlos I. De manhã vou a pé até ao metro e saio no Cais do Sodré. Ao lado da Escola Lumen há um café; passo pelo café todos os dias. À noite ensaio bateria num estúdio perto de casa. Aos sábados vou ao jardim ou à biblioteca. Gosto do meu bairro.
 
 ]),
 

@@ -109,11 +109,11 @@
   [pôr], [ponho], [pões], [põe], [pomos], [põem], [класть, ставить],
 )
 
-Сегодня достаточно узнавать их в аудио и знать форму #pt[eu]. Активно нужны: #pt[Dou aulas no IADE. Sei tocar bateria. Não sei.]
+Сегодня достаточно узнавать их в аудио и знать форму #pt[eu]. Активно нужны: #pt[Dou aulas na Escola Lumen. Sei tocar bateria. Não sei.]
 
 
 #exercise([Упражнение A — вставьте форму #pt[ir, fazer, poder, querer]], [
-+ Eu (ir) \_\_\_ ao IADE de autocarro.
++ Eu (ir) \_\_\_ à Escola Lumen de autocarro.
 + Tu (querer) \_\_\_ um café?
 + Nós (fazer) \_\_\_ um jogo em grupo.
 + Ela não (poder) \_\_\_ ir ao concerto.
@@ -186,7 +186,7 @@
 - Quero #strong[fazer um jogo em 2D] este semestre.
 - Hoje não posso; tenho de #strong[preparar a aula].
 - Queres ir #strong[ao concerto] #strong[na sexta]?
-- Vou #strong[ao IADE] de #strong[autocarro].
+- Vou #strong[à Escola Lumen] de #strong[autocarro].
 
 === 2. Мини-роль
 
@@ -256,7 +256,7 @@ Posso fazer uma pergunta? Queres ir ao ensaio no sábado? Não podemos, temos au
 
 ]),
   ([Опора — открыть только если застряли], [
-Olá, Rui! Esta semana quero acabar o projeto do jogo. Na segunda e na terça tenho de dar aulas no IADE até às seis. Na quarta não posso ensaiar, porque tenho uma reunião. Na quinta posso. Queres ir ao ensaio às sete? Vou de metro e chego às sete menos um quarto. Depois fazemos o jantar em minha casa. Podes trazer as baquetas? Está combinado?
+Olá, Rui! Esta semana quero acabar o projeto do jogo. Na segunda e na terça tenho de dar aulas na Escola Lumen até às seis. Na quarta não posso ensaiar, porque tenho uma reunião. Na quinta posso. Queres ir ao ensaio às sete? Vou de metro e chego às sete menos um quarto. Depois fazemos o jantar em minha casa. Podes trazer as baquetas? Está combinado?
 
 ]),
 

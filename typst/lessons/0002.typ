@@ -3,7 +3,7 @@
 
 == Сессия 1 — язык и форма  #pill("30 минут")
 
-=== 1. Диалог — в секретариате IADE
+=== 1. Диалог — в секретариате Escola Lumen
 
 #duo(card("Результат урока", [
 #checklist-items(([назвать буквы по-португальски и продиктовать своё имя и фамилию;], [определить ударный слог в незнакомом слове по правилу;], [читать #pt[s, z, x, ç, ch, lh, nh] и носовые #pt[ão / ões / ãe] по модели PT-PT;], [сказать и понять на слух числа 21–100;], [записать под диктовку номер телефона.],))
@@ -138,7 +138,7 @@
 ])
 
 #exercise([Упражнение D — продиктуйте по буквам (напишите названия букв)], [
-+ IADE
++ Escola Lumen
 + Lisboa
 + Rui
 + Moscovo
@@ -210,7 +210,7 @@
 
 === 3. Письмо
 
-Напишите восемь фраз с числами 21–100 о своём дне в IADE и о музыке: номер аудитории, автобуса, темп метронома (#pt[O tempo é de noventa]), число студентов, страница учебника. Числа пишите словами.
+Напишите восемь фраз с числами 21–100 о своём дне в Escola Lumen и о музыке: номер аудитории, автобуса, темп метронома (#pt[O tempo é de noventa]), число студентов, страница учебника. Числа пишите словами.
 
 
 === 4. Drops — 5 минут дополнительно
@@ -266,7 +266,7 @@ Marta — секретариат, незнакомый человек; #pt[capa]
 
 ]),
   ([Опора — открыть только если застряли], [
-A minha sala no IADE é a trinta e dois. O autocarro é o setenta e três. Na aula são vinte e cinco alunos. O tempo da música é de noventa. A página é a quarenta e seis. O meu gabinete é o cinquenta e um. O elétrico é o vinte e oito. O meu número é o nove, um, dois…
+A minha sala na Escola Lumen é a trinta e dois. O autocarro é o setenta e três. Na aula são vinte e cinco alunos. O tempo da música é de noventa. A página é a quarenta e seis. O meu gabinete é o cinquenta e um. O elétrico é o vinte e oito. O meu número é o nove, um, dois…
 
 ]),
 

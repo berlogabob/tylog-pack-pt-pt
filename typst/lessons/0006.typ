@@ -145,7 +145,7 @@
 
 ]),
   ([Модель — открыть после записи], [
-Olá! Chamo-me Alex. Sou da Rússia, de Moscovo. Sou russo. Agora vivo em Lisboa, perto do Marquês. Sou professor e trabalho no IADE. Dou aulas de programação de jogos; agora estou a trabalhar num projeto novo com os alunos. Falo russo e inglês, e um pouco de português. Também sou músico: toco bateria numa banda. Não sou músico profissional. E tu, de onde és?
+Olá! Chamo-me Alex. Sou da Rússia, de Moscovo. Sou russo. Agora vivo em Lisboa, perto do Marquês. Sou professor e trabalho na Escola Lumen. Dou aulas de programação de jogos; agora estou a trabalhar num projeto novo com os alunos. Falo russo e inglês, e um pouco de português. Também sou músico: toco bateria numa banda. Não sou músico profissional. E tu, de onde és?
 
 ]),
 

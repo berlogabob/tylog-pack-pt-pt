@@ -5,7 +5,7 @@
 
 === 1. Диалог (темп +15%)
 
-Коридор IADE, до пары. Inês и Alex говорят так, как говорят на самом деле: с редукциями и заполнителями. Первый раз слушайте без текста.
+Коридор Escola Lumen, до пары. Inês и Alex говорят так, как говорят на самом деле: с редукциями и заполнителями. Первый раз слушайте без текста.
 
 
 #card("Результат урока", [
@@ -48,7 +48,7 @@
   table.header([Разговорно], [Полная форма], [Примечание]),
   [tá], [está], [#pt[Tá tudo? Tá bem. Tá avariado.] Начальное #pt[es-] исчезает.],
   ['tou / 'tás / 'tamos], [estou / estás / estamos], [То же правило для всех форм #pt[estar]: #pt['Tou a chegar.]],
-  [p'ra / pró / prá], [para / para o / para a], [Только в речи: #pt[Vou p'ra casa. Vou pró IADE.]],
+  [p'ra / pró / prá], [para / para o / para a], [Только в речи: #pt[Vou p'ra casa. Vou prá Escola Lumen.]],
   [c'o / c'a], [com o / com a], [#pt[Falei c'o Rui.] На письме не встречается.],
   [deixa 'tar], [deixa estar], [«Не важно, забудь».],
   [um bocado], [um pouco], [Разговорный синоним: #pt[um bocado cansado, um bocado caro.]],
@@ -115,7 +115,7 @@
 + Percebes o que eu digo?
 ])
 
-#exercise([Упражнение D — регистр: можно ли так сказать в секретариате IADE?], [
+#exercise([Упражнение D — регистр: можно ли так сказать в секретариате Escola Lumen?], [
 + Olhe, tenho uma pergunta.
 + Pá, o projetor não funciona.
 + Pronto, então fico à espera.
@@ -189,7 +189,7 @@ Rui говорит восемь коротких фраз в темпе +15%. З
 
 === 2. Мини-роль
 
-Коллега спрашивает, как прошла неделя. Ответьте разговорно: одна проблема на IADE, одна новость про музыку, один план. Обязательно ≥6 заполнителей и ≥4 редукции. Запишите 90 секунд одним дублем, в темпе аудио.
+Коллега спрашивает, как прошла неделя. Ответьте разговорно: одна проблема в Escola Lumen, одна новость про музыку, один план. Обязательно ≥6 заполнителей и ≥4 редукции. Запишите 90 секунд одним дублем, в темпе аудио.
 
 
 === 3. Письмо
@@ -236,7 +236,7 @@ Estou a chegar. — Está tudo? — Estás em casa? — Vou para a aula. — Ist
 'Tou cansado. — 'Tá bem, faço isso. — O concerto foi bué fixe. — Se calhar chego tarde. — 'Tás a ouvir-me? — Isso é um bocado caro. — Deixa 'tar, esquece. — 'Tás a ver o que eu digo?
 
 ]),
-  ([Упражнение D — регистр: можно ли так сказать в секретариате IADE?], [
+  ([Упражнение D — регистр: можно ли так сказать в секретариате Escola Lumen?], [
 1 да (#pt[olhe] — форма на «вы»); 2 нет (#pt[pá] только с равными); 3 да; 4 нет (#pt[bué] — сленг; скажите #pt[muito urgente]); 5 да; 6 да; 7 в речи допустимо, лучше #pt[está bem]; 8 да.
 
 ]),

@@ -37,7 +37,7 @@
 
 === Блок A — #pt[ser / estar / ter / haver]
 
-+ O Alex \_\_\_ (ser/estar) professor no IADE e hoje \_\_\_ (ser/estar) muito cansado.
++ O Alex \_\_\_ (ser/estar) professor na Escola Lumen e hoje \_\_\_ (ser/estar) muito cansado.
 + Nós \_\_\_ (ter) aula às nove, mas não \_\_\_ (haver) sala livre.
 + A Inês \_\_\_ (ter) trinta anos e \_\_\_ (ser) baterista.
 + Onde \_\_\_ (estar) as baquetas? — \_\_\_ (estar) em cima da bateria.
@@ -80,7 +80,7 @@
 === Блок G — #pt[imperfeito]
 
 + Quando \_\_\_ (eu, ser) criança, \_\_\_ (tocar) piano e \_\_\_ (querer) ser músico.
-+ Dantes o IADE \_\_\_ (ter) menos alunos e as aulas \_\_\_ (começar) mais cedo.
++ Dantes a Escola Lumen \_\_\_ (ter) menos alunos e as aulas \_\_\_ (começar) mais cedo.
 
 === Блок H — контраст #pt[perfeito / imperfeito]
 
@@ -155,7 +155,7 @@
 
 === 3. Журнал ошибок
 
-Для каждой ошибки — одна строка: #raw("дата | моя форма | правильная форма | новый пример"). Новый пример обязан быть про IADE, музыку или быт, не копией задания.
+Для каждой ошибки — одна строка: #raw("дата | моя форма | правильная форма | новый пример"). Новый пример обязан быть про Escola Lumen, музыку или быт, не копией задания.
 
 
 === 4. Повторное извлечение без подсказок

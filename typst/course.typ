@@ -9,7 +9,7 @@
 //   page header/footer + counter ..... docs/content/guides/page-setup.typ
 //   raw block ........................ docs/content/changelog/0.4.0.typ, changelog/0.14.0.typ
 // Style lineage: ~/.claude/skills/typst-report/assets/lib.typ (tables, pill, callout)
-// and IADE-ESP32-RFID-RGB/common.typ (card, duo).
+// and the ESP32 RFID/RGB project’s common.typ (card, duo).
 
 // ---------------------------------------------------------------- TOKENS
 #let accent = rgb("#2867c7")   // one accent, same as assets/course.css

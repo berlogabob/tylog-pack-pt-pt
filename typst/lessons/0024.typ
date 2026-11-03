@@ -12,7 +12,7 @@
 Одним дублем на диктофон, без бумаги, без остановки записи между заданиями. Таймер на 7 минут.
 
 
-+ #strong[2 минуты:] кто вы, где живёте, чем занимаетесь в IADE.
++ #strong[2 минуты:] кто вы, где живёте, чем занимаетесь в Escola Lumen.
 + #strong[3 минуты:] что вы делали в последние дни. Прошедшее время ещё не пройдено — разрешено настоящее с указателями (#pt[na segunda…, ontem…, todos os dias…]) и #pt[ir + infinitivo] для ближайших планов.
 + #strong[2 минуты:] попросить коллегу помочь с аудиторией, расписанием или оборудованием: что не работает, что нужно, когда.
 
@@ -96,15 +96,15 @@
 
 #answers((
   ([Модель — открыть после написания], [
-Olá, Sofia! Tudo bem? Tenho um problema com a nossa reunião de quinta às três. Nesse dia vou ter uma aula extra no IADE, porque os alunos vão entregar os protótipos e tenho de estar na sala com eles até às cinco. Podemos adiar a reunião para sexta? Estou livre de manhã, das dez ao meio-dia, e também à tarde, a partir das quatro. Se preferires, vou ter contigo ao café ao lado da estação; fica perto do teu gabinete. Diz-me que hora é melhor para ti. Desculpa a confusão e obrigado! Até logo, Alex.
+Olá, Sofia! Tudo bem? Tenho um problema com a nossa reunião de quinta às três. Nesse dia vou ter uma aula extra na Escola Lumen, porque os alunos vão entregar os protótipos e tenho de estar na sala com eles até às cinco. Podemos adiar a reunião para sexta? Estou livre de manhã, das dez ao meio-dia, e também à tarde, a partir das quatro. Se preferires, vou ter contigo ao café ao lado da estação; fica perto do teu gabinete. Diz-me que hora é melhor para ti. Desculpa a confusão e obrigado! Até logo, Alex.
 
 96 слов.
 
 ]),
   ([Примеры ответов — открыть после оценки], [
-#h(0pt)1. Sou professor no IADE. Estou cansado hoje. Tenho vinte alunos. Há um problema com o projetor.
+#h(0pt)1. Sou professor na Escola Lumen. Estou cansado hoje. Tenho vinte alunos. Há um problema com o projetor.
 
-#h(0pt)2. Trabalho no IADE. Os alunos aprendem programação de jogos.
+#h(0pt)2. Trabalho na Escola Lumen. Os alunos aprendem programação de jogos.
 
 #h(0pt)3. Faço o jantar às oito. Vais ao concerto? / Saio de casa às oito. Ela não pode vir.
 
@@ -112,7 +112,7 @@ Olá, Sofia! Tudo bem? Tenho um problema com a nossa reunião de quinta às trê
 
 #h(0pt)5. Amanhã vou dar uma aula sobre motores de jogo. No sábado vamos tocar num bar em Alcântara.
 
-#h(0pt)6. Vou do IADE ao café da esquina e volto à sala às três. Moro no Bairro Alto, perto da estação.
+#h(0pt)6. Vou da Escola Lumen ao café da esquina e volto à sala às três. Moro no Bairro Alto, perto da estação.
 
 #h(0pt)7. Onde é que ensaias? — Tocas guitarra? — Toco.
 

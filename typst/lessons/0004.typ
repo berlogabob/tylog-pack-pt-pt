@@ -3,15 +3,15 @@
 
 == Сессия 1 — язык и форма  #pill("30 минут")
 
-=== 1. Диалог — коллеги в IADE
+=== 1. Диалог — коллеги в Escola Lumen
 
 #duo(card("Результат урока", [
-#checklist-items(([спросить и сказать, кто кем работает и где: #pt[O que fazes? — Sou professor, trabalho no IADE.];], [назвать 15 профессий в мужском и женском роде;], [спрягать #pt[trabalhar, morar, viver] и #pt[dar];], [сказать, где живёте: #pt[Vivo em Lisboa, perto do Marquês.];], [выбирать регистр #pt[tu / você / o senhor] по ситуации и не ошибаться в форме глагола.],))
+#checklist-items(([спросить и сказать, кто кем работает и где: #pt[O que fazes? — Sou professor, trabalho na Escola Lumen.];], [назвать 15 профессий в мужском и женском роде;], [спрягать #pt[trabalhar, morar, viver] и #pt[dar];], [сказать, где живёте: #pt[Vivo em Lisboa, perto do Marquês.];], [выбирать регистр #pt[tu / você / o senhor] по ситуации и не ошибаться в форме глагола.],))
 #strong[Режим:] три блока по 30 минут. Между ними можно сделать перерыв.
 
 ]), [#audio-ref("0004-dialogue")
 #dialogue((
-  ("Inês", "Olá, Alex. Então, o que fazes no IADE?"),
+  ("Inês", "Olá, Alex. Então, o que fazes na Escola Lumen?"),
   ("Alex", "Sou professor. Dou aulas de programação de jogos. E tu?"),
   ("Inês", "Eu sou designer. Trabalho no estúdio do terceiro piso."),
   ("Alex", "E vives em Lisboa?"),
@@ -31,7 +31,7 @@
   table.header([Português], [Значение]),
   [O que fazes? / O que faz?], [Чем ты занимаешься? / Чем Вы занимаетесь?],
   [Sou professor. Dou aulas de programação.], [Я преподаватель. Веду занятия по программированию.],
-  [Onde trabalhas? — Trabalho no IADE.], [Где ты работаешь? — Работаю в IADE.],
+  [Onde trabalhas? — Trabalho na Escola Lumen.], [Где ты работаешь? — Работаю в Escola Lumen.],
   [Onde moras? — Moro em Lisboa, perto do Marquês.], [Где ты живёшь? — В Лиссабоне, около Маркеша.],
   [Trabalho numa empresa de jogos.], [Работаю в игровой компании.],
   [Toco bateria numa banda.], [Играю на барабанах в группе.],
@@ -61,7 +61,7 @@
 
 #table(columns: 2,
   table.header([Форма], [Примеры]),
-  [em + o = no / em + a = na], [Trabalho no IADE. Trabalho na universidade. Vivo no Porto.],
+  [em + o = no / em + a = na], [Trabalho na Escola Lumen. Trabalho na universidade. Vivo no Porto.],
   [em + um = num / em + uma = numa], [Trabalho num estúdio. Trabalho numa escola. Toco numa banda.],
   [em без артикля], [Trabalho em casa. Vivo em Lisboa. Trabalho em Portugal.],
 )
@@ -100,7 +100,7 @@
   [друзья, коллеги-ровесники, музыканты в группе, студенты между собой], [tu], [2-е лицо], [Onde trabalhas? Como te chamas?],
   [незнакомые, секретариат, магазин, старшие], [o senhor / a senhora], [3-е лицо], [O senhor trabalha aqui? Como se chama?],
   [по должности или званию], [o professor / a doutora / o diretor], [3-е лицо], [O professor dá aulas hoje?],
-  [нейтрально-вежливо, но без слова], [местоимение опускается], [3-е лицо], [Trabalha no IADE? Mora em Lisboa?],
+  [нейтрально-вежливо, но без слова], [местоимение опускается], [3-е лицо], [Trabalha na Escola Lumen? Mora em Lisboa?],
   [группа людей (любая)], [vocês], [3-е лицо мн.ч.], [Vocês trabalham juntos?],
 )
 
@@ -108,7 +108,7 @@
 
 
 #exercise([Упражнение A — форма глагола], [
-+ Eu (trabalhar) \_\_\_ no IADE.
++ Eu (trabalhar) \_\_\_ na Escola Lumen.
 + Tu (morar) \_\_\_ em Lisboa?
 + A Inês (viver) \_\_\_ em Almada.
 + Nós (trabalhar) \_\_\_ num estúdio.
@@ -119,7 +119,7 @@
 ])
 
 #exercise([Упражнение B — #pt[em] с артиклем или без], [
-+ Trabalho \_\_\_ IADE.
++ Trabalho \_\_\_ Escola Lumen.
 + Trabalho \_\_\_ universidade.
 + Trabalho \_\_\_ estúdio pequeno.
 + A Sofia trabalha \_\_\_ escola.
@@ -151,7 +151,7 @@
 
 #exercise([Упражнение E — какой регистр?], [
 + Коллега-дизайнер вашего возраста в кафетерии.
-+ Директор IADE на первой встрече.
++ Директор Escola Lumen на первой встрече.
 + Студент 19 лет спрашивает вас о задании.
 + Барабанщик из соседней репетиционной.
 + Продавец в магазине музыкальных инструментов, лет 60.
@@ -160,7 +160,7 @@
 
 #exercise([Упражнение F — переведите], [
 + Чем ты занимаешься? — Я преподаватель, веду занятия по программированию игр.
-+ Где ты работаешь? — В IADE, в студии на третьем этаже.
++ Где ты работаешь? — В Escola Lumen, в студии на третьем этаже.
 + Я живу в Лиссабоне, около Маркеша.
 + Она дизайнер и работает в игровой компании.
 + Мы музыканты; играем в группе.
@@ -198,7 +198,7 @@
 Произнесите каждую модель минимум три раза, меняя выделенную часть:
 
 
-- Sou #strong[professor]. Trabalho #strong[no IADE].
+- Sou #strong[professor]. Trabalho #strong[na Escola Lumen].
 - Dou aulas de #strong[programação de jogos / design / música].
 - Moro em #strong[Lisboa], perto #strong[do Marquês].
 - Estou a trabalhar #strong[num projeto novo / num jogo / numa aula].
@@ -207,7 +207,7 @@
 
 === 2. Мини-роль
 
-Две сцены по 45 секунд. Первая: репетиция, новый бас-гитарист — на #pt[tu]: кто он, где работает, где живёт. Вторая: директор IADE — формально: те же вопросы в 3-м лице, представьтесь, скажите, что преподаёте. Запишите одним дублем каждую.
+Две сцены по 45 секунд. Первая: репетиция, новый бас-гитарист — на #pt[tu]: кто он, где работает, где живёт. Вторая: директор Escola Lumen — формально: те же вопросы в 3-м лице, представьтесь, скажите, что преподаёте. Запишите одним дублем каждую.
 
 
 === 3. Письмо
@@ -248,7 +248,7 @@ trabalho; moras; vive; trabalhamos; vivem; dou; dá; trabalham.
 
 ]),
   ([Упражнение B — em с артиклем или без], [
-no; na; num; numa; em; no; em; nos.
+na; na; num; numa; em; no; em; nos.
 
 ]),
   ([Упражнение C — профессия в нужном роде], [
@@ -266,7 +266,7 @@ Onde mora (o senhor)? O que faz? Trabalha aqui? Como se chama? É de Lisboa? Fal
   ([Упражнение F — переведите], [
 O que fazes? — Sou professor, dou aulas de programação de jogos.
 
-Onde trabalhas? — No IADE, no estúdio do terceiro piso.
+Onde trabalhas? — Na Escola Lumen, no estúdio do terceiro piso.
 
 Vivo em Lisboa, perto do Marquês.
 
@@ -286,7 +286,7 @@ O Rui também toca bateria.
 
 ]),
   ([Опора — открыть только если застряли], [
-Chamo-me Alex. Sou professor no IADE. Dou aulas de programação de jogos. Trabalho no estúdio do terceiro piso. Agora estou a trabalhar num projeto novo com os alunos. Moro em Lisboa, perto do Marquês. Também sou músico: toco bateria numa banda. Não sou designer, mas trabalho com designers todos os dias. E tu, o que fazes?
+Chamo-me Alex. Sou professor na Escola Lumen. Dou aulas de programação de jogos. Trabalho no estúdio do terceiro piso. Agora estou a trabalhar num projeto novo com os alunos. Moro em Lisboa, perto do Marquês. Também sou músico: toco bateria numa banda. Não sou designer, mas trabalho com designers todos os dias. E tu, o que fazes?
 
 ]),
 

@@ -1,5 +1,5 @@
 #import "../course.typ": *
-#show: lesson.with((n: 52, week: 9, day: 4, title: [Opinião: ensino e avaliação], lead: [Лексика преподавания (#pt[aula, avaliação, projeto, prazo, entrega, feedback]), каркас мнения #pt[em primeiro lugar … em segundo lugar … por exemplo … em conclusão] и вежливое несогласие. Спор в IADE: проект или экзамен.]))
+#show: lesson.with((n: 52, week: 9, day: 4, title: [Opinião: ensino e avaliação], lead: [Лексика преподавания (#pt[aula, avaliação, projeto, prazo, entrega, feedback]), каркас мнения #pt[em primeiro lugar … em segundo lugar … por exemplo … em conclusão] и вежливое несогласие. Спор в Escola Lumen: проект или экзамен.]))
 
 == Сессия 1 — язык и форма  #pill("30 минут")
 

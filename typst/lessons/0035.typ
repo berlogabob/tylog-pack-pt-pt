@@ -25,8 +25,8 @@
 
 ]), [#audio-ref("0035-dialogue")
 #dialogue((
-  ("Narradora", "O Alex é baterista e dá aulas no IADE. Há dois anos que toca numa banda pequena com três amigos: o Rui, a Inês e o Miguel. Dantes ensaiavam numa garagem em Alvalade, mas a garagem era fria e escura, e os vizinhos queixavam-se do barulho. Por isso, em março, alugaram uma sala de ensaios no Cais do Sodré."),
-  ("Narradora", "Na sexta-feira passada tinham um ensaio importante, porque no sábado iam dar um concerto. Eram sete da tarde e chovia muito. O Alex saiu do IADE atrasado e apanhou o metro. Quando chegou à sala, os colegas já estavam à espera. Abriu o saco e percebeu que não tinha as baquetas. Estavam no gabinete, em cima da secretária."),
+  ("Narradora", "O Alex é baterista e dá aulas na Escola Lumen. Há dois anos que toca numa banda pequena com três amigos: o Rui, a Inês e o Miguel. Dantes ensaiavam numa garagem em Alvalade, mas a garagem era fria e escura, e os vizinhos queixavam-se do barulho. Por isso, em março, alugaram uma sala de ensaios no Cais do Sodré."),
+  ("Narradora", "Na sexta-feira passada tinham um ensaio importante, porque no sábado iam dar um concerto. Eram sete da tarde e chovia muito. O Alex saiu da Escola Lumen atrasado e apanhou o metro. Quando chegou à sala, os colegas já estavam à espera. Abriu o saco e percebeu que não tinha as baquetas. Estavam no gabinete, em cima da secretária."),
   ("Narradora", "O Rui riu-se e disse: toca com as mãos! O Alex não achou graça. Enquanto os outros afinavam as guitarras, ele foi a correr a uma loja de música ao lado. A loja estava a fechar, mas o dono vendeu-lhe umas baquetas novas. Voltou dez minutos depois, molhado e cansado."),
   ("Narradora", "Começaram a tocar, mas, a meio da segunda música, o pedal partiu-se. Ficaram todos em silêncio. Depois, a Inês começou a rir e todos riram com ela. Nessa noite não ensaiaram mais. Foram beber um café e falaram do concerto. No sábado, correu tudo bem."),
 ))])
@@ -153,7 +153,7 @@ O Alex toca numa banda há dois anos. Dantes ensaiavam numa garagem, mas os vizi
 
 ]),
   ([Модель — открыть после написания], [
-O Alex é baterista, dá aulas no IADE e toca numa banda com três amigos. Na sexta-feira passada tinham um ensaio importante, chovia e o Alex estava atrasado. Primeiro, percebeu que não tinha as baquetas. Depois, foi a correr a uma loja e comprou umas novas. Por fim, o pedal partiu-se a meio da segunda música e não ensaiaram mais. No sábado, o concerto correu bem.
+O Alex é baterista, dá aulas na Escola Lumen e toca numa banda com três amigos. Na sexta-feira passada tinham um ensaio importante, chovia e o Alex estava atrasado. Primeiro, percebeu que não tinha as baquetas. Depois, foi a correr a uma loja e comprou umas novas. Por fim, o pedal partiu-se a meio da segunda música e não ensaiaram mais. No sábado, o concerto correu bem.
 
 ]),
 

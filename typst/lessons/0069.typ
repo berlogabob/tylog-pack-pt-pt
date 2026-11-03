@@ -1,12 +1,12 @@
 #import "../course.typ": *
-#show: lesson.with((n: 69, week: 12, day: 3, title: [Controlo C — oral], lead: [Монолог 5 минут на новую тему и беседа 10 минут по трём новым ситуациям: административная проблема в IADE, выбор фреймворка, концерт. Оценка по паузам, переходам на английский и переформулировкам.]))
+#show: lesson.with((n: 69, week: 12, day: 3, title: [Controlo C — oral], lead: [Монолог 5 минут на новую тему и беседа 10 минут по трём новым ситуациям: административная проблема в Escola Lumen, выбор фреймворка, концерт. Оценка по паузам, переходам на английский и переформулировкам.]))
 
 == Сессия 1 — монолог 5 минут  #pill("30 минут")
 
 === 1. Тема — выбрать одну
 
 - #strong[A. Музыкальный проект:] группа, запись или концерт, в котором вы участвуете или который планируете.
-- #strong[B. Дисциплина, которую вы ведёте в IADE:] её цели, задания, оценка, что меняете в следующем семестре.
+- #strong[B. Дисциплина, которую вы ведёте в Escola Lumen:] её цели, задания, оценка, что меняете в следующем семестре.
 
 Тема новая для курса: ранее вы описывали день, выходные, архитектуру проекта и мнение о фреймворках, но не рассказывали 5 минут о собственном проекте целиком.
 
@@ -86,13 +86,13 @@ Sofia — собеседник, Alex — модель ответов. Первы
 
 
 #card([Banco de perguntas], [
-#strong[Problema administrativo no IADE]
+#strong[Problema administrativo na Escola Lumen]
 
 + Que problema tiveste recentemente com a secretaria, o horário ou uma sala?
 + Com quem falaste e o que é que essa pessoa te disse?
 + O problema ficou resolvido? Como?
 + Se voltar a acontecer, o que vais fazer de diferente?
-+ Na tua opinião, o que é que o IADE devia mudar no sistema de reservas?
++ Na tua opinião, o que é que a Escola Lumen devia mudar no sistema de reservas?
 #strong[Escolha de um motor de jogo]
 
 + Que motor de jogo usas nas aulas e porquê?

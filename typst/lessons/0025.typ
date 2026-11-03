@@ -11,7 +11,7 @@
 
 ]), [#audio-ref("0025-dialogue")
 #dialogue((
-  ("Sofia", "Olá, Alex! Não te encontrei ontem no IADE. Trabalhaste em casa?"),
+  ("Sofia", "Olá, Alex! Não te encontrei ontem na Escola Lumen. Trabalhaste em casa?"),
   ("Alex", "Sim, trabalhei em casa de manhã. Preparei a aula de quinta-feira."),
   ("Sofia", "E à tarde? Ficaste em casa?"),
   ("Alex", "Não. Almocei com o Rui e depois tocámos bateria no estúdio até às seis."),
@@ -83,7 +83,7 @@
   [há dois dias / há uma hora / há um mês], [два дня назад / час назад / месяц назад], [Cheguei há uma hora.],
   [na semana passada / no mês passado / no ano passado], [на прошлой неделе / в прошлом месяце / году], [Na semana passada não trabalhámos.],
   [no sábado (passado) / no domingo], [в (прошлую) субботу / в воскресенье], [No sábado ensaiámos.],
-  [em 2020 / em janeiro], [в 2020 году / в январе], [Em 2020 comecei a trabalhar no IADE.],
+  [em 2020 / em janeiro], [в 2020 году / в январе], [Em 2020 comecei a trabalhar na Escola Lumen.],
   [hoje de manhã], [сегодня утром (уже закончилось)], [Hoje de manhã acordei às seis.],
   [durante duas horas / até às seis], [в течение двух часов / до шести], [Falámos durante duas horas.],
 )
@@ -95,7 +95,7 @@
 + Ontem eu (trabalhar) \_\_\_ até tarde.
 + Tu (tocar) \_\_\_ bateria na sexta-feira?
 + A Sofia (chegar) \_\_\_ atrasada à reunião.
-+ Nós (almoçar) \_\_\_ no IADE.
++ Nós (almoçar) \_\_\_ na Escola Lumen.
 + Os alunos (entregar) \_\_\_ o projeto na semana passada.
 + Eu (começar) \_\_\_ a aula às nove.
 + Vocês (gostar) \_\_\_ do concerto?
@@ -105,7 +105,7 @@
 ])
 
 #exercise([Упражнение B — из настоящего в прошедшее с маркером], [
-Пример: #pt[Trabalho no IADE. (ontem) → Ontem trabalhei no IADE.]
+Пример: #pt[Trabalho na Escola Lumen. (ontem) → Ontem trabalhei na Escola Lumen.]
 
 + Tocas bateria à noite. (ontem à noite)
 + O Rui compra baquetas. (na semana passada)
@@ -119,7 +119,7 @@
 
 #exercise([Упражнение C — переведите], [
 + Вчера я работал дома.
-+ Позавчера мы обедали в IADE.
++ Позавчера мы обедали в Escola Lumen.
 + Два дня назад ты купил новые палочки?
 + На прошлой неделе студенты представили игру.
 + В прошлом месяце Sofia начала курс.
@@ -145,7 +145,7 @@ tocar, jogar, começar, ficar, chegar, almoçar, pagar, explicar.
 #audio-ref("0025-audio2")
 
 #dialogue((
-  ("Rui", "Ontem acordei às sete, tomei o pequeno-almoço e apanhei o autocarro para o IADE. De manhã ensinei duas turmas e falei com o Alex sobre o projeto dos alunos. Almocei na cantina com a Sofia. À tarde trabalhei no gabinete e preparei os testes. Às seis cheguei ao estúdio e toquei bateria durante uma hora. Jantei em casa, tarde, às nove e meia. Não estudei nada, mas descansei bem."),
+  ("Rui", "Ontem acordei às sete, tomei o pequeno-almoço e apanhei o autocarro para a Escola Lumen. De manhã ensinei duas turmas e falei com o Alex sobre o projeto dos alunos. Almocei na cantina com a Sofia. À tarde trabalhei no gabinete e preparei os testes. Às seis cheguei ao estúdio e toquei bateria durante uma hora. Jantei em casa, tarde, às nove e meia. Não estudei nada, mas descansei bem."),
 ))
 
 Первый проход: только слушайте и считайте глаголы (их 13). Второй проход: записывайте под диктовку с паузами. Третий: сверьте с текстом, исправьте окончания другим цветом.
@@ -159,7 +159,7 @@ tocar, jogar, começar, ficar, chegar, almoçar, pagar, explicar.
 
 #exercise([Проверка понимания (по монологу Rui)], [
 + Во сколько Rui проснулся?
-+ На чём он поехал в IADE?
++ На чём он поехал в Escola Lumen?
 + Сколько групп он учил утром?
 + Где он обедал и с кем?
 + Что он делал в шесть?
@@ -176,13 +176,13 @@ tocar, jogar, começar, ficar, chegar, almoçar, pagar, explicar.
 - Ontem #strong[trabalhei em casa / toquei bateria / jantei com a Sofia].
 - Há #strong[dois dias / uma semana / um mês] comprei #strong[baquetas / um livro / um jogo].
 - Na semana passada #strong[ensinei três turmas / preparei um teste / falei com o diretor].
-- Levantei-me às #strong[sete] e cheguei ao IADE às #strong[nove].
+- Levantei-me às #strong[sete] e cheguei à Escola Lumen às #strong[nove].
 - Não #strong[estudei / joguei / descansei] ontem à noite.
 - #strong[Trabalhaste / Tocaste / Jantaste] ontem? — #strong[Trabalhei / Toquei / Jantei], sim.
 
 === 2. Мини-роль
 
-Понедельник, кафе IADE. Коллега спрашивает, что вы делали вчера. Ответьте 8 фразами (утро, день, вечер), затем задайте ей четыре вопроса с #pt[tu]: #pt[Trabalhaste? Ficaste em casa? A que horas jantaste? Gostaste?] Запишите 90 секунд одним дублем.
+Понедельник, кафе Escola Lumen. Коллега спрашивает, что вы делали вчера. Ответьте 8 фразами (утро, день, вечер), затем задайте ей четыре вопроса с #pt[tu]: #pt[Trabalhaste? Ficaste em casa? A que horas jantaste? Gostaste?] Запишите 90 секунд одним дублем.
 
 
 === 3. Письмо
@@ -226,7 +226,7 @@ Ontem à noite tocaste bateria. / Na semana passada o Rui comprou baquetas. / On
 
 ]),
   ([Упражнение C — переведите], [
-Ontem trabalhei em casa. / Anteontem almoçámos no IADE. / Há dois dias compraste baquetas novas? / Na semana passada os alunos apresentaram o jogo. / No mês passado a Sofia começou um curso. / Ontem à noite toquei bateria no estúdio. / No domingo passado não trabalhámos. / Há uma hora ele telefonou para a secretaria.
+Ontem trabalhei em casa. / Anteontem almoçámos na Escola Lumen. / Há dois dias compraste baquetas novas? / Na semana passada os alunos apresentaram o jogo. / No mês passado a Sofia começou um curso. / Ontem à noite toquei bateria no estúdio. / No domingo passado não trabalhámos. / Há uma hora ele telefonou para a secretaria.
 
 ]),
   ([Упражнение D — напишите форму eu], [
@@ -238,7 +238,7 @@ toquei, joguei, comecei, fiquei, cheguei, almocei, paguei, expliquei.
 
 ]),
   ([Опора — открыть только если застряли], [
-Ontem levantei-me às \_\_\_\_. Tomei o pequeno-almoço e apanhei o \_\_\_\_ para o IADE. De manhã ensinei \_\_\_\_. Almocei com \_\_\_\_. À tarde preparei \_\_\_\_. Às \_\_\_\_ cheguei a casa. Não \_\_\_\_. À noite toquei \_\_\_\_ durante \_\_\_\_. Deitei-me às \_\_\_\_.
+Ontem levantei-me às \_\_\_\_. Tomei o pequeno-almoço e apanhei o \_\_\_\_ para a Escola Lumen. De manhã ensinei \_\_\_\_. Almocei com \_\_\_\_. À tarde preparei \_\_\_\_. Às \_\_\_\_ cheguei a casa. Não \_\_\_\_. À noite toquei \_\_\_\_ durante \_\_\_\_. Deitei-me às \_\_\_\_.
 
 ]),
 

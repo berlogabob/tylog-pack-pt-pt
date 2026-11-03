@@ -14,7 +14,7 @@
 #audio-ref("0062-dialogue")
 
 #dialogue((
-  ("Inês", "Alex, obrigada por vires. Há quanto tempo dás aulas no IADE?"),
+  ("Inês", "Alex, obrigada por vires. Há quanto tempo dás aulas na Escola Lumen?"),
   ("Alex", "Há dois anos que dou aulas aqui. Antes disso, trabalhei quatro anos num estúdio de jogos em Moscovo."),
   ("Inês", "E com que motores já trabalhaste?"),
   ("Alex", "Já trabalhei com Unity e com Unreal. Ultimamente tenho usado sobretudo o Godot, porque é mais leve para os alunos."),
@@ -24,7 +24,7 @@
   ("Alex", "Tenho dado Introdução aos Motores de Jogo desde o primeiro semestre e, este ano, também Design de Sistemas."),
   ("Inês", "Os alunos já publicaram algum jogo?"),
   ("Alex", "Dois grupos já publicaram no itch.io. Tem sido uma boa experiência para eles."),
-  ("Inês", "Ótimo. E fora do IADE? Sei que és músico."),
+  ("Inês", "Ótimo. E fora da Escola Lumen? Sei que és músico."),
   ("Alex", "Sou. Toco bateria desde os quinze anos e, nos últimos meses, tenho tocado com uma banda de Lisboa. Já demos seis concertos."),
   ("Inês", "Já tocaste em festivais?"),
   ("Alex", "Ainda não, mas esperamos tocar num em julho."),
@@ -117,7 +117,7 @@
 ])
 
 #exercise([Упражнение D — RU → PT], [
-+ Я уже три года преподаю в IADE.
++ Я уже три года преподаю в Escola Lumen.
 + Я играю на барабанах с двенадцати лет.
 + Мы играем вместе с тех пор, как я приехал в Лиссабон.
 + Я приехал в Португалию два года назад.
@@ -132,7 +132,7 @@
 #audio-ref("0062-audio2")
 
 #dialogue((
-  ("Alex", "Comecei a programar jogos há doze anos, ainda na universidade. O primeiro motor que usei foi o Unity, e trabalhei com ele durante quatro anos num estúdio de Moscovo. Fizemos dois jogos para telemóvel e um para computador. Depois experimentei o Unreal num projeto pequeno, mas nunca o usei a sério: é pesado e a equipa era só de três pessoas. Desde que cheguei ao IADE, tenho trabalhado sobretudo com o Godot. Nos últimos dois anos tenho preparado todos os exemplos das aulas nesse motor, e os alunos têm aprendido mais depressa do que com o Unity. Ainda não usei o Phaser, mas tenho lido a documentação, porque alguns alunos querem fazer jogos para o browser. Há três meses que tenho um protótipo em Phaser no computador, mas ainda não o acabei."),
+  ("Alex", "Comecei a programar jogos há doze anos, ainda na universidade. O primeiro motor que usei foi o Unity, e trabalhei com ele durante quatro anos num estúdio de Moscovo. Fizemos dois jogos para telemóvel e um para computador. Depois experimentei o Unreal num projeto pequeno, mas nunca o usei a sério: é pesado e a equipa era só de três pessoas. Desde que cheguei à Escola Lumen, tenho trabalhado sobretudo com o Godot. Nos últimos dois anos tenho preparado todos os exemplos das aulas nesse motor, e os alunos têm aprendido mais depressa do que com o Unity. Ainda não usei o Phaser, mas tenho lido a documentação, porque alguns alunos querem fazer jogos para o browser. Há três meses que tenho um protótipo em Phaser no computador, mas ainda não o acabei."),
 ))
 
 + Первый проход без текста: четыре движка и что с каждым сделано.
@@ -149,7 +149,7 @@
 + Há quanto tempo programa jogos?
 + Quantos anos trabalhou com o Unity?
 + Porque é que nunca usou o Unreal a sério?
-+ Com que motor tem trabalhado no IADE?
++ Com que motor tem trabalhado na Escola Lumen?
 + Já usou o Phaser?
 + Há quanto tempo tem o protótipo em Phaser?
 ])
@@ -161,7 +161,7 @@
 Произнесите каждую модель минимум три раза, меняя выделенную часть:
 
 
-- Há #strong[dois anos] que #strong[dou aulas no IADE].
+- Há #strong[dois anos] que #strong[dou aulas na Escola Lumen].
 - Ultimamente tenho #strong[trabalhado com o Godot / tocado com uma banda / lido sobre Phaser].
 - Já #strong[trabalhei com Unity], mas nunca #strong[usei o Unreal a sério].
 - Alguma vez #strong[deste um concerto]? — Ainda não.
@@ -224,7 +224,7 @@ Não, nunca usei. / Já, uma vez. / Ainda não entregaram. / Já, seis. / Ainda 
 + Alguma vez ensinaste online? (ещё нет)
 ]),
   ([Упражнение D — RU → PT], [
-Há três anos que dou aulas no IADE. / Toco bateria desde os doze anos. / Tocamos juntos desde que cheguei a Lisboa. / Cheguei a Portugal há dois anos. / Há quanto tempo trabalhas com o Godot? / Desde setembro tenho lido muito sobre o Phaser.
+Há três anos que dou aulas na Escola Lumen. / Toco bateria desde os doze anos. / Tocamos juntos desde que cheguei a Lisboa. / Cheguei a Portugal há dois anos. / Há quanto tempo trabalhas com o Godot? / Desde setembro tenho lido muito sobre o Phaser.
 
 ]),
   ([Проверка понимания], [
@@ -234,7 +234,7 @@ Há doze anos. Quatro anos. É pesado e a equipa era pequena. Com o Godot. Ainda
   ([Опора — открыть только если застряли], [
 Cara Professora Inês,
 
-Envio, como pediu, um resumo da minha experiência. Há dois anos que dou aulas no IADE, nas cadeiras de Introdução aos Motores de Jogo e Design de Sistemas. Antes disso, trabalhei quatro anos num estúdio em Moscovo, onde fizemos três jogos com o Unity. Já experimentei o Unreal, mas nunca o usei num projeto grande. Desde que cheguei ao IADE, tenho trabalhado sobretudo com o Godot e tenho preparado todos os materiais das aulas nesse motor. Ainda não usei o Phaser, mas tenho lido a documentação e tenciono usá-lo no próximo semestre. Fora do IADE, toco bateria desde os quinze anos; nos últimos meses tenho tocado com uma banda de Lisboa e já demos seis concertos. Tem sido uma experiência muito útil para as aulas de áudio.
+Envio, como pediu, um resumo da minha experiência. Há dois anos que dou aulas na Escola Lumen, nas cadeiras de Introdução aos Motores de Jogo e Design de Sistemas. Antes disso, trabalhei quatro anos num estúdio em Moscovo, onde fizemos três jogos com o Unity. Já experimentei o Unreal, mas nunca o usei num projeto grande. Desde que cheguei à Escola Lumen, tenho trabalhado sobretudo com o Godot e tenho preparado todos os materiais das aulas nesse motor. Ainda não usei o Phaser, mas tenho lido a documentação e tenciono usá-lo no próximo semestre. Fora da Escola Lumen, toco bateria desde os quinze anos; nos últimos meses tenho tocado com uma banda de Lisboa e já demos seis concertos. Tem sido uma experiência muito útil para as aulas de áudio.
 
 Com os melhores cumprimentos, \
 Alex

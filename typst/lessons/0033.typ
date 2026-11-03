@@ -87,7 +87,7 @@
 
 #exercise([Упражнение B — #pt[há] или #pt[desde]], [
 + Moro em Lisboa \_\_\_ dois anos.
-+ Trabalho no IADE \_\_\_ setembro.
++ Trabalho na Escola Lumen \_\_\_ setembro.
 + \_\_\_ três meses que não vejo o Rui.
 + A Sofia vive nesta rua \_\_\_ que nasceu.
 + Mudei-me para cá \_\_\_ um ano.
@@ -155,7 +155,7 @@
 
 
 - Moro #strong[em Lisboa / neste apartamento / com a minha família] há #strong[dois anos / seis meses / muito tempo].
-- Desde #strong[setembro / 2024 / que cheguei] que #strong[trabalho no IADE / toco na banda / não fumo].
+- Desde #strong[setembro / 2024 / que cheguei] que #strong[trabalho na Escola Lumen / toco na banda / não fumo].
 - Dantes morava #strong[num T1 / no rés-do-chão / com colegas]; agora moro #strong[num T2 / no quarto andar / sozinho].
 - A #strong[sala / cozinha / varanda] dá para #strong[a rua / o rio / o quintal].
 - A bateria fica #strong[no quarto pequeno / na garagem / na arrecadação].

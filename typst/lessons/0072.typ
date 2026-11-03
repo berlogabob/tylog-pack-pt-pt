@@ -82,7 +82,7 @@
 
 #table(columns: 3,
   table.header([Цель из MISSION.md], [Подтверждение], [Да / частично / нет]),
-  [Поддерживать 15-минутный разговор с сотрудниками IADE на знакомые рабочие темы], [урок 66 (12 мин) + урок 69 (10 мин)], [\_\_\_],
+  [Поддерживать 15-минутный разговор с сотрудниками Escola Lumen на знакомые рабочие темы], [урок 66 (12 мин) + урок 69 (10 мин)], [\_\_\_],
   [За 5 минут объяснить идею game framework, учебного задания или музыкального проекта и ответить на вопросы], [урок 69, монолог + вопросы 6–10], [\_\_\_],
   [Понимать основную мысль и 5+ деталей в 3–5-минутной записи PT-PT после двух прослушиваний], [урок 60 + урок 71], [\_\_\_],
   [Писать понятные сообщения и письма объёмом 130–160 слов], [урок 70, оба текста ≥9/12], [\_\_\_],
@@ -94,7 +94,7 @@
 
 
 #exercise([Пример формулировки], [
-Consigo falar dez minutos sobre o meu trabalho no IADE, explicar um projeto e escrever um email formal de 150 palavras. Ainda não percebo bem a fala rápida sem transcrição e hesito no conjuntivo.
+Consigo falar dez minutos sobre o meu trabalho na Escola Lumen, explicar um projeto e escrever um email formal de 150 palavras. Ainda não percebo bem a fala rápida sem transcrição e hesito no conjuntivo.
 
 ])
 
@@ -117,7 +117,7 @@ Consigo falar dez minutos sobre o meu trabalho no IADE, explicar um projeto e es
 === 2. Три правила следующего цикла
 
 + Новый материал только при выполненной норме повторения: \>80 просроченных фраз — стоп на новые.
-+ Каждая неделя — одна профессиональная сцена (IADE, фреймворки, музыка, барабаны) с записью.
++ Каждая неделя — одна профессиональная сцена (Escola Lumen, фреймворки, музыка, барабаны) с записью.
 + Уровень CEFR не объявлять; фиксировать выполненные задачи.
 
 === 3. Недельная запись — шаблон из portuguese-learning-research.md

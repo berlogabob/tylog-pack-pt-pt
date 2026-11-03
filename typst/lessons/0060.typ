@@ -40,7 +40,7 @@
 #exercise([Упражнение — 8 утверждений], [
 + O projeto começou em janeiro.
 + As escolas de música ficam em Oeiras e em Loures.
-+ Participam oitenta alunos do IADE.
++ Participam oitenta alunos da Escola Lumen.
 + Todas as equipas usam Unity.
 + O atraso máximo é de vinte milissegundos.
 + As crianças melhoraram cerca de vinte por cento.
@@ -119,37 +119,37 @@
 #answers((
   ([Текст записи — открыть только после ответов], [
 #dialogue((
-  ("Sofia", "Boa tarde. Hoje falamos com o Nuno Almeida, professor no IADE e responsável por um projeto que junta videojogos e ensino de música. Nuno, em que consiste o projeto?"),
+  ("Sofia", "Boa tarde. Hoje falamos com o Nuno Almeida, professor na Escola Lumen e responsável por um projeto que junta videojogos e ensino de música. Nuno, em que consiste o projeto?"),
   ("Nuno", "Boa tarde. O projeto chama-se «Ritmo Aberto» e começou em setembro do ano passado. A ideia é simples: os alunos de design de jogos criam pequenos jogos de ritmo, e depois esses jogos são testados em duas escolas de música da Grande Lisboa, uma em Oeiras e outra em Loures."),
   ("Sofia", "Quantas pessoas participam?"),
-  ("Nuno", "Neste momento temos trinta e dois alunos do IADE, divididos em oito equipas, e cerca de cem crianças entre os oito e os doze anos que testam os protótipos."),
+  ("Nuno", "Neste momento temos trinta e dois alunos da Escola Lumen, divididos em oito equipas, e cerca de cem crianças entre os oito e os doze anos que testam os protótipos."),
   ("Sofia", "E que tecnologia usam?"),
   ("Nuno", "Cada equipa escolhe o seu motor de jogo. A maioria trabalha com Godot, porque é código aberto e corre bem em computadores antigos, que é o que as escolas têm. Duas equipas usam Unity. O importante é que o jogo reaja ao som em tempo real, com menos de vinte milissegundos de atraso."),
   ("Sofia", "Já há resultados?"),
   ("Nuno", "Sim. No primeiro semestre, as crianças que jogaram três vezes por semana melhoraram a leitura rítmica em cerca de vinte por cento, em comparação com o grupo que só teve aulas tradicionais. Não é um estudo científico completo, mas é um sinal muito bom."),
-  ("Sofia", "E os alunos do IADE, o que aprendem com isto?"),
+  ("Sofia", "E os alunos da Escola Lumen, o que aprendem com isto?"),
   ("Nuno", "Aprendem a trabalhar com utilizadores reais. Uma criança de nove anos não lê o manual: ou o jogo é claro, ou ela desiste em dois minutos. Isso obriga as equipas a simplificar o design."),
   ("Sofia", "Qual é o próximo passo?"),
-  ("Nuno", "Em maio apresentamos os três melhores jogos na Feira de Ciência de Lisboa, e em junho abrimos o código de todos os projetos. Quem quiser colaborar pode escrever para o endereço que está no sítio do IADE."),
+  ("Nuno", "Em maio apresentamos os três melhores jogos na Feira de Ciência de Lisboa, e em junho abrimos o código de todos os projetos. Quem quiser colaborar pode escrever para o endereço que está no sítio da Escola Lumen."),
   ("Sofia", "Nuno Almeida, muito obrigada."),
   ("Nuno", "Obrigado eu."),
 ))
 ]),
   ([Ответ], [
-A entrevista é sobre um projeto do IADE em que alunos criam jogos de ritmo para ensinar música a crianças. (Засчитывается любая формулировка с «IADE / alunos», «jogos» и «música / crianças».)
+A entrevista é sobre um projeto da Escola Lumen em que alunos criam jogos de ritmo para ensinar música a crianças. (Засчитывается любая формулировка с «Escola Lumen / alunos», «jogos» и «música / crianças».)
 
 ]),
   ([Ответы — 10 возможных фактов], [
 + O projeto chama-se «Ritmo Aberto» e começou em setembro do ano passado.
 + Os jogos são testados em duas escolas de música: Oeiras e Loures.
-+ Participam 32 alunos do IADE em 8 equipas.
++ Participam 32 alunos da Escola Lumen em 8 equipas.
 + Cerca de 100 crianças dos 8 aos 12 anos testam os protótipos.
 + A maioria usa Godot (código aberto, corre em computadores antigos); duas equipas usam Unity.
 + O jogo tem de reagir ao som com menos de 20 milissegundos de atraso.
 + As crianças que jogaram 3 vezes por semana melhoraram a leitura rítmica em cerca de 20 %.
 + Uma criança de 9 anos desiste em 2 minutos se o jogo não for claro.
 + Em maio, os 3 melhores jogos vão à Feira de Ciência de Lisboa.
-+ Em junho abrem o código de todos os projetos; contacto no sítio do IADE.
++ Em junho abrem o código de todos os projetos; contacto no sítio da Escola Lumen.
 ]),
   ([Ответы — образцы], [
 - Pode repetir a parte sobre as escolas de música? Onde ficam?
@@ -163,7 +163,7 @@ A entrevista é sobre um projeto do IADE em que alunos criam jogos de ritmo para
 
 ]),
   ([Модель пересказа — открыть после записи], [
-Ouvi uma entrevista com o Nuno Almeida, professor no IADE, sobre o projeto «Ritmo Aberto». Segundo o Nuno, trinta e dois alunos, em oito equipas, criam jogos de ritmo que são testados por cerca de cem crianças em Oeiras e Loures. A maioria usa Godot, porque é código aberto e corre em computadores antigos. As crianças que jogaram três vezes por semana melhoraram a leitura rítmica em vinte por cento, ou seja, o jogo funciona como método de ensino. Em maio apresentam os três melhores jogos numa feira e em junho abrem o código. Resumindo, é um projeto que junta design de jogos, música e escolas reais.
+Ouvi uma entrevista com o Nuno Almeida, professor na Escola Lumen, sobre o projeto «Ritmo Aberto». Segundo o Nuno, trinta e dois alunos, em oito equipas, criam jogos de ritmo que são testados por cerca de cem crianças em Oeiras e Loures. A maioria usa Godot, porque é código aberto e corre em computadores antigos. As crianças que jogaram três vezes por semana melhoraram a leitura rítmica em vinte por cento, ou seja, o jogo funciona como método de ensino. Em maio apresentam os três melhores jogos numa feira e em junho abrem o código. Resumindo, é um projeto que junta design de jogos, música e escolas reais.
 
 ]),
   ([Упражнение — журнал ошибок недели (заполнить ≥6 строк)], [

@@ -126,7 +126,7 @@
 + A Inês fala com o Rui \_\_\_ ao estúdio.
 + \_\_\_ ir ao concerto, avisa-me.
 + \_\_\_ um computador melhor, instalo o Unity.
-+ \_\_\_ ao IADE amanhã, passa pelo meu gabinete.
++ \_\_\_ à Escola Lumen amanhã, passa pelo meu gabinete.
 ])
 
 #exercise([Упражнение D — #pt[se] + presente или блок будущего?], [
@@ -188,7 +188,7 @@
 - Se #strong[não percebes], #strong[pergunta].
 - Se tiver #strong[tempo], #strong[respondo-te à noite].
 - Quando puder, #strong[compro pratos novos].
-- Falo contigo quando for #strong[ao IADE].
+- Falo contigo quando for #strong[à Escola Lumen].
 
 === 2. Мини-роль
 
@@ -197,7 +197,7 @@
 
 === 3. Письмо
 
-Восемь фраз о ближайшем месяце: три с #pt[embora], три с #pt[se] (одна с презентом, две с блоками), две с #pt[quando puder / for / tiver]. Темы: IADE, репетиции, город.
+Восемь фраз о ближайшем месяце: три с #pt[embora], три с #pt[se] (одна с презентом, две с блоками), две с #pt[quando puder / for / tiver]. Темы: Escola Lumen, репетиции, город.
 
 
 === 4. Drops — 5 минут дополнительно
@@ -251,7 +251,7 @@ fales; coma; partamos; seja; tenha; estejas; façam; possa; toquem (орфогр
 
 ]),
   ([Опора — открыть только если застряли], [
-Embora tenha muitas aulas este mês, quero acabar o protótipo do jogo. Embora o Rui esteja ocupado, vamos ensaiar duas vezes por semana. Embora Lisboa seja cara, gosto de viver aqui. Se não percebo uma palavra na reunião, pergunto logo. Se tiver tempo no sábado, vou ao concerto no Cais do Sodré. Se puder, levo os alunos a uma conferência de jogos. Quando puder, compro uma pele nova para a tarola. Quando for ao IADE na segunda, falo com a Sofia sobre a avaliação.
+Embora tenha muitas aulas este mês, quero acabar o protótipo do jogo. Embora o Rui esteja ocupado, vamos ensaiar duas vezes por semana. Embora Lisboa seja cara, gosto de viver aqui. Se não percebo uma palavra na reunião, pergunto logo. Se tiver tempo no sábado, vou ao concerto no Cais do Sodré. Se puder, levo os alunos a uma conferência de jogos. Quando puder, compro uma pele nova para a tarola. Quando for à Escola Lumen na segunda, falo com a Sofia sobre a avaliação.
 
 ]),
 

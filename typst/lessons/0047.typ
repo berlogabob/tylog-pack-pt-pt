@@ -26,7 +26,7 @@
 Расскажите о себе. Обязательные блоки, в этом порядке:
 
 + имя, возраст, откуда, сколько времени в Португалии;
-+ работа в IADE: что преподаёте, почему нравится;
++ работа в Escola Lumen: что преподаёте, почему нравится;
 + музыка и барабаны: когда начали (#pt[imperfeito]), что делаете сейчас;
 + одно событие прошлого месяца (#pt[pretérito perfeito]);
 + выходные и одна цель на год (#pt[ir + infinitivo] или #pt[o meu objetivo é…]).
@@ -39,7 +39,7 @@
 
 #card(none, [
 + Há quanto tempo é que vive em Portugal e porque é que veio para cá?
-+ Como é um dia normal de trabalho no IADE? A que horas começa e acaba?
++ Como é um dia normal de trabalho na Escola Lumen? A que horas começa e acaba?
 + O que é que fez no fim de semana passado?
 + Prefere trabalhar com Unity ou com Godot? Porquê?
 + Quando era criança, que música ouvia em casa?
@@ -51,7 +51,7 @@
 == Parte 3 — Tarefa  #pill("3–4 минуты")
 
 #card(none, [
-#strong[Ситуация (вместо картинки).] Вторник, 8:50. Аудитория 2.5 в IADE: двадцать студентов, на столах ноутбуки, на стене проектор с чёрным экраном, на полу кабель без разъёма, на доске написано «Unity — aula 6». За дверью в коридоре стоит Sr. Carvalho из секретариата с коробкой оборудования.
+#strong[Ситуация (вместо картинки).] Вторник, 8:50. Аудитория 2.5 в Escola Lumen: двадцать студентов, на столах ноутбуки, на стене проектор с чёрным экраном, на полу кабель без разъёма, на доске написано «Unity — aula 6». За дверью в коридоре стоит Sr. Carvalho из секретариата с коробкой оборудования.
 
 #strong[Шаг 1 (1–1,5 минуты):] опишите, что видите: кто, где, что делает, что не работает. Используйте #pt[há / estar a / ao lado de / em frente de].
 
@@ -78,13 +78,13 @@
 
 
 #exercise([Упражнение — 8 типичных ошибок устной речи, исправьте вслух], [
-+ Eu #strong[estou] professor no IADE.
++ Eu #strong[estou] professor na Escola Lumen.
 + Vivo em Lisboa #strong[desde] dois anos.
 + Quando #strong[fui] criança, #strong[toquei] piano todos os dias.
 + No mês passado #strong[vou] a um concerto.
 + Senhor Carvalho, #strong[podes] ajudar-me?
 + Os alunos #strong[estão fazendo] o exercício.
-+ Vou #strong[no] IADE #strong[com] metro.
++ Vou #strong[na] Escola Lumen #strong[com] metro.
 + #strong[Eu gosto] muito #strong[o] Godot.
 ])
 
@@ -111,7 +111,7 @@
   ([Модель — открыть только после своей записи], [
 #audio-ref("0047-modelo")
 #dialogue((
-  ("Alex", "Olá, bom dia. Chamo-me Alex e tenho trinta e cinco anos. Sou russo, mas vivo em Lisboa há dois anos. Trabalho no IADE, onde dou aulas de desenvolvimento de jogos. Gosto muito do meu trabalho porque os alunos são curiosos e fazem muitas perguntas."),
+  ("Alex", "Olá, bom dia. Chamo-me Alex e tenho trinta e cinco anos. Sou russo, mas vivo em Lisboa há dois anos. Trabalho na Escola Lumen, onde dou aulas de desenvolvimento de jogos. Gosto muito do meu trabalho porque os alunos são curiosos e fazem muitas perguntas."),
   ("Alex", "Nos tempos livres toco bateria. Comecei a tocar quando era adolescente e hoje ensaio duas vezes por semana com uns amigos, num estúdio em Benfica. Também gosto de ouvir música ao vivo. No mês passado fui a um concerto de fado em Alfama e gostei muito."),
   ("Alex", "Ao fim de semana costumo passear junto ao rio ou ir ao mercado. O meu objetivo este ano é falar português no trabalho sem usar inglês. Por isso, estudo todos os dias: trinta minutos de manhã e trinta à noite."),
 ))
@@ -139,7 +139,7 @@
 - Então fico à espera aqui. Muito obrigado pela ajuda.
 ]),
   ([Упражнение — 8 типичных ошибок устной речи, исправьте вслух], [
-Eu #strong[sou] professor no IADE.
+Eu #strong[sou] professor na Escola Lumen.
 
 Vivo em Lisboa #strong[há] dois anos.
 
@@ -151,7 +151,7 @@ Senhor Carvalho, #strong[pode / podia] ajudar-me?
 
 Os alunos #strong[estão a fazer] o exercício.
 
-Vou #strong[para o] IADE #strong[de] metro.
+Vou #strong[para a] Escola Lumen #strong[de] metro.
 
 Gosto muito #strong[do] Godot.
 

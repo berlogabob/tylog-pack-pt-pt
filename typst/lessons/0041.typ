@@ -1,9 +1,9 @@
 #import "../course.typ": *
-#show: lesson.with((n: 41, week: 7, day: 5, title: [Estou? Posso falar com…? — telefone e equipamento], lead: [Телефонные формулы PT-PT: #pt[Estou? Está? Posso falar com…? É o próprio. Quem fala? Quer deixar recado? Ligo mais tarde. A ligação está má.] Барабаны и студийное оборудование по-португальски; #pt[não funciona, está avariado, precisa de ser substituído]; как попросить техника IADE о помощи.]))
+#show: lesson.with((n: 41, week: 7, day: 5, title: [Estou? Posso falar com…? — telefone e equipamento], lead: [Телефонные формулы PT-PT: #pt[Estou? Está? Posso falar com…? É o próprio. Quem fala? Quer deixar recado? Ligo mais tarde. A ligação está má.] Барабаны и студийное оборудование по-португальски; #pt[não funciona, está avariado, precisa de ser substituído]; как попросить техника Escola Lumen о помощи.]))
 
 == Сессия 1 — язык и форма  #pill("30 минут")
 
-=== 1. Диалог — chamada para a secretaria do IADE
+=== 1. Диалог — chamada para a secretaria da Escola Lumen
 
 #card("Результат урока", [
 #checklist-items(([начать и закончить телефонный разговор, представиться, попросить к телефону;], [оставить и принять сообщение (#pt[recado]), переспросить при плохой связи;], [назвать 15 предметов из барабанной и студийной зоны;], [описать поломку: #pt[não funciona, está avariado, está partido, precisa de ser substituído];], [попросить техника о помощи и забронировать аудиторию по телефону.],))
@@ -14,7 +14,7 @@
 #audio-ref("0041-dialogue")
 
 #dialogue((
-  ("Dona Graça", "Secretaria do IADE, bom dia. Estou?"),
+  ("Dona Graça", "Secretaria da Escola Lumen, bom dia. Estou?"),
   ("Alex", "Bom dia. Fala o Alex Volkov, professor de programação de jogos. Posso falar com o Rui Santos, o técnico?"),
   ("Dona Graça", "Um momento, não desligue. Vou ver se está no gabinete."),
   ("Alex", "Com certeza, eu espero."),
@@ -38,7 +38,7 @@
 
 #table(columns: 3,
   table.header([Ситуация], [Português], [Значение]),
-  [снять трубку], [Estou? / Está? / Sim? / IADE, bom dia.], [Алло? (PT-PT; не #emph[alô])],
+  [снять трубку], [Estou? / Está? / Sim? / Escola Lumen, bom dia.], [Алло? (PT-PT; не #emph[alô])],
   [представиться], [Fala o Alex. / Daqui fala a Sofia. / É o Alex Volkov.], [Это Алекс. / Говорит София.],
   [попросить к телефону], [Posso falar com…? / Queria falar com… / Pode passar-me ao Rui?], [Можно поговорить с…? / Соедините с…],
   [это я], [É o próprio. / É a própria. / Sou eu.], [Это он/она и есть. / Это я.],

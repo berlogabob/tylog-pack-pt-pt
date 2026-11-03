@@ -1,5 +1,5 @@
 #import "../course.typ": *
-#show: lesson.with((n: 16, week: 3, day: 4, title: [Horas e rotina], lead: [Который час, дни недели, части суток, наречия частоты. День преподавателя в IADE.]))
+#show: lesson.with((n: 16, week: 3, day: 4, title: [Horas e rotina], lead: [Который час, дни недели, части суток, наречия частоты. День преподавателя в Escola Lumen.]))
 
 == Сессия 1 — язык и форма  #pill("30 минут")
 
@@ -18,7 +18,7 @@
   ("Alex", "À segunda e à quarta começo às nove. À terça só tenho aula às duas da tarde."),
   ("Inês", "E acabas tarde?"),
   ("Alex", "Normalmente acabo às seis. Às vezes fico até às sete para preparar a aula seguinte."),
-  ("Inês", "Almoças no IADE?"),
+  ("Inês", "Almoças na Escola Lumen?"),
   ("Alex", "Quase sempre. Almoço à uma, na cantina, com os colegas."),
   ("Inês", "Que horas são agora?"),
   ("Alex", "São dez e um quarto. Tenho uma reunião ao meio-dia e meia."),
@@ -75,7 +75,7 @@
 #table(columns: 3,
   table.header([Português], [Значение], [Пример]),
   [sempre], [всегда], [Almoço sempre à uma.],
-  [quase sempre], [почти всегда], [Quase sempre almoço no IADE.],
+  [quase sempre], [почти всегда], [Quase sempre almoço na Escola Lumen.],
   [normalmente / geralmente], [обычно], [Normalmente acabo às seis.],
   [muitas vezes], [часто], [Fico muitas vezes até às sete.],
   [às vezes], [иногда], [Às vezes janto fora.],
@@ -89,12 +89,12 @@
 #strong[Место в фразе:] #pt[normalmente, às vezes, geralmente] — обычно в начале фразы; #pt[sempre, nunca, raramente] — перед глаголом или сразу после; #pt[todos os dias, uma vez por semana] — в конце. Перед возвратным глаголом #pt[nunca, raramente, sempre, também] вызывают проклизу: #pt[Nunca me levanto cedo. Também me deito tarde.]
 
 
-=== 5. Монолог: день преподавателя в IADE
+=== 5. Монолог: день преподавателя в Escola Lumen
 
 #audio-ref("0016-audio2")
 
 #dialogue((
-  ("Alex", "Chamo-me Alex e sou professor no IADE, em Lisboa. Durante a semana levanto-me às sete. Tomo duche, bebo um café e saio de casa às oito. Apanho o autocarro e chego ao IADE por volta das oito e meia."),
+  ("Alex", "Chamo-me Alex e sou professor na Escola Lumen, em Lisboa. Durante a semana levanto-me às sete. Tomo duche, bebo um café e saio de casa às oito. Apanho o autocarro e chego à Escola Lumen por volta das oito e meia."),
   ("Alex", "De manhã dou aulas de programação de jogos. Ao meio-dia almoço na cantina com os colegas. À tarde respondo a emails, preparo as aulas e falo com os alunos sobre os projetos. Saio às seis."),
   ("Alex", "À terça e à quinta vou ao ensaio da banda; toco bateria. Janto às nove, leio um pouco e deito-me à meia-noite. Ao domingo não trabalho: durmo até tarde e passeio junto ao rio."),
 ))
@@ -123,7 +123,7 @@
 ])
 
 #exercise([Упражнение D — вставьте наречие частоты в нужное место], [
-+ Almoço no IADE. (quase sempre)
++ Almoço na Escola Lumen. (quase sempre)
 + Deito-me antes da meia-noite. (nunca)
 + Acabo às seis. (normalmente)
 + Pratico bateria. (todos os dias)
@@ -185,7 +185,7 @@
 
 === 2. Мини-роль
 
-Новый коллега спрашивает о вашем расписании в IADE: дни занятий, часы, обед, встречи, репетиции. Ответьте на семь вопросов, каждый раз называя время. Затем задайте пять вопросов с #pt[A que horas…?] Запишите 2 минуты.
+Новый коллега спрашивает о вашем расписании в Escola Lumen: дни занятий, часы, обед, встречи, репетиции. Ответьте на семь вопросов, каждый раз называя время. Затем задайте пять вопросов с #pt[A que horas…?] Запишите 2 минуты.
 
 
 === 3. Письмо
@@ -243,7 +243,7 @@ Levanto-me às sete. Começa às nove e meia. Almoço à uma. É ao meio-dia e m
 
 ]),
   ([Упражнение D — вставьте наречие частоты в нужное место], [
-Quase sempre almoço no IADE. Nunca me deito antes da meia-noite. Normalmente acabo às seis. Pratico bateria todos os dias. De vez em quando vou a um concerto. Raramente me levanto cedo ao domingo. Ensaiamos duas vezes por semana. Tomo sempre café de manhã.
+Quase sempre almoço na Escola Lumen. Nunca me deito antes da meia-noite. Normalmente acabo às seis. Pratico bateria todos os dias. De vez em quando vou a um concerto. Raramente me levanto cedo ao domingo. Ensaiamos duas vezes por semana. Tomo sempre café de manhã.
 
 ]),
   ([Упражнение E — переведите], [
@@ -251,7 +251,7 @@ Que horas são? — São dez e meia. A que horas começa a aula? — Às nove em
 
 ]),
   ([Проверка понимания], [
-понедельник и среда; в два часа дня; в шесть, иногда до семи готовит следующее занятие; в столовой IADE с коллегами; 10:15, встреча; два раза, никогда после пяти; встаёт в десять, вечером играет с группой.
+понедельник и среда; в два часа дня; в шесть, иногда до семи готовит следующее занятие; в столовой Escola Lumen с коллегами; 10:15, встреча; два раза, никогда после пяти; встаёт в десять, вечером играет с группой.
 
 ]),
   ([Опора — открыть только если застряли], [

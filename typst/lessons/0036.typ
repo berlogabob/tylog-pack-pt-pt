@@ -21,7 +21,7 @@
 + O Alex (estar) \_\_\_ a dar aula quando o projetor (deixar) \_\_\_ de funcionar.
 + A minha avó (pôr) \_\_\_ sempre a mesa às oito.
 + De repente, a luz (ir) \_\_\_ abaixo.
-+ Naquela altura, o IADE (ficar) \_\_\_ noutro edifício.
++ Naquela altura, a Escola Lumen (ficar) \_\_\_ noutro edifício.
 + (Eu, conhecer) \_\_\_ a Sofia em 2024, no primeiro dia de aulas.
 + Não (eu, saber) \_\_\_ que tinhas uma banda! — Só (eu, saber) \_\_\_ ontem.
 + Ele não (poder) \_\_\_ vir porque (estar) \_\_\_ doente.
@@ -59,7 +59,7 @@
 
 == Часть 4 — история на 4 минуты  #pill("20 минут")
 
-Один дубль на диктофон, 3,5–4,5 минуты, без бумаги. Тема на выбор: первый день в IADE; концерт или репетиция, которые пошли не так; день, когда вы купили барабаны; переезд в Лиссабон. План допускается только в виде пяти слов. Обязательные элементы:
+Один дубль на диктофон, 3,5–4,5 минуты, без бумаги. Тема на выбор: первый день в Escola Lumen; концерт или репетиция, которые пошли не так; день, когда вы купили барабаны; переезд в Лиссабон. План допускается только в виде пяти слов. Обязательные элементы:
 
 
 + когда и где (#pt[Era… / Nessa altura vivia…]);
@@ -148,7 +148,7 @@
 
 ]),
   ([Модель — открыть после записи], [
-Era setembro de 2024 e eu estava em Lisboa há só duas semanas. Nessa altura vivia num T1 em Arroios e ainda não conhecia ninguém. No primeiro dia de aulas no IADE estava muito nervoso: eram oito da manhã, chovia e o metro estava cheio. O coordenador chamava-se Sr. Carvalho; era baixo, tinha o cabelo branco e usava sempre gravata. Dantes eu costumava preparar as aulas em russo e traduzir depois, por isso levava três páginas de notas. Primeiro, entrei na sala errada e esperei dez minutos sozinho. Depois, quando cheguei à sala certa, os alunos já estavam à espera. Estava a explicar o ciclo de jogo quando o projetor deixou de funcionar. Entretanto, os alunos conversavam e eu não sabia o que fazer. Por fim, uma aluna, a Marta, ligou o portátil dela ao ecrã e continuámos a aula. No fim, os alunos bateram palmas. Desde então preparo as aulas em português, e a Marta ainda me ajuda com o equipamento. Já não tenho medo do projetor.
+Era setembro de 2024 e eu estava em Lisboa há só duas semanas. Nessa altura vivia num T1 em Arroios e ainda não conhecia ninguém. No primeiro dia de aulas na Escola Lumen estava muito nervoso: eram oito da manhã, chovia e o metro estava cheio. O coordenador chamava-se Sr. Carvalho; era baixo, tinha o cabelo branco e usava sempre gravata. Dantes eu costumava preparar as aulas em russo e traduzir depois, por isso levava três páginas de notas. Primeiro, entrei na sala errada e esperei dez minutos sozinho. Depois, quando cheguei à sala certa, os alunos já estavam à espera. Estava a explicar o ciclo de jogo quando o projetor deixou de funcionar. Entretanto, os alunos conversavam e eu não sabia o que fazer. Por fim, uma aluna, a Marta, ligou o portátil dela ao ecrã e continuámos a aula. No fim, os alunos bateram palmas. Desde então preparo as aulas em português, e a Marta ainda me ajuda com o equipamento. Já não tenho medo do projetor.
 
 ]),
 

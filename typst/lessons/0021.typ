@@ -42,7 +42,7 @@
   [Não pode enganar-se.], [Не ошибётесь (не заблудитесь).],
 )
 
-Для расположения используют #pt[ficar] или #pt[ser]: #pt[Onde fica o IADE? Onde é o IADE?] Ответ: #pt[Fica na Avenida D. Carlos I, em Santos.]
+Для расположения используют #pt[ficar] или #pt[ser]: #pt[Onde fica a Escola Lumen? Onde é a Escola Lumen?] Ответ: #pt[Fica na Avenida D. Carlos I, em Santos.]
 
 
 === 3. Выражения места
@@ -82,7 +82,7 @@
 
 
 #exercise([Упражнение A — выражения места (по описанию)], [
-Na Rua do IADE: à esquerda há um café, à direita uma farmácia. O café e a farmácia ficam um em frente do outro. Depois da farmácia há um banco; depois do banco, os correios. No fim da rua fica a estação.
+Na Rua da Escola Lumen: à esquerda há um café, à direita uma farmácia. O café e a farmácia ficam um em frente do outro. Depois da farmácia há um banco; depois do banco, os correios. No fim da rua fica a estação.
 
 + A farmácia fica \_\_\_ (напротив) café.
 + O banco fica \_\_\_ (рядом с) farmácia.
@@ -105,9 +105,9 @@ Na Rua do IADE: à esquerda há um café, à direita uma farmácia. O café e a 
 + (sair) \_\_\_ na terceira paragem.
 ])
 
-#exercise([Упражнение C — восстановите порядок маршрута (от IADE до Cais do Sodré)], [
+#exercise([Упражнение C — восстановите порядок маршрута (от Escola Lumen до Cais do Sodré)], [
 + No fim da rua, vira à direita.
-+ Sai do IADE e vira à esquerda.
++ Sai da Escola Lumen e vira à esquerda.
 + A estação do Cais do Sodré fica em frente, ao pé do rio.
 + Segue em frente pela Avenida D. Carlos I.
 + Continua pela Rua de São Paulo até ao fim.
@@ -122,7 +122,7 @@ Na Rua do IADE: à esquerda há um café, à direita uma farmácia. O café e a 
 + Continue \_\_\_ (até + o) semáforo.
 + O café fica \_\_\_ (na esquina + de + a) Rua Augusta.
 + Vire \_\_\_ (a + a) esquerda \_\_\_ (em + a) segunda rua.
-+ O IADE fica \_\_\_ (perto + de + o) rio.
++ A Escola Lumen fica \_\_\_ (perto + de + o) rio.
 ])
 
 #exercise([Упражнение E — переведите], [
@@ -174,9 +174,9 @@ Na Rua do IADE: à esquerda há um café, à direita uma farmácia. O café e a 
 - Fica a #strong[cinco minutos a pé / duzentos metros / duas paragens].
 - Segue pela #strong[Rua Augusta / Avenida da Liberdade] e passa #strong[pelo Rossio / pela estação].
 
-=== 2. Мини-роль: маршрут в IADE
+=== 2. Мини-роль: маршрут в Escola Lumen
 
-Новый коллега стоит у станции Cais do Sodré и звонит вам: как дойти до IADE? Объясните на #pt[tu] в 6–8 шагах (обратный путь к упражнению C). Затем то же самое для незнакомого человека на #pt[você]. Запишите оба варианта, по 45–60 секунд.
+Новый коллега стоит у станции Cais do Sodré и звонит вам: как дойти до Escola Lumen? Объясните на #pt[tu] в 6–8 шагах (обратный путь к упражнению C). Затем то же самое для незнакомого человека на #pt[você]. Запишите оба варианта, по 45–60 секунд.
 
 
 === 3. Письмо
@@ -195,14 +195,14 @@ Na Rua do IADE: à esquerda há um café, à direita uma farmácia. O café e a 
 + Спросите дорогу тремя разными вопросами.
 + Назовите 8 выражений места с #pt[de].
 + Дайте команды #pt[seguir, virar, continuar, atravessar, sair] на #pt[tu] и #pt[você].
-+ Объясните путь от IADE до Cais do Sodré в 6 шагах.
++ Объясните путь от Escola Lumen до Cais do Sodré в 6 шагах.
 + Скажите три фразы про расстояние (#pt[fica a…]).
 #strong[Урок завершён], если удалось выполнить 4 из 5 пунктов без чтения.
 
 ], breakable: true), card([Повтор завтра  #pill("10 минут")], [
 - таблица команд #pt[tu / você] вслух;
 - диалог один раз без текста, роль Senhora;
-- маршрут в IADE заново, без записи;
+- маршрут в Escola Lumen заново, без записи;
 - сообщение студенту прочитать вслух, проверить слияния #pt[até à / ao lado do].
 ], breakable: true))
 
@@ -218,8 +218,8 @@ em frente do; ao lado da; entre a; atrás do / depois do; no fim da; do lado esq
 segue / siga; vira / vire; continua / continue; atravessa / atravesse; sobe / suba; desce / desça; apanha / apanhe; sai / saia.
 
 ]),
-  ([Упражнение C — восстановите порядок маршрута (от IADE до Cais do Sodré)], [
-2 → 4 → 6 → 5 → 1 → 3. Sai do IADE e vira à esquerda. Segue em frente pela Avenida D. Carlos I. Passa pelo jardim da Praça D. Luís I. Continua pela Rua de São Paulo até ao fim. No fim da rua, vira à direita. A estação do Cais do Sodré fica em frente, ao pé do rio.
+  ([Упражнение C — восстановите порядок маршрута (от Escola Lumen до Cais do Sodré)], [
+2 → 4 → 6 → 5 → 1 → 3. Sai da Escola Lumen e vira à esquerda. Segue em frente pela Avenida D. Carlos I. Passa pelo jardim da Praça D. Luís I. Continua pela Rua de São Paulo até ao fim. No fim da rua, vira à direita. A estação do Cais do Sodré fica em frente, ao pé do rio.
 
 ]),
   ([Упражнение D — предлог + артикль (até à, ao lado do, pela…)], [

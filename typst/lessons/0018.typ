@@ -20,7 +20,7 @@
 + Tu (poder) \_\_\_ ajudar-me? — Quero, mas não (poder) \_\_\_. (ter de) \_\_\_ preparar a aula.
 + Horas: 12:30 → \_\_\_; 9:45 → \_\_\_; A que horas almoças? (13:00) → \_\_\_.
 + Tenho aula \_\_\_ segunda (регулярно). \_\_\_ sexta que vem vou a um concerto. Ensaiamos \_\_\_ sábado (регулярно).
-+ Coloca o advérbio: Deito-me antes da meia-noite. (nunca) / Almoço no IADE. (quase sempre)
++ Coloca o advérbio: Deito-me antes da meia-noite. (nunca) / Almoço na Escola Lumen. (quase sempre)
 + \_\_\_ é que vives em Portugal? — \_\_\_ gosto do país. \_\_\_ é o teu motor de jogo preferido?
 
 Если меньше 8: отметьте номера ошибок — это уроки 13 (1), 14 (2–4), 15 (5–6), 16 (7–9), 17 (10).
@@ -28,13 +28,13 @@
 
 == Часть 3 — аудирование: монолог преподавателя  #pill("20 минут")
 
-Говорит одна незнакомая преподавательница IADE. Прочитайте 10 утверждений, затем прослушайте два раза без текста и отметьте #pt[V] или #pt[F]. Во второй раз записывайте все часы цифрами. Текст откройте только после ответов. 1 балл за утверждение.
+Говорит одна незнакомая преподавательница Escola Lumen. Прочитайте 10 утверждений, затем прослушайте два раза без текста и отметьте #pt[V] или #pt[F]. Во второй раз записывайте все часы цифрами. Текст откройте только после ответов. 1 балл за утверждение.
 
 
 + A Teresa é professora de programação.
 + Levanta-se às seis e meia.
-+ Vai para o IADE de autocarro.
-+ Chega ao IADE por volta das oito e um quarto.
++ Vai para a Escola Lumen de autocarro.
++ Chega à Escola Lumen por volta das oito e um quarto.
 + À terça dá aulas de manhã.
 + Almoça quase sempre na cantina.
 + Normalmente acaba às seis.
@@ -54,7 +54,7 @@
 + подъём и утро: два возвратных глагола с энклизой (#pt[Levanto-me…, visto-me…]);
 + завтрак и выход из дома (#pt[Como…, bebo…, saio…]);
 + транспорт (#pt[Vou de… / Apanho o…]);
-+ работа в IADE: дни и часы занятий (#pt[À segunda … das nove ao meio-dia]);
++ работа в Escola Lumen: дни и часы занятий (#pt[À segunda … das nove ao meio-dia]);
 + обед: где, во сколько, с кем;
 + вторая половина дня: три глагола на #pt[-er / -ir];
 + вечер: репетиция или музыка, ужин, сон (#pt[Deito-me…]);
@@ -122,7 +122,7 @@
 
 #h(0pt)8. à segunda, à terça, à quarta, à quinta, à sexta, ao sábado, ao domingo; na segunda … na sexta, no sábado, no domingo.
 
-#h(0pt)9. sempre, quase sempre, normalmente, muitas vezes, às vezes, de vez em quando, raramente, nunca — Almoço sempre à uma. Quase sempre almoço no IADE. Normalmente acabo às seis. Fico muitas vezes até às sete. Às vezes janto fora. De vez em quando vou a um concerto. Raramente me deito antes da meia-noite. Nunca tomo café depois das cinco.
+#h(0pt)9. sempre, quase sempre, normalmente, muitas vezes, às vezes, de vez em quando, raramente, nunca — Almoço sempre à uma. Quase sempre almoço na Escola Lumen. Normalmente acabo às seis. Fico muitas vezes até às sete. Às vezes janto fora. De vez em quando vou a um concerto. Raramente me deito antes da meia-noite. Nunca tomo café depois das cinco.
 
 #h(0pt)10. quem, com quem, o que, que, qual / quais, onde, de onde, aonde, quando, a que horas, como, porquê / porque, para quê, quanto(s) — Não vais? Porquê? Porque é que não vais? Porque tenho aula. Tenho aula, por isso não vou.
 
@@ -144,7 +144,7 @@
 
 #h(0pt)8. à; Na; ao.
 
-#h(0pt)9. Nunca me deito antes da meia-noite. Quase sempre almoço no IADE.
+#h(0pt)9. Nunca me deito antes da meia-noite. Quase sempre almoço na Escola Lumen.
 
 #h(0pt)10. Porque; Porque; Qual.
 
@@ -155,7 +155,7 @@
 ]),
   ([Текст монолога — открыть после ответов], [
 #dialogue((
-  ("Teresa", "Chamo-me Teresa e sou professora de design no IADE. Durante a semana levanto-me às seis e meia. Tomo duche, bebo um café e saio de casa às sete e meia. Vou de comboio, porque vivo em Cascais, e chego ao IADE por volta das oito e um quarto."),
+  ("Teresa", "Chamo-me Teresa e sou professora de design na Escola Lumen. Durante a semana levanto-me às seis e meia. Tomo duche, bebo um café e saio de casa às sete e meia. Vou de comboio, porque vivo em Cascais, e chego à Escola Lumen por volta das oito e um quarto."),
   ("Teresa", "À segunda e à quinta dou aulas das nove ao meio-dia. À terça só tenho aula às três da tarde. Almoço quase sempre à uma, na cantina, com os colegas. À tarde respondo aos emails e falo com os alunos sobre os projetos. Normalmente acabo às seis, mas à quarta fico até às sete, porque tenho uma reunião."),
   ("Teresa", "À noite não trabalho. Janto às oito e meia, leio um pouco e deito-me às onze. Ao sábado levanto-me tarde e vou ao ginásio. Ao domingo nunca abro o portátil."),
 ))
@@ -163,13 +163,13 @@
 
 ]),
   ([Модель — открыть после записи], [
-Durante a semana levanto-me às sete. Tomo duche, visto-me e bebo um café. Como pão com queijo e saio de casa às oito. Apanho o autocarro e chego ao IADE por volta das oito e meia. À segunda e à quarta dou aulas de programação de jogos das nove ao meio-dia; à terça só tenho aula às duas. Quase sempre almoço à uma, na cantina, com os colegas. À tarde respondo aos emails, leio os projetos dos alunos e escrevo código. Normalmente acabo às seis. À terça e à quinta vou ao ensaio da banda e toco bateria. Janto às nove e deito-me à meia-noite; nunca me deito antes. Ao sábado levanto-me às dez e ao domingo raramente trabalho. Esta semana quero acabar o projeto do jogo, mas tenho de preparar três aulas, por isso não posso ir ao concerto.
+Durante a semana levanto-me às sete. Tomo duche, visto-me e bebo um café. Como pão com queijo e saio de casa às oito. Apanho o autocarro e chego à Escola Lumen por volta das oito e meia. À segunda e à quarta dou aulas de programação de jogos das nove ao meio-dia; à terça só tenho aula às duas. Quase sempre almoço à uma, na cantina, com os colegas. À tarde respondo aos emails, leio os projetos dos alunos e escrevo código. Normalmente acabo às seis. À terça e à quinta vou ao ensaio da banda e toco bateria. Janto às nove e deito-me à meia-noite; nunca me deito antes. Ao sábado levanto-me às dez e ao domingo raramente trabalho. Esta semana quero acabar o projeto do jogo, mas tenho de preparar três aulas, por isso não posso ir ao concerto.
 
 ]),
   ([Образец — открыть после своих вопросов], [
 + A que horas é que te levantas durante a semana?
 + O que é que comes ao pequeno-almoço?
-+ Como é que vais para o IADE?
++ Como é que vais para a Escola Lumen?
 + Onde é que almoças normalmente?
 + Quantas turmas tens este semestre?
 + Quando é que acabas as aulas?

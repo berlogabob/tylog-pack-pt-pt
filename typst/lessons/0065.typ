@@ -8,7 +8,7 @@
 Формат из PLAN.md: одна строка на ошибку, четыре поля. Не «тема», а конкретная фраза, как вы её сказали.
 
 
-#sheet("data       | a minha forma              | forma correta                | exemplo novo\n2026-09-02 | *tenho trabalhado com Unity (1 vez) | já trabalhei com Unity | Já usei o Godot num projeto.\n2026-09-02 | *em duas semanas           | daqui a duas semanas         | Daqui a um mês gravamos.\n2026-09-02 | *vou ir ao IADE            | vou ao IADE                  | Amanhã vou à secretaria.")
+#sheet("data       | a minha forma              | forma correta                | exemplo novo\n2026-09-02 | *tenho trabalhado com Unity (1 vez) | já trabalhei com Unity | Já usei o Godot num projeto.\n2026-09-02 | *em duas semanas           | daqui a duas semanas         | Daqui a um mês gravamos.\n2026-09-02 | *vou ir à Escola Lumen     | vou à Escola Lumen           | Amanhã vou à secretaria.")
 
 Правила: 1) записывать в день ошибки, не «потом»; 2) новый пример — свой, не из урока; 3) ошибка считается закрытой после трёх правильных употреблений в речи в разные дни; 4) раз в неделю — отложенный тест по строкам старше семи дней. Ошибки, которые вернулись после закрытия, — «устойчивые»; их у вас должно быть не больше пяти в работе одновременно.
 
@@ -22,12 +22,12 @@
   table.header([\#], [Ошибка], [Неправильно → правильно], [Почему]),
   [1], [#pt[ser / estar]], [\*Sou cansado. → Estou cansado. \*O projetor é avariado. → O projetor está avariado. \*Está professor. → É professor.], [Состояние и место — #pt[estar]; постоянный признак, профессия — #pt[ser]. В русском глагола нет, отсюда наугад.],
   [2], [Пропуск артикля], [\*Sofia chegou. → A Sofia chegou. \*Meu projeto está pronto. → O meu projeto está pronto. \*Alunos entregaram. → Os alunos entregaram.], [В PT-PT артикль перед именами людей и перед притяжательными обязателен.],
-  [3], [Слияния #pt[no / do / ao]], [\*em o IADE → no IADE; \*de o Rui → do Rui; \*a o laboratório → ao laboratório; \*a a Sofia → à Sofia.], [#pt[em, de, a, por] + артикль всегда сливаются.],
+  [3], [Слияния #pt[no / do / ao]], [\*em a Escola Lumen → na Escola Lumen; \*de o Rui → do Rui; \*a o laboratório → ao laboratório; \*a a Sofia → à Sofia.], [#pt[em, de, a, por] + артикль всегда сливаются.],
   [4], [Место местоимения], [\*Me chamo Alex. → Chamo-me Alex. \*Não chamo-me… → Não me chamo… \*Já o disse-lhe. → Já lhe disse.], [По умолчанию энклиза; после #pt[não, já, nunca, que, quem, também, só] — проклиза.],
   [5], [Род #pt[-agem / -ção / -ema]], [\*o mensagem → a mensagem; \*o linguagem → a linguagem; \*o programação → a programação; \*a problema → o problema; \*a sistema → o sistema; \*a tema → o tema.], [#pt[-agem, -ção] — женский; #pt[-ema, -ama] греческого происхождения — мужской.],
   [6], [#pt[ter / haver]], [\*Tem um problema com o projetor. (есть проблема) → Há um problema com o projetor. \*Em mim há dois cabos HDMI. (калька с «у меня есть») → Tenho dois cabos HDMI.], [Существование «есть» — #pt[há]; обладание — #pt[ter]. Бразильское #pt[tem] = «есть» в PT-PT звучит чужеродно.],
   [7], [Ложные друзья], [pasta = папка (не паста → massa); esquisito = странный (не изысканный → requintado); propina = плата за обучение (не взятка → suborno); prenda = подарок; aula = занятие, урок (не аудитория → sala de aula).], [Внешнее сходство с русским или английским.],
-  [8], [Предлог после глагола], [\*Gosto o Godot. → Gosto do Godot. \*Preciso um cabo. → Preciso de um cabo. \*Cheguei em Lisboa. → Cheguei a Lisboa. Vou ao IADE (и вернусь) / Vou para Lisboa (надолго).], [#pt[gostar de, precisar de, chegar a, ir a / para] — учить глагол вместе с предлогом.],
+  [8], [Предлог после глагола], [\*Gosto o Godot. → Gosto do Godot. \*Preciso um cabo. → Preciso de um cabo. \*Cheguei em Lisboa. → Cheguei a Lisboa. Vou à Escola Lumen (и вернусь) / Vou para Lisboa (надолго).], [#pt[gostar de, precisar de, chegar a, ir a / para] — учить глагол вместе с предлогом.],
   [9], [#pt[ter de / ter que]], [\*Tenho a entregar o plano. → Tenho de entregar o plano. \*Devo entregar hoje (= «должен» по расписанию). → Tenho de entregar hoje.], [Обязанность — #pt[ter de] (PT-PT) / #pt[ter que]; #pt[dever] — моральный долг или предположение.],
   [10], [Порядок слов в вопросе], [\*Onde tu moras? → Onde moras? / Onde é que moras? \*Quando a aula é? → Quando é a aula? \*O que tu fazes? → O que fazes? / O que é que fazes?], [Вопросительное слово + глагол; #pt[é que] — нейтральный разговорный вариант PT-PT.],
   [11], [#pt[estar a] + infinitivo, не герундий], [\*Estou trabalhando. → Estou a trabalhar. \*Estamos gravando. → Estamos a gravar.], [Герундий-прогрессив — бразильский; в PT-PT только #pt[estar a + infinitivo].],
@@ -35,7 +35,7 @@
 )
 
 #exercise([Упражнение A — свой пример на каждую строку (12 фраз вслух, затем записать)], [
-Модель: #pt[1 — Hoje estou cansado, mas sou professor e tenho de dar aula.] Фраза должна быть о вас, IADE, играх или музыке.
+Модель: #pt[1 — Hoje estou cansado, mas sou professor e tenho de dar aula.] Фраза должна быть о вас, Escola Lumen, играх или музыке.
 
 ])
 
@@ -89,12 +89,12 @@
 
 + Corrige: A aula é cancelada porque o professor é doente.
 + Corrige: Rui e Sofia estão no meu gabinete.
-+ Corrige: Vou em o IADE de comboio.
++ Corrige: Vou em a Escola Lumen de comboio.
 + Corrige: Não sinto-me bem hoje.
 + Corrige: Recebi um mensagem sobre a problema do horário.
 + Corrige: Tem três salas livres no segundo piso.
 + Переведите: Я положил файл в папку «Aulas».
-+ Переведите: Плата за обучение в IADE высокая.
++ Переведите: Плата за обучение в Escola Lumen высокая.
 + Corrige: Gosto muito o Godot, mas preciso o Unity para este projeto.
 + Corrige: Cheguei em Lisboa há dois anos e fui para a secretaria.
 + Corrige: Tenho que a entregar o plano hoje.
@@ -103,7 +103,7 @@
 + Corrige: O jogo funciona muito; gosto bem dele.
 + Переведите: Это странный звук из усилителя.
 + Переведите: Я подарил Софии подарок — барабанные палочки.
-+ Corrige: Sofia está professora no IADE e é cansada.
++ Corrige: Sofia está professora na Escola Lumen e é cansada.
 + Corrige: Já disse-lhe que a sistema não funciona.
 + Переведите: Занятие в 14:00, а не аудитория.
 + Corrige: Ela é muita boa baterista e toca muito.
@@ -154,7 +154,7 @@
 
 ]),
   ([Ответы], [
-1 A aula está cancelada porque o professor está doente. 2 O Rui e a Sofia estão no meu gabinete. 3 Vou ao IADE de comboio. 4 Não me sinto bem hoje. 5 Recebi uma mensagem sobre o problema do horário. 6 Há três salas livres no segundo piso. 7 Pus o ficheiro na pasta «Aulas». 8 A propina no IADE é alta. 9 Gosto muito do Godot, mas preciso do Unity para este projeto. 10 Cheguei a Lisboa há dois anos e fui à secretaria. 11 Tenho de entregar o plano hoje. 12 Onde guardas os ficheiros? / Onde é que guardas os ficheiros? 13 Os alunos estão a trabalhar no projeto. 14 O jogo funciona bem; gosto muito dele. 15 É um som esquisito do amplificador. 16 Dei uma prenda à Sofia: umas baquetas. 17 A Sofia é professora no IADE e está cansada. 18 Já lhe disse que o sistema não funciona. 19 A aula é às catorze, não a sala de aula. 20 Ela é muito boa baterista e toca bem.
+1 A aula está cancelada porque o professor está doente. 2 O Rui e a Sofia estão no meu gabinete. 3 Vou à Escola Lumen de comboio. 4 Não me sinto bem hoje. 5 Recebi uma mensagem sobre o problema do horário. 6 Há três salas livres no segundo piso. 7 Pus o ficheiro na pasta «Aulas». 8 A propina na Escola Lumen é alta. 9 Gosto muito do Godot, mas preciso do Unity para este projeto. 10 Cheguei a Lisboa há dois anos e fui à secretaria. 11 Tenho de entregar o plano hoje. 12 Onde guardas os ficheiros? / Onde é que guardas os ficheiros? 13 Os alunos estão a trabalhar no projeto. 14 O jogo funciona bem; gosto muito dele. 15 É um som esquisito do amplificador. 16 Dei uma prenda à Sofia: umas baquetas. 17 A Sofia é professora na Escola Lumen e está cansada. 18 Já lhe disse que o sistema não funciona. 19 A aula é às catorze, não a sala de aula. 20 Ela é muito boa baterista e toca bem.
 
 ]),
 

@@ -3,7 +3,7 @@
 
 == Сессия 1 — язык и форма  #pill("30 минут")
 
-=== 1. Диалог — в секретариате IADE
+=== 1. Диалог — в секретариате Escola Lumen
 
 #card("Результат урока", [
 #checklist-items(([образовывать императив #pt[tu] (#pt[fala, come, faz, diz]) и его отрицание (#pt[não fales, não faças]);], [образовывать вежливый императив #pt[o senhor / a senhora / você] (#pt[fale, faça, diga, desculpe]) и множественное #pt[vocês];], [ставить местоимение: #pt[Diz-me / Não me digas; Envie-me / Não se esqueça];], [смягчать просьбу: #pt[Podes…? Podia…? Importa-se de…? Era possível…?];], [отвечать на просьбу: #pt[Com certeza. Com todo o gosto. Lamento, mas…]],))

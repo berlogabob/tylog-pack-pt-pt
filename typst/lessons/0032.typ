@@ -86,7 +86,7 @@
 + Enquanto a Sofia (desenhar) \_\_\_, o Rui (programar) \_\_\_.
 + Na semana passada (eu, comprar) \_\_\_ baquetas novas.
 + O Alex (estar) \_\_\_ a dar aula quando os alunos (começar) \_\_\_ a rir.
-+ Nessa altura, o IADE (ficar) \_\_\_ noutro edifício.
++ Nessa altura, a Escola Lumen (ficar) \_\_\_ noutro edifício.
 + Primeiro (eu, ligar) \_\_\_ o computador, depois (abrir) \_\_\_ o projeto.
 ])
 

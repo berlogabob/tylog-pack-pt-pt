@@ -189,7 +189,7 @@
 
 === 2. Мини-роль
 
-Вы приходите в секретариат IADE. Поздоровайтесь, сообщите о двух проблемах в аудитории (#pt[Há um problema com…]), скажите, что у вас есть и чего нет, спросите, есть ли свободная аудитория, поблагодарите. Минимум четыре #pt[há] и четыре формы #pt[ter]. Запишите 60–90 секунд одним дублем.
+Вы приходите в секретариат Escola Lumen. Поздоровайтесь, сообщите о двух проблемах в аудитории (#pt[Há um problema com…]), скажите, что у вас есть и чего нет, спросите, есть ли свободная аудитория, поблагодарите. Минимум четыре #pt[há] и четыре формы #pt[ter]. Запишите 60–90 секунд одним дублем.
 
 
 === 3. Письмо
@@ -249,7 +249,7 @@ Há um problema com o computador: não liga. Há um problema com o rato: não fu
 
 ]),
   ([Опора — открыть только если застряли], [
-Bom dia. Sou o Alex, professor no IADE. Tenho aula às dez na sala 12 com vinte alunos. Há um problema com o projetor: não tem imagem. Também não há cabo HDMI e não há rede. Há uma sala livre? Não tenho a chave da sala 14. Obrigado. Alex
+Bom dia. Sou o Alex, professor na Escola Lumen. Tenho aula às dez na sala 12 com vinte alunos. Há um problema com o projetor: não tem imagem. Também não há cabo HDMI e não há rede. Há uma sala livre? Não tenho a chave da sala 14. Obrigado. Alex
 
 ]),
 

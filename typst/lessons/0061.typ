@@ -1,5 +1,5 @@
 #import "../course.typ": *
-#show: lesson.with((n: 61, week: 11, day: 1, title: [Planos e futuro], lead: [#pt[Futuro simples] и #pt[ir + infinitivo]; #pt[tenciono, espero, vou tentar]; план на семестр в IADE.]))
+#show: lesson.with((n: 61, week: 11, day: 1, title: [Planos e futuro], lead: [#pt[Futuro simples] и #pt[ir + infinitivo]; #pt[tenciono, espero, vou tentar]; план на семестр в Escola Lumen.]))
 
 == Сессия 1 — язык и форма  #pill("30 минут")
 
@@ -24,7 +24,7 @@
   ("Alex", "Será em grupo. Cada equipa terá de entregar um protótipo jogável até ao fim de dezembro."),
   ("Sofia", "Isso é ambicioso. Vais ter tempo para corrigir tudo?"),
   ("Alex", "Não sei, mas vou organizar as entregas por fases. Assim não fico com tudo no último dia."),
-  ("Sofia", "Boa ideia. E fora do IADE? Continuas com a banda?"),
+  ("Sofia", "Boa ideia. E fora da Escola Lumen? Continuas com a banda?"),
   ("Alex", "Sim, em outubro vamos gravar três músicas novas. Se tudo correr bem, tocaremos ao vivo em novembro."),
   ("Sofia", "Então diz-me a data. Eu irei de certeza."),
   ("Alex", "Combinado. Aviso-te quando souber."),
@@ -75,7 +75,7 @@
   [Предположение о настоящем («интересно, …», «наверное»)], [futuro simples], [Será que a sala está livre? Onde estará o Rui?],
 )
 
-#strong[Три ловушки.] 1) #pt[\*vou ir] не говорят: #pt[Vou ao IADE amanhã] или #pt[Irei ao IADE]. 2) «Через две недели» — #pt[daqui a duas semanas], а не #pt[\*em duas semanas] (это «за две недели»). 3) Не смешивать в одной фразе: #pt[Vou entregar o plano e falarei…] звучит странно; в речи держитесь #pt[ir + infinitivo], в письме — #pt[futuro simples].
+#strong[Три ловушки.] 1) #pt[\*vou ir] не говорят: #pt[Vou à Escola Lumen amanhã] или #pt[Irei à Escola Lumen]. 2) «Через две недели» — #pt[daqui a duas semanas], а не #pt[\*em duas semanas] (это «за две недели»). 3) Не смешивать в одной фразе: #pt[Vou entregar o plano e falarei…] звучит странно; в речи держитесь #pt[ir + infinitivo], в письме — #pt[futuro simples].
 
 
 === 5. Намерение, надежда, попытка
@@ -109,7 +109,7 @@
 + (обещание в письме) \_\_\_ (eu, dizer) a data assim que a souber.
 + (разговор, отрицание) Este ano não \_\_\_ (nós, usar) o Unity.
 + (условие, письменно) Se tudo correr bem, \_\_\_ (nós, gravar) em outubro.
-+ (разговор) \_\_\_ (tu, estar) no IADE à tarde?
++ (разговор) \_\_\_ (tu, estar) na Escola Lumen à tarde?
 + (объявление) O novo laboratório \_\_\_ (abrir) em janeiro.
 ])
 

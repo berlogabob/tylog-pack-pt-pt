@@ -155,7 +155,7 @@
 
 #h(0pt)6. pude, pudeste, pôde; quis, quiseste, quis.
 
-#h(0pt)7. Например: ontem, anteontem, há dois dias, na semana passada, no mês passado, no sábado passado — Ontem trabalhei em casa. Anteontem almocei no IADE. Há dois dias comprei baquetas. Na semana passada tive muito trabalho. No mês passado fui ao Porto. No sábado passado ensaiámos.
+#h(0pt)7. Например: ontem, anteontem, há dois dias, na semana passada, no mês passado, no sábado passado — Ontem trabalhei em casa. Anteontem almocei na Escola Lumen. Há dois dias comprei baquetas. Na semana passada tive muito trabalho. No mês passado fui ao Porto. No sábado passado ensaiámos.
 
 #h(0pt)8. Primeiro fui ao mercado, depois passei pela mercearia, a seguir almocei, mais tarde ensaiei e por fim preparei as aulas.
 
@@ -188,9 +188,9 @@ O fim de semana passado foi bom, mas cansativo. No sábado de manhã levantei-me
 
 ]),
   ([Модель — открыть после проверки по списку], [
-Olá, Inês! Como correu o teu fim de semana? O meu foi cheio. No sábado de manhã fui ao mercado e ao talho: comprei fruta, meio quilo de carne e pão. Depois fui aos correios e enviei uma encomenda para o meu irmão em Moscovo. Custou catorze euros e vinte. À tarde comprei duas peles novas para a bateria na loja de música, por sessenta e cinco euros. Foi caro, mas paguei com multibanco e guardei o talão. À noite fui com o Rui a um concerto de jazz em Belém. Foi ótimo! No domingo não fiz nada de especial: descansei e preparei as aulas. E tu, o que fizeste? Compraste alguma coisa? Até amanhã no IADE. Alex
+Olá, Inês! Como correu o teu fim de semana? O meu foi cheio. No sábado de manhã fui ao mercado e ao talho: comprei fruta, meio quilo de carne e pão. Depois fui aos correios e enviei uma encomenda para o meu irmão em Moscovo. Custou catorze euros e vinte. À tarde comprei duas peles novas para a bateria na loja de música, por sessenta e cinco euros. Foi caro, mas paguei com multibanco e guardei o talão. À noite fui com o Rui a um concerto de jazz em Belém. Foi ótimo! No domingo não fiz nada de especial: descansei e preparei as aulas. E tu, o que fizeste? Compraste alguma coisa? Até amanhã na Escola Lumen. Alex
 
-В модели 118 слов, 18 форм прошедшего, из них 8 неправильных (#pt[fui, foi, fiz, fizeste]).
+В модели 119 слов, 18 форм прошедшего, из них 8 неправильных (#pt[fui, foi, fiz, fizeste]).
 
 ]),
 

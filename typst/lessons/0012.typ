@@ -52,7 +52,7 @@
 === 1. Я
 
 + имя, откуда, где живёте (#pt[Chamo-me…, sou de…, vivo em…]);
-+ профессия и место (#pt[Sou… no IADE]);
++ профессия и место (#pt[Sou… na Escola Lumen]);
 + возраст (#pt[Tenho … anos]);
 + внешность: две детали через #pt[ser] и две через #pt[ter];
 + характер (две черты) и как чувствуете себя сегодня (#pt[Hoje estou…]).
@@ -120,7 +120,7 @@
 
 #h(0pt)4. Например: O Alex é professor / está cansado. A sala é grande / está fria hoje. O Rui é calmo / está nervoso.
 
-#h(0pt)5. no, na, nos, nas — no IADE, na sala, nos estúdios, nas mesas; do, da, dos, das — o rato do computador, as baquetas da Sofia, os papéis dos alunos, a chave das salas.
+#h(0pt)5. no, na, nos, nas — na Escola Lumen, na sala, nos estúdios, nas mesas; do, da, dos, das — o rato do computador, as baquetas da Sofia, os papéis dos alunos, a chave das salas.
 
 #h(0pt)6. este, esta, estes, estas; esse, essa, esses, essas; aquele, aquela, aqueles, aquelas; isto, isso, aquilo.
 
@@ -176,7 +176,7 @@
 
 ]),
   ([Модель — открыть после записи], [
-Chamo-me Alex. Sou russo, de Moscovo, e vivo em Lisboa. Sou professor de programação de jogos no IADE. Tenho trinta e cinco anos. Sou alto e magro; tenho cabelo castanho e barba. Sou calmo e trabalhador. Hoje estou um pouco cansado.
+Chamo-me Alex. Sou russo, de Moscovo, e vivo em Lisboa. Sou professor de programação de jogos na Escola Lumen. Tenho trinta e cinco anos. Sou alto e magro; tenho cabelo castanho e barba. Sou calmo e trabalhador. Hoje estou um pouco cansado.
 
 Esta é a minha sala. É pequena, mas clara. As paredes são brancas e o chão é castanho. Esta mesa é nova e grande; aquela estante é velha. As cadeiras são azuis. Os pratos da bateria são grandes e pesados. Há um portátil e há cabos no armário, mas não há projetor. Gosto muito desta sala.
 

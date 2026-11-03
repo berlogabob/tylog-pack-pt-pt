@@ -26,7 +26,7 @@
 + Compro pratos novos quando \_\_\_ dinheiro. (блок)
 + Ligo-te quando \_\_\_.
 + Se \_\_\_ dúvidas, pergunta ao professor. (tu)
-+ Falo com a Sofia quando \_\_\_ ao IADE.
++ Falo com a Sofia quando \_\_\_ à Escola Lumen.
 + O Godot é \_\_\_ leve \_\_\_ o Unity. (легче)
 + A documentação do Godot é \_\_\_ clara \_\_\_ a do Unity. (такая же)
 + Corrija: O Unity é mais bom para 3D.
@@ -120,7 +120,7 @@
 
 #h(0pt)5. Например: Embora tenha muitas aulas, acabo o protótipo. Embora o projetor esteja velho, funciona. Embora os alunos sejam bons, não leem a documentação.
 
-#h(0pt)6. quando puder — Ligo-te quando puder; quando for — Falo com ele quando for ao IADE; quando tiver — Compro pratos quando tiver dinheiro; se tiver — Se tiver tempo, venho; se puder — Se puder, chego mais cedo.
+#h(0pt)6. quando puder — Ligo-te quando puder; quando for — Falo com ele quando for à Escola Lumen; quando tiver — Compro pratos quando tiver dinheiro; se tiver — Se tiver tempo, venho; se puder — Se puder, chego mais cedo.
 
 #h(0pt)7. Se não percebes, pergunta (правило «сейчас/всегда» — presente). Se tiver dúvidas amanhã, escrevo-te (будущее — блок).
 
@@ -158,7 +158,7 @@
 
 ]),
   ([Модель — открыть после записи], [
-Na minha opinião, as aulas de programação de jogos no IADE devem ser em português, mas com os materiais em inglês. Em primeiro lugar, os alunos percebem melhor uma explicação na língua deles. Quando explico um ciclo de jogo em português, vejo nas caras que perceberam; em inglês, metade fica calada e não pergunta. Em segundo lugar, a documentação, os tutoriais e os fóruns são todos em inglês, por isso os alunos precisam de ler inglês técnico desde o primeiro dia. Por exemplo, no semestre passado dei a aula em português e pedi um resumo de dez páginas da documentação do Godot em inglês. No fim, todos os grupos conseguiram ler a documentação sozinhos. Alguns colegas dizem que a indústria fala inglês e que a aula devia ser toda em inglês. Têm razão em parte, mas a aula não é a indústria: é o sítio onde se pode errar e perguntar. Embora o inglês seja essencial, um aluno do primeiro ano não aprende dois assuntos difíceis ao mesmo tempo. Além disso, os alunos estrangeiros, como eu, têm de falar português: é assim que se integram. Em conclusão, explicação em português, materiais em inglês e código com nomes em inglês. Assim, quando um aluno for trabalhar, já está preparado.
+Na minha opinião, as aulas de programação de jogos na Escola Lumen devem ser em português, mas com os materiais em inglês. Em primeiro lugar, os alunos percebem melhor uma explicação na língua deles. Quando explico um ciclo de jogo em português, vejo nas caras que perceberam; em inglês, metade fica calada e não pergunta. Em segundo lugar, a documentação, os tutoriais e os fóruns são todos em inglês, por isso os alunos precisam de ler inglês técnico desde o primeiro dia. Por exemplo, no semestre passado dei a aula em português e pedi um resumo de dez páginas da documentação do Godot em inglês. No fim, todos os grupos conseguiram ler a documentação sozinhos. Alguns colegas dizem que a indústria fala inglês e que a aula devia ser toda em inglês. Têm razão em parte, mas a aula não é a indústria: é o sítio onde se pode errar e perguntar. Embora o inglês seja essencial, um aluno do primeiro ano não aprende dois assuntos difíceis ao mesmo tempo. Além disso, os alunos estrangeiros, como eu, têm de falar português: é assim que se integram. Em conclusão, explicação em português, materiais em inglês e código com nomes em inglês. Assim, quando um aluno for trabalhar, já está preparado.
 
 ]),
   ([Модель — открыть после самооценки], [

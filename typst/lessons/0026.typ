@@ -91,7 +91,7 @@
 
 
 #exercise([Упражнение A — вставьте форму неправильного глагола], [
-+ Ontem eu (ir) \_\_\_ ao IADE de comboio.
++ Ontem eu (ir) \_\_\_ à Escola Lumen de comboio.
 + Tu (ter) \_\_\_ aula de manhã?
 + O concerto (ser) \_\_\_ muito bom.
 + Nós (estar) \_\_\_ no estúdio até às oito.
@@ -113,7 +113,7 @@
 ])
 
 #exercise([Упражнение C — из настоящего в прошедшее], [
-+ Como no IADE. (ontem)
++ Como na Escola Lumen. (ontem)
 + Escreves o plano da aula. (anteontem)
 + Vamos ao concerto. (no sábado)
 + Tenho muito trabalho. (na semana passada)
@@ -126,7 +126,7 @@
 ])
 
 #exercise([Упражнение D — переведите], [
-+ Вчера я был в IADE до семи.
++ Вчера я был в Escola Lumen до семи.
 + Ты ходил на концерт в субботу?
 + Мы не смогли поехать в Порту.
 + Студенты сделали хорошую игру.
@@ -148,7 +148,7 @@
 #audio-ref("0026-audio2")
 
 #dialogue((
-  ("Sofia", "No mês passado fui ao Porto com dois colegas do IADE. Fomos de comboio e a viagem foi rápida, menos de três horas. Estivemos lá dois dias. No primeiro dia tivemos uma reunião na universidade e à noite fomos a um concerto de jazz. O baterista foi fantástico. No segundo dia não pudemos visitar o museu, porque fechou cedo, mas fizemos um passeio junto ao rio. Quis comprar um livro sobre música portuguesa, mas não tive tempo. Voltámos no domingo à noite, muito cansados."),
+  ("Sofia", "No mês passado fui ao Porto com dois colegas da Escola Lumen. Fomos de comboio e a viagem foi rápida, menos de três horas. Estivemos lá dois dias. No primeiro dia tivemos uma reunião na universidade e à noite fomos a um concerto de jazz. O baterista foi fantástico. No segundo dia não pudemos visitar o museu, porque fechou cedo, mas fizemos um passeio junto ao rio. Quis comprar um livro sobre música portuguesa, mas não tive tempo. Voltámos no domingo à noite, muito cansados."),
 ))
 
 Первый проход: тема и 3 факта. Второй: с текстом, подчеркните все формы #pt[ser/ir] и решите, где «быть», где «ехать». Третий: без текста перескажите в 5 фразах от третьего лица (#pt[A Sofia foi…]).
@@ -173,7 +173,7 @@
 
 === 1. Подстановочная речь
 
-- Ontem fui #strong[ao IADE / ao estúdio / a um concerto].
+- Ontem fui #strong[à Escola Lumen / ao estúdio / a um concerto].
 - Tive #strong[uma reunião / três aulas / muito trabalho].
 - Estive #strong[em casa / no estúdio / com o Rui] até às #strong[oito].
 - Fiz #strong[um jogo / um solo / o jantar].
@@ -234,19 +234,19 @@ ir; ser; ir; ser; ser; ir.
 
 ]),
   ([Упражнение C — из настоящего в прошедшее], [
-Ontem comi no IADE. / Anteontem escreveste o plano da aula. / No sábado fomos ao concerto. / Na semana passada tive muito trabalho. / Ontem à noite estive em casa. / No mês passado fizemos um jogo novo. / Ontem não pudeste vir. / No domingo eles quiseram tocar às nove. / Hoje abri o estúdio às oito. / Há dois dias lemos o artigo.
+Ontem comi na Escola Lumen. / Anteontem escreveste o plano da aula. / No sábado fomos ao concerto. / Na semana passada tive muito trabalho. / Ontem à noite estive em casa. / No mês passado fizemos um jogo novo. / Ontem não pudeste vir. / No domingo eles quiseram tocar às nove. / Hoje abri o estúdio às oito. / Há dois dias lemos o artigo.
 
 ]),
   ([Упражнение D — переведите], [
-Ontem estive no IADE até às sete. / Foste ao concerto no sábado? / Não pudemos ir ao Porto. / Os alunos fizeram um bom jogo. / Tive muito trabalho na semana passada. / Ela quis comprar um bilhete, mas não pôde. / O concerto foi ótimo. / Comi na cantina e escrevi dois e-mails.
+Ontem estive na Escola Lumen até às sete. / Foste ao concerto no sábado? / Não pudemos ir ao Porto. / Os alunos fizeram um bom jogo. / Tive muito trabalho na semana passada. / Ela quis comprar um bilhete, mas não pôde. / O concerto foi ótimo. / Comi na cantina e escrevi dois e-mails.
 
 ]),
   ([Проверка понимания (по монологу Sofia)], [
-с двумя коллегами из IADE; на поезде (#pt[comboio]); меньше трёх часов; встреча в университете и джазовый концерт; музей закрылся рано; книгу о португальской музыке.
+с двумя коллегами из Escola Lumen; на поезде (#pt[comboio]); меньше трёх часов; встреча в университете и джазовый концерт; музей закрылся рано; книгу о португальской музыке.
 
 ]),
   ([Возможные ответы], [
-Fui ao IADE. / Tive quatro aulas. / Estive em casa, sim. / Fiz o jantar e vi um filme. / Pude descansar no domingo. / Quis ir a um concerto, mas não pude.
+Fui à Escola Lumen. / Tive quatro aulas. / Estive em casa, sim. / Fiz o jantar e vi um filme. / Pude descansar no domingo. / Quis ir a um concerto, mas não pude.
 
 ]),
   ([Опора — открыть только если застряли], [
