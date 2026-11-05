@@ -15,7 +15,7 @@ from typ import ANSWER_RE, N, Tree, esc, safe_start, sesc  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PACK_ID = "pt-pt-a2b1"
-VERSION = "1.3.0"
+VERSION = "1.3.1"
 PROJECT = "Português"
 LESSONS_PER_WEEK = 6  # day 7 of each week is rest
 
