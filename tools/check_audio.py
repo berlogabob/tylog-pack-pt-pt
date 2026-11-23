@@ -25,9 +25,22 @@ def blocks(path):
         yield a, [(s, t) for s, t in lines if t]
 
 
+NUM = set("""zero um uma dois duas tres quatro cinco seis sete oito nove dez onze doze treze catorze
+quatorze quinze dezasseis dezassete dezoito dezanove vinte trinta quarenta cinquenta sessenta setenta
+oitenta noventa cem cento duzentos trezentos quatrocentos quinhentos seiscentos setecentos oitocentos
+novecentos mil e""".split())
+SAME = {"sr": "senhor", "sra": "senhora", "registro": "registo", "aluguel": "aluguer"}
+
+
 def words(text):
-    text = unicodedata.normalize("NFC", text.lower())
-    return re.findall(r"[\w']+", text)
+    """Comparable words. Whisper writes numbers as digits ("17h30"), drops accents its own way
+    and expands 'tou -> estou, so none of that says anything about the audio.
+    ponytail: numbers (and "e") are dropped on both sides, so a wrong number is not caught;
+    convert digits with num2words if that ever matters."""
+    text = unicodedata.normalize("NFD", text.lower())
+    text = "".join(c for c in text if not unicodedata.combining(c))
+    out = [SAME.get(w, w) for w in re.findall(r"[\w']+", re.sub(r"'t(?=\w)", "est", text))]
+    return [w for w in out if w not in NUM and not any(c.isdigit() for c in w)]
 
 
 def accuracy(expected, heard):
@@ -75,4 +88,6 @@ def main(args):
 
 if __name__ == "__main__":
     assert accuracy("Olá, bom dia!", "olá bom dia") == 1.0
+    assert accuracy("'Tou às dezassete e trinta, senhor.", "Estou as 17h30, Sr.") == 1.0
+    assert accuracy("Bom dia a todos", "Boa noite a todos") < 0.9
     main(sys.argv[1:])

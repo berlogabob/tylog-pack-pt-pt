@@ -14,6 +14,7 @@ from check_audio import OUT, ROOT, blocks  # noqa: E402
 URL = os.environ.get("STUDIO_URL", "http://desktop-vdsrh2e:8888")
 VOICE_NAMES = ("tugao1", "tugao2")
 MODEL = "audio-cpp/audio.cpp-gguf/Chatterbox-GGUF"
+SPOKEN = {"SNS 24": "ésse éne ésse vinte e quatro"}  # the model reads abbreviations as nonsense
 
 
 def key():
@@ -72,6 +73,8 @@ def build(voices, name, lines):
     with tempfile.TemporaryDirectory() as tmp:
         parts, params = [], None
         for s, text in lines:
+            for written, said in SPOKEN.items():
+                text = text.replace(written, said)
             for piece in chunks(text):
                 params, pcm = speak(piece, voices[speakers.index(s) % len(voices)], tmp)
                 parts += [pcm, bytes(int(params.framerate * 0.15) * params.sampwidth)]
